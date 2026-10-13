@@ -1,0 +1,3899 @@
+city,state,latitude,longitude,source
+Airdrie,AB,51.300110,-114.035280,geonames
+Brooks,AB,50.583410,-111.885090,geonames
+Calgary,AB,51.050110,-114.085290,geonames
+Edmonton,AB,53.550140,-113.468710,geonames
+Edson,AB,53.583450,-116.435590,geonames
+Fort Mcmurray,AB,56.726760,-111.381030,geonames
+Fort Saskatchewan,AB,53.698140,-113.213820,geonames
+Grande Prairie,AB,55.166670,-118.802710,geonames
+Hanna,AB,51.633430,-111.901810,geonames
+Hinton,AB,53.400090,-117.585670,geonames
+Lethbridge,AB,49.699990,-112.818560,geonames
+Lloydminster,AB,53.272370,-110.022560,geonames
+Medicine Hat,AB,50.039280,-110.676610,geonames
+Nanton,AB,50.350080,-113.768660,geonames
+Nisku,AB,53.333430,-113.535310,geonames
+Red Deer,AB,52.266820,-113.802000,geonames
+Sherwood Park,AB,53.516840,-113.318700,geonames
+Valleyview,AB,55.066730,-117.285850,geonames
+Whitecourt,AB,54.150150,-115.685480,geonames
+Abbeville,AL,31.565164,-85.259165,census_place
+Alabaster,AL,33.214355,-86.823080,census_place
+Altoona,AL,34.040014,-86.305179,census_place
+Andalusia,AL,31.309436,-86.478031,census_place
+Ashford,AL,31.185284,-85.236236,census_place
+Atmore,AL,31.124067,-87.457798,census_place
+Bessemer,AL,33.370890,-86.972193,census_place
+Birmingham,AL,33.527174,-86.797036,census_place
+Boaz,AL,34.199790,-86.153290,census_place
+Brent,AL,32.944950,-87.172086,census_place
+Brewton,AL,31.109175,-87.076583,census_place
+Brundidge,AL,31.717639,-85.817550,census_place
+Calera,AL,33.123892,-86.745931,census_place
+Centre,AL,34.153059,-85.671683,census_place
+Childersburg,AL,33.292558,-86.340864,census_place
+Clanton,AL,32.845572,-86.619494,census_place
+Cottondale,AL,33.198843,-87.453620,census_place
+Courtland,AL,34.669946,-87.327892,census_place
+Creola,AL,30.874209,-88.009818,census_place
+Cullman,AL,34.176870,-86.840656,census_place
+Cusseta,AL,32.787637,-85.305769,census_place
+Daleville,AL,31.291534,-85.711711,census_place
+Decatur,AL,34.572995,-86.989901,census_place
+Demopolis,AL,32.499936,-87.826922,census_place
+Dothan,AL,31.233698,-85.406823,census_place
+Eastaboga,AL,33.605940,-86.021360,geonames
+Enterprise,AL,31.325529,-85.846071,census_place
+Eutaw,AL,32.846247,-87.900332,census_place
+Evergreen,AL,31.433216,-86.976081,census_place
+Fackler,AL,34.792580,-85.909980,geonames
+Falkville,AL,34.377019,-86.909547,census_place
+Foley,AL,30.397071,-87.668458,census_place
+Fort Payne,AL,34.457240,-85.689474,census_place
+Gadsden,AL,34.006597,-86.016078,census_place
+Gordon,AL,31.143606,-85.092504,census_place
+Grand Bay,AL,30.472082,-88.344401,census_place
+Grove Hill,AL,31.698670,-87.772868,census_place
+Hamilton,AL,34.138713,-87.970833,census_place
+Hanceville,AL,34.064010,-86.764436,census_place
+Hartford,AL,31.105348,-85.691225,census_place
+Headland,AL,31.354974,-85.357031,census_place
+Heflin,AL,33.647400,-85.569339,census_place
+Hope Hull,AL,32.269860,-86.357190,geonames
+Huntsville,AL,34.688740,-86.675075,census_place
+Irvington,AL,30.506860,-88.233890,geonames
+Jackson,AL,31.532321,-87.891183,census_place
+Jasper,AL,33.851110,-87.268348,census_place
+Jemison,AL,32.970705,-86.733070,census_place
+Knoxville,AL,32.992350,-87.790570,geonames
+Lincoln,AL,33.580169,-86.127876,census_place
+Lineville,AL,33.312832,-85.752278,census_place
+Livingston,AL,32.595549,-88.186929,census_place
+Loxley,AL,30.678931,-87.740873,census_place
+Lynn,AL,34.057553,-87.548776,census_place
+Madison,AL,34.710533,-86.762280,census_place
+Maplesville,AL,32.784391,-86.879694,census_place
+Mc Calla,AL,33.303112,-87.026660,census_place
+Millbrook,AL,32.501475,-86.373914,census_place
+Mobile,AL,30.668246,-88.107853,census_place
+Monroeville,AL,31.516223,-87.327714,census_place
+Montgomery,AL,32.346251,-86.268593,census_place
+Moody,AL,33.603429,-86.493786,census_place
+Moulton,AL,34.488248,-87.282287,census_place
+Mount Vernon,AL,31.087727,-88.013166,census_place
+Northport,AL,33.257570,-87.596396,census_place
+Opelika,AL,32.660739,-85.378890,census_place
+Oxford,AL,33.596410,-85.868219,census_place
+Ozark,AL,31.451615,-85.645035,census_place
+Pelham,AL,33.331186,-86.730643,census_place
+Pell City,AL,33.560312,-86.263634,census_place
+Pennington,AL,32.203022,-88.039354,census_place
+Phenix City,AL,32.453878,-85.030947,census_place
+Prattville,AL,32.459935,-86.457778,census_place
+Robertsdale,AL,30.557402,-87.704966,census_place
+SAMSON,AL,31.112417,-86.046735,census_place
+Saraland,AL,30.852957,-88.107632,census_place
+Satsuma,AL,30.857874,-88.063383,census_place
+Scottsboro,AL,34.644620,-86.048155,census_place
+Selma,AL,32.416983,-87.035702,census_place
+Shorter,AL,32.411501,-85.972808,census_place
+Smiths Station,AL,32.525286,-85.099484,census_place
+Steele,AL,33.941378,-86.192107,census_place
+Sylacauga,AL,33.188670,-86.274799,census_place
+Theodore,AL,30.538686,-88.187573,census_place
+Thomasville,AL,31.915011,-87.737204,census_place
+Troy,AL,31.801960,-85.967130,census_place
+Tuscaloosa,AL,33.234404,-87.528300,census_place
+Tuscumbia,AL,34.718502,-87.702586,census_place
+Tuskegee,AL,32.418723,-85.682509,census_place
+Valley,AL,32.808779,-85.181146,census_place
+Vance,AL,33.173616,-87.226258,census_place
+Warrior,AL,33.814858,-86.815650,census_place
+Wetumpka,AL,32.542018,-86.205307,census_place
+Winfield,AL,33.934717,-87.791310,census_place
+Alma,AR,35.492702,-94.212097,census_place
+Arkadelphia,AR,34.127380,-93.070851,census_place
+Ashdown,AR,33.674529,-94.126627,census_place
+Atkins,AR,35.240787,-92.946618,census_place
+Bald Knob,AR,35.312539,-91.571253,census_place
+Batesville,AR,35.768572,-91.622652,census_place
+Beebe,AR,35.072433,-91.901059,census_place
+Benton,AR,34.577424,-92.572583,census_place
+Black Rock,AR,36.106237,-91.107480,census_place
+Blytheville,AR,35.934144,-89.905018,census_place
+Boles,AR,34.788119,-94.049397,census_place
+Brinkley,AR,34.889697,-91.189881,census_place
+Bryant,AR,34.617234,-92.489733,census_place
+Cabot,AR,34.975106,-92.028288,census_place
+Carlisle,AR,34.795425,-91.740494,census_place
+Cave City,AR,35.947801,-91.546977,census_place
+Clarksville,AR,35.453918,-93.481558,census_place
+Clinton,AR,35.578981,-92.455735,census_place
+Conway,AR,35.074774,-92.467402,census_place
+Corning,AR,36.413682,-90.583609,census_place
+Dumas,AR,33.883372,-91.485632,census_place
+Earle,AR,35.273379,-90.464304,census_place
+El Dorado,AR,33.218982,-92.664071,census_place
+Fayetteville,AR,36.071451,-94.166679,census_place
+Forrest City,AR,35.013599,-90.793207,census_place
+Fort Smith,AR,35.349276,-94.370883,census_place
+Gassville,AR,36.284949,-92.486830,census_place
+Greenbrier,AR,35.229027,-92.383576,census_place
+Gurdon,AR,33.916032,-93.153910,census_place
+Hardy,AR,36.319645,-91.481503,census_place
+Harrison,AR,36.242592,-93.117650,census_place
+Hazen,AR,34.781368,-91.558058,census_place
+Hensley,AR,34.510410,-92.209517,census_place
+Hot Springs National Park,AR,34.489442,-93.050254,override
+Huntsville,AR,36.099194,-93.733469,census_place
+Jacksonville,AR,34.877908,-92.131475,census_place
+Jonesboro,AR,35.819755,-90.679033,census_place
+Lake City,AR,35.819370,-90.453905,census_place
+Lake Village,AR,33.329180,-91.284794,census_place
+Little Rock,AR,34.723218,-92.356264,census_place
+Lonoke,AR,34.790501,-91.907362,census_place
+Lowell,AR,36.255855,-94.153356,census_place
+Magnolia,AR,33.276698,-93.226247,census_place
+Malvern,AR,34.373276,-92.821262,census_place
+Mansfield,AR,35.063711,-94.234842,census_place
+Marion,AR,35.204246,-90.206715,census_place
+Maumelle,AR,34.852344,-92.399995,census_place
+Mc Crory,AR,35.257326,-91.197276,census_place
+Morrilton,AR,35.155456,-92.738932,census_place
+Mulberry,AR,35.508500,-94.074753,census_place
+Newport,AR,35.623772,-91.231682,census_place
+North Little Rock,AR,34.781752,-92.235057,census_place
+Osceola,AR,35.690217,-89.988295,census_place
+Ozark,AR,35.501957,-93.848396,census_place
+Palestine,AR,34.970307,-90.908225,census_place
+Pine Bluff,AR,34.211591,-92.017555,census_place
+Pocahontas,AR,36.263366,-90.971224,census_place
+Portia,AR,36.084865,-91.071044,census_place
+Prescott,AR,33.804320,-93.391207,census_place
+Rogers,AR,36.318085,-94.152287,census_place
+Russellville,AR,35.276876,-93.137515,census_place
+Searcy,AR,35.241134,-91.735223,census_place
+Sheridan,AR,34.321575,-92.443067,census_place
+Springdale,AR,36.191438,-94.155062,census_place
+Stuttgart,AR,34.495233,-91.548638,census_place
+Texarkana,AR,33.436339,-93.987118,census_place
+Trumann,AR,35.676980,-90.526094,census_place
+Turrell,AR,35.374609,-90.270384,census_place
+Warren,AR,33.611829,-92.067718,census_place
+West Helena,AR,34.550660,-90.641770,geonames
+West Memphis,AR,35.149554,-90.199266,census_place
+Wheatley,AR,34.921186,-91.106255,census_place
+White Hall,AR,34.275179,-92.100649,census_place
+Widener,AR,35.023498,-90.681934,census_place
+Apache Junction,AZ,33.382718,-111.540534,census_place
+Ash Fork,AZ,35.217187,-112.491300,census_place
+Avondale,AZ,33.313646,-112.331314,census_place
+Bellemont,AZ,35.242489,-111.813789,census_place
+Benson,AZ,31.914497,-110.328552,census_place
+Bowie,AZ,32.324880,-109.484456,census_place
+Buckeye,AZ,33.431573,-112.641626,census_place
+Chandler,AZ,33.282765,-111.851819,census_place
+Claypool,AZ,33.406101,-110.841873,census_place
+Dewey,AZ,34.530030,-112.241270,geonames
+Ehrenberg,AZ,33.614208,-114.483007,census_place
+Eloy,AZ,32.741255,-111.594015,census_place
+Flagstaff,AZ,35.186367,-111.620367,census_place
+Gila Bend,AZ,32.966242,-112.715465,census_place
+Glendale,AZ,33.533111,-112.189901,census_place
+Globe,AZ,33.393667,-110.741190,census_place
+Holbrook,AZ,34.904624,-110.167210,census_place
+Joseph City,AZ,34.963714,-110.329008,census_place
+Kingman,AZ,35.216992,-114.010529,census_place
+Lake Havasu City,AZ,34.499809,-114.310943,census_place
+Litchfield Park,AZ,33.502078,-112.359363,census_place
+Littlefield,AZ,36.865925,-113.935976,census_place
+Lupton,AZ,35.354743,-109.052817,census_place
+Marana,AZ,32.465842,-111.134697,census_place
+Mayer,AZ,34.423271,-112.240747,census_place
+Mesa,AZ,33.399355,-111.715968,census_place
+Nogales,AZ,31.361928,-110.934820,census_place
+Page,AZ,36.941815,-111.513283,census_place
+Payson,AZ,34.243841,-111.318964,census_place
+Phoenix,AZ,33.572154,-112.090132,census_place
+Prescott,AZ,34.592172,-112.446649,census_place
+Quartzsite,AZ,33.667507,-114.217041,census_place
+Rio Rico,AZ,31.498168,-110.987798,census_place
+Safford,AZ,32.833298,-109.697418,census_place
+Salome,AZ,33.777771,-113.606047,census_place
+San Simon,AZ,32.268169,-109.230200,census_place
+Show Low,AZ,34.265076,-110.038286,census_place
+Sierra Vista,AZ,31.563875,-110.313192,census_place
+Springerville,AZ,34.171758,-109.306826,census_place
+Surprise,AZ,33.670780,-112.452637,census_place
+Tacna,AZ,32.700435,-113.961785,census_place
+Tolleson,AZ,33.448370,-112.256012,census_place
+Tonopah,AZ,33.487986,-112.930811,census_place
+Tucson,AZ,32.152831,-110.870750,census_place
+Wikieup,AZ,34.693034,-113.599504,census_place
+Willcox,AZ,32.251804,-109.835698,census_place
+Williams,AZ,35.246640,-112.183296,census_place
+Willow Beach,AZ,35.869780,-114.660070,override
+Winslow,AZ,35.024484,-110.709548,census_place
+Wittmann,AZ,33.774957,-112.525091,census_place
+Yucca,AZ,34.862993,-114.146145,census_place
+Yuma,AZ,32.511440,-114.526787,census_place
+Abbotsford,BC,49.057980,-122.252570,geonames
+Chilliwack,BC,49.166380,-121.952570,geonames
+Coquitlam,BC,49.284600,-122.782170,geonames
+Cranbrook,BC,49.499910,-115.768790,geonames
+Creston,BC,49.099870,-116.502110,geonames
+Dawson Creek,BC,55.759840,-120.240300,geonames
+Delta,BC,49.089170,-123.053220,geonames
+Fort Nelson,BC,58.805330,-122.700200,geonames
+Fort St John,BC,56.249880,-120.852920,geonames
+Hope,BC,49.382990,-121.441440,geonames
+Jaffray,BC,49.383240,-115.302040,geonames
+Kamloops,BC,50.666480,-120.319200,geonames
+Kitwanga,BC,55.099710,-128.070260,geonames
+New Westminster,BC,49.206780,-122.910920,geonames
+Prince George,BC,53.916600,-122.753010,geonames
+Quesnel,BC,52.978420,-122.493100,geonames
+Brawley,CA,32.978454,-115.528569,census_place
+Calexico,CA,32.684859,-115.494738,census_place
+Coachella,CA,33.690128,-116.144435,census_place
+El Centro,CA,32.786351,-115.560206,census_place
+Jacumba,CA,32.635832,-116.190741,census_place
+Thermal,CA,33.626195,-116.130834,census_place
+Westmorland,CA,33.038996,-115.622441,census_place
+Alamosa,CO,37.474528,-105.876956,census_place
+Atwood,CO,40.550485,-103.274631,census_place
+Aurora,CO,39.688296,-104.689400,census_place
+Bennett,CO,39.742000,-104.428707,census_place
+Berthoud,CO,40.289838,-104.966988,census_place
+Brighton,CO,39.965676,-104.794056,census_place
+Brush,CO,40.259209,-103.636283,census_place
+Burlington,CO,39.304088,-102.271418,census_place
+Canon City,CO,38.440980,-105.242450,geonames
+Colorado City,CO,37.939379,-104.843082,census_place
+Colorado Springs,CO,38.867255,-104.760749,census_place
+Commerce City,CO,39.882792,-104.794908,census_place
+Cortez,CO,37.349795,-108.576100,census_place
+Craig,CO,40.517060,-107.555396,census_place
+Crook,CO,40.858782,-102.801380,census_place
+De Beque,CO,39.309989,-108.204999,census_place
+Denver,CO,39.761850,-104.881105,census_place
+Dumont,CO,39.764710,-105.600280,geonames
+Durango,CO,37.264534,-107.874124,census_place
+Eads,CO,38.481648,-102.779823,census_place
+Eaton,CO,40.525685,-104.712987,census_place
+Erie,CO,40.040287,-105.038310,census_place
+Evans,CO,40.350165,-104.748355,census_place
+Fort Collins,CO,40.548405,-105.064988,census_place
+Fort Morgan,CO,40.251591,-103.783201,census_place
+Fountain,CO,38.689379,-104.680518,census_place
+Fruita,CO,39.155567,-108.729584,census_place
+Golden,CO,39.742483,-105.210561,census_place
+Grand Junction,CO,39.089062,-108.567452,census_place
+Greeley,CO,40.417205,-104.772887,census_place
+Hudson,CO,40.083185,-104.620026,census_place
+Johnstown,CO,40.307248,-104.911205,census_place
+Keenesburg,CO,40.143920,-104.542860,census_place
+Kersey,CO,40.395471,-104.578344,census_place
+Kremmling,CO,40.056542,-106.378216,census_place
+Lamar,CO,38.075971,-102.614723,census_place
+Limon,CO,39.265074,-103.685911,census_place
+Longmont,CO,40.168199,-105.100522,census_place
+Mead,CO,40.226999,-104.988323,census_place
+Meeker,CO,40.049953,-107.894584,census_place
+Montrose,CO,38.468783,-107.858959,census_place
+Monument,CO,39.072911,-104.847043,census_place
+Palisade,CO,39.107931,-108.357330,census_place
+Parachute,CO,39.446633,-108.054922,census_place
+Pueblo,CO,38.267479,-104.613429,census_place
+Rifle,CO,39.537565,-107.770344,census_place
+Seibert,CO,39.297967,-102.869524,census_place
+Silt,CO,39.547978,-107.652736,census_place
+Sterling,CO,40.620487,-103.192582,census_place
+Towaoc,CO,37.212599,-108.726461,census_place
+Trinidad,CO,37.176244,-104.490291,census_place
+Walsenburg,CO,37.630598,-104.781719,census_place
+Watkins,CO,39.698399,-104.577223,census_place
+Wellington,CO,40.697652,-105.006255,census_place
+Wheat Ridge,CO,39.772675,-105.104801,census_place
+Wiggins,CO,40.228421,-104.072799,census_place
+Windsor,CO,40.478187,-104.915260,census_place
+Wray,CO,40.079920,-102.228597,census_place
+Yuma,CO,40.122511,-102.715636,census_place
+Branford,CT,41.279540,-72.815100,geonames
+Bridgeport,CT,41.187393,-73.195757,census_place
+Danbury,CT,41.398741,-73.478103,census_place
+Darien,CT,41.078710,-73.469290,geonames
+East Granby,CT,41.941210,-72.727320,geonames
+East Lyme,CT,41.357668,-72.226770,census_cousub
+East Windsor,CT,41.912320,-72.545090,geonames
+Hartford,CT,41.765933,-72.681579,census_place
+Madison,CT,41.279540,-72.598430,geonames
+Milford,CT,41.223644,-73.064563,census_place
+Milldale,CT,41.565930,-72.891770,geonames
+New Haven,CT,41.310809,-72.924953,census_place
+North Haven,CT,41.381466,-72.856371,census_place
+North Stonington,CT,41.440930,-71.881180,geonames
+Plainfield,CT,41.676490,-71.915070,geonames
+South Windsor,CT,41.823710,-72.621200,geonames
+Waterbury,CT,41.558500,-73.036685,census_place
+West Haven,CT,41.272121,-72.967497,census_place
+Willington,CT,41.897267,-72.251848,census_cousub
+Bridgeville,DE,38.725150,-75.602811,census_place
+Felton,DE,39.012443,-75.576357,census_place
+Greenwood,DE,38.807432,-75.589944,census_place
+Laurel,DE,38.573766,-75.571226,census_place
+Middletown,DE,39.441739,-75.717383,census_place
+New Castle,DE,39.670017,-75.566519,census_place
+Newark,DE,39.677649,-75.757479,census_place
+Seaford,DE,38.658391,-75.614092,census_place
+Baker,FL,30.797130,-86.681340,geonames
+Bartow,FL,27.887064,-81.821777,census_place
+Blountstown,FL,30.442850,-85.045401,census_place
+Bonita Springs,FL,26.353754,-81.783392,census_place
+Boynton Beach,FL,26.526785,-80.080640,census_place
+Bradenton,FL,27.489798,-82.576804,census_place
+Branford,FL,29.962250,-82.924284,census_place
+Brooksville,FL,28.516578,-82.404665,census_place
+Bushnell,FL,28.689492,-82.114011,census_place
+Callahan,FL,30.565572,-81.831917,census_place
+Chiefland,FL,29.491677,-82.865931,census_place
+Clearwater,FL,27.979419,-82.771256,census_place
+Cocoa,FL,28.376639,-80.763306,census_place
+Cottondale,FL,30.789730,-85.366039,census_place
+Dade City,FL,28.352610,-82.194183,census_place
+Davenport,FL,28.171102,-81.595209,census_place
+Defuniak Springs,FL,30.706132,-86.118570,census_place
+Ellenton,FL,27.525418,-82.526456,census_place
+Fort Lauderdale,FL,26.141227,-80.146731,census_place
+Fort Myers,FL,26.620074,-81.829547,census_place
+Fort Pierce,FL,27.425567,-80.340377,census_place
+Gainesville,FL,29.678887,-82.346212,census_place
+Grand Ridge,FL,30.708862,-85.018296,census_place
+Haines City,FL,28.112817,-81.616537,census_place
+Hastings,FL,29.714390,-81.499154,census_place
+Hawthorne,FL,29.593677,-82.094467,census_place
+Hialeah,FL,25.869941,-80.302865,census_place
+Homestead,FL,25.465910,-80.445997,census_place
+Hosford,FL,30.403387,-84.808087,census_place
+Hudson,FL,28.359232,-82.689659,census_place
+Immokalee,FL,26.424012,-81.421556,census_place
+Jacksonville,FL,30.335914,-81.661762,census_place
+Jasper,FL,30.455935,-82.934214,census_place
+Jennings,FL,30.596821,-83.106994,census_place
+Jupiter,FL,26.920473,-80.119372,census_place
+Kissimmee,FL,28.306228,-81.413491,census_place
+Labelle,FL,26.720882,-81.452469,census_place
+Lake Butler,FL,30.017687,-82.343360,census_place
+Lake City,FL,30.188638,-82.642246,census_place
+Lake Panasoffkee,FL,28.784289,-82.123072,census_place
+Lake Placid,FL,27.302612,-81.371468,census_place
+Lake Wales,FL,27.920309,-81.599564,census_place
+Lakeland,FL,28.055496,-81.954772,census_place
+Lamont,FL,30.379675,-83.813376,census_place
+Land O Lakes,FL,28.208307,-82.445842,census_place
+Lawtey,FL,30.048440,-82.072478,census_place
+Lecanto,FL,28.827059,-82.500999,census_place
+Lee,FL,30.413095,-83.304143,census_place
+Leesburg,FL,28.717206,-81.903089,census_place
+Live Oak,FL,30.295650,-82.985117,census_place
+Macclenny,FL,30.280699,-82.125634,census_place
+Madison,FL,30.471487,-83.413453,census_place
+Marathon,FL,24.732338,-81.025122,census_place
+Marianna,FL,30.794456,-85.228410,census_place
+Mascotte,FL,28.604200,-81.905646,census_place
+Mc Alpin,FL,30.139120,-82.951800,geonames
+Miami,FL,25.775163,-80.208615,census_place
+Middleburg,FL,30.050226,-81.901075,census_place
+Midway,FL,30.505216,-84.476517,census_place
+Milton,FL,30.629636,-87.051407,census_place
+Mims,FL,28.691319,-80.843999,census_place
+Moore Haven,FL,26.833752,-81.098451,census_place
+Nokomis,FL,27.123799,-82.435785,census_place
+North Fort Myers,FL,26.717956,-81.845811,census_place
+Ocala,FL,29.177510,-82.151025,census_place
+Okeechobee,FL,27.241608,-80.829311,census_place
+Opa Locka,FL,25.899998,-80.255219,census_place
+Orlando,FL,28.472265,-81.322452,census_place
+Ormond Beach,FL,29.298830,-81.100952,census_place
+Palatka,FL,29.650107,-81.671878,census_place
+Palm Bay,FL,27.954580,-80.665296,census_place
+Palmetto,FL,27.525050,-82.574964,census_place
+Panama City,FL,30.239608,-85.530139,census_place
+Pensacola,FL,30.440989,-87.191242,census_place
+Perry,FL,30.109053,-83.582275,census_place
+Pierson,FL,29.241647,-81.456640,census_place
+Plant City,FL,28.015675,-82.116768,census_place
+Polk City,FL,28.180471,-81.830032,census_place
+Pompano Beach,FL,26.241622,-80.133851,census_place
+Punta Gorda,FL,26.894039,-82.066523,census_place
+Reddick,FL,29.368698,-82.197561,census_place
+Saint Augustine,FL,29.895966,-81.311629,census_place
+Saint Johns,FL,30.081500,-81.547740,geonames
+San Antonio,FL,28.339770,-82.278588,census_place
+Sebring,FL,27.472938,-81.446841,census_place
+Seffner,FL,28.000608,-82.274058,census_place
+South Bay,FL,26.688379,-80.735526,census_place
+Summerfield,FL,29.008590,-82.034810,geonames
+Tallahassee,FL,30.453529,-84.252272,census_place
+Tampa,FL,27.967876,-82.474586,census_place
+Vero Beach,FL,27.647220,-80.393136,census_place
+Waldo,FL,29.792038,-82.166931,census_place
+Webster,FL,28.614049,-82.045042,census_place
+West Palm Beach,FL,26.745114,-80.127038,census_place
+Wildwood,FL,28.805813,-82.007324,census_place
+Winter Garden,FL,28.541217,-81.597043,census_place
+Youngstown,FL,30.364360,-85.438260,geonames
+Yulee,FL,30.635418,-81.569584,census_place
+Zellwood,FL,28.721898,-81.573234,census_place
+ALBANY,GA,31.578117,-84.176224,census_place
+Acworth,GA,34.061991,-84.681121,census_place
+Adairsville,GA,34.371431,-84.921567,census_place
+Adel,GA,31.124800,-83.425485,census_place
+Albany,GA,31.578117,-84.176224,census_place
+Alma,GA,31.544973,-82.473629,census_place
+Alpharetta,GA,34.070866,-84.272650,census_place
+Americus,GA,32.074223,-84.222599,census_place
+Athens,GA,33.949597,-83.370088,census_place
+Atlanta,GA,33.762909,-84.422675,census_place
+Attapulgus,GA,30.749490,-84.483886,census_place
+Augusta,GA,33.365531,-82.073422,census_place
+Bainbridge,GA,30.904933,-84.573047,census_place
+Baxley,GA,31.764753,-82.349254,census_place
+Bethlehem,GA,33.937948,-83.709982,census_place
+Blackshear,GA,31.290828,-82.252927,census_place
+Bloomingdale,GA,32.124437,-81.307750,census_place
+Blythe,GA,33.303104,-82.207315,census_place
+Braselton,GA,34.105936,-83.812289,census_place
+Bremen,GA,33.710413,-85.150075,census_place
+Brunswick,GA,31.136149,-81.466936,census_place
+Buena Vista,GA,32.318481,-84.517564,census_place
+Byron,GA,32.648996,-83.755395,census_place
+Cairo,GA,30.879229,-84.205505,census_place
+Calhoun,GA,34.499815,-84.933191,census_place
+Camilla,GA,31.234057,-84.209563,census_place
+Carnesville,GA,34.376645,-83.234687,census_place
+Cartersville,GA,34.163316,-84.801066,census_place
+Chatsworth,GA,34.779500,-84.786518,census_place
+Clarkesville,GA,34.610427,-83.525550,census_place
+Columbus,GA,32.510742,-84.874098,census_place
+Commerce,GA,34.214298,-83.475713,census_place
+Conley,GA,33.642273,-84.334334,census_place
+Cordele,GA,31.956090,-83.770077,census_place
+Crawfordville,GA,33.554641,-82.896695,census_place
+Cusseta,GA,32.305430,-84.772700,geonames
+Cuthbert,GA,31.770686,-84.793575,census_place
+Dacula,GA,33.981943,-83.901092,census_place
+Dalton,GA,34.769222,-84.970420,census_place
+Darien,GA,31.343489,-81.424103,census_place
+Dawson,GA,31.771864,-84.443499,census_place
+Dawsonville,GA,34.433717,-84.124407,census_place
+Donalsonville,GA,31.039691,-84.878424,census_place
+Douglas,GA,31.506114,-82.854335,census_place
+Dublin,GA,32.533799,-82.929633,census_place
+Dudley,GA,32.533480,-83.083619,census_place
+East Dublin,GA,32.546925,-82.866967,census_place
+Eatonton,GA,33.325821,-83.388862,census_place
+Elberton,GA,34.106631,-82.872470,census_place
+Ellabell,GA,32.123540,-81.485670,geonames
+Ellenwood,GA,33.610110,-84.287980,geonames
+Emerson,GA,34.131335,-84.745425,census_place
+Fairburn,GA,33.547688,-84.587239,census_place
+Folkston,GA,30.839068,-82.007342,census_place
+Forest Park,GA,33.620535,-84.358250,census_place
+Forsyth,GA,33.053541,-83.960015,census_place
+Fort Valley,GA,32.551114,-83.879939,census_place
+Fortson,GA,32.607080,-84.937150,geonames
+Gainesville,GA,34.290100,-83.829106,census_place
+Gordon,GA,32.886187,-83.333588,census_place
+Greensboro,GA,33.562735,-83.189702,census_place
+Griffin,GA,33.243188,-84.271861,census_place
+Grovetown,GA,33.450260,-82.207393,census_place
+Guyton,GA,32.332270,-81.390385,census_place
+Hahira,GA,30.992155,-83.377258,census_place
+Hampton,GA,33.379246,-84.300003,census_place
+Harlem,GA,33.435050,-82.315890,census_place
+Hawkinsville,GA,32.301182,-83.478856,census_place
+Hazlehurst,GA,31.864128,-82.599276,census_place
+Hephzibah,GA,33.292209,-82.095983,census_place
+Hogansville,GA,33.166986,-84.902788,census_place
+Homerville,GA,31.038226,-82.742081,census_place
+Jackson,GA,33.292359,-83.967846,census_place
+Jasper,GA,34.466199,-84.435863,census_place
+Jefferson,GA,34.136239,-83.602157,census_place
+Jeffersonville,GA,32.684090,-83.339983,census_place
+Jesup,GA,31.594574,-81.895699,census_place
+Kingsland,GA,30.846097,-81.790911,census_place
+Lagrange,GA,33.026980,-85.038261,census_place
+Lake Park,GA,30.685560,-83.187704,census_place
+Leesburg,GA,31.732058,-84.168546,census_place
+Lithia Springs,GA,33.782487,-84.648488,census_place
+Lithonia,GA,33.712954,-84.106200,census_place
+Louisville,GA,32.992379,-82.396864,census_place
+Lula,GA,34.398088,-83.661905,census_place
+Lumber City,GA,31.933052,-82.683197,census_place
+Macon,GA,32.840690,-83.632400,geonames
+Madison,GA,33.579038,-83.475971,census_place
+Marietta,GA,33.953561,-84.542463,census_place
+Mcdonough,GA,33.439611,-84.148899,census_place
+Metter,GA,32.394510,-82.062432,census_place
+Midland,GA,32.574860,-84.827150,geonames
+Midway,GA,31.801003,-81.416664,census_place
+Millen,GA,32.806892,-81.942039,census_place
+Monroe,GA,33.798428,-83.721862,census_place
+Moultrie,GA,31.179430,-83.790786,census_place
+Newnan,GA,33.375833,-84.777324,census_place
+Ocilla,GA,31.598633,-83.249809,census_place
+Palmetto,GA,33.540676,-84.676611,census_place
+Pelham,GA,31.126639,-84.151459,census_place
+Perry,GA,32.473708,-83.727809,census_place
+Pinehurst,GA,32.196212,-83.759519,census_place
+Pooler,GA,32.105635,-81.256032,census_place
+Port Wentworth,GA,32.192015,-81.205725,census_place
+Pulaski,GA,32.390651,-81.953437,census_place
+Rabun Gap,GA,34.960490,-83.393180,geonames
+Register,GA,32.364530,-81.880493,census_place
+Resaca,GA,34.579365,-84.943824,census_place
+Richland,GA,32.088762,-84.662001,census_place
+Richmond Hill,GA,31.900191,-81.310077,census_place
+Rincon,GA,32.295645,-81.233312,census_place
+Ringgold,GA,34.913524,-85.120643,census_place
+Rising Fawn,GA,34.760080,-85.531080,geonames
+Rockmart,GA,34.008306,-85.044978,census_place
+Rome,GA,34.266133,-85.186052,census_place
+Saint Marys,GA,30.756672,-81.578449,census_place
+Savannah,GA,32.012457,-81.194157,census_place
+Soperton,GA,32.378268,-82.594019,census_place
+Statesboro,GA,32.439408,-81.775106,census_place
+Stone Mountain,GA,33.804187,-84.171420,census_place
+Surrency,GA,31.721916,-82.197823,census_place
+Sycamore,GA,31.671652,-83.635525,census_place
+Sylvania,GA,32.747226,-81.640693,census_place
+Tallapoosa,GA,33.736656,-85.287358,census_place
+Taylorsville,GA,34.085129,-84.985629,census_place
+Temple,GA,33.733245,-85.027295,census_place
+Tennille,GA,32.936618,-82.812071,census_place
+Thomasville,GA,30.839422,-83.978781,census_place
+Thomson,GA,33.469270,-82.495116,census_place
+Tifton,GA,31.462099,-83.520499,census_place
+Twin City,GA,32.582227,-82.159379,census_place
+Union Point,GA,33.618816,-83.075036,census_place
+Valdosta,GA,30.850126,-83.278833,census_place
+Vidalia,GA,32.212079,-82.402187,census_place
+Vienna,GA,32.092747,-83.786839,census_place
+Villa Rica,GA,33.727754,-84.920233,census_place
+Waco,GA,33.702175,-85.189755,census_place
+Wadley,GA,32.864790,-82.402802,census_place
+Warrenton,GA,33.407657,-82.665124,census_place
+Waycross,GA,31.211006,-82.357658,census_place
+Waynesboro,GA,33.091279,-82.014290,census_place
+West Point,GA,32.898178,-85.141622,census_place
+Whitesburg,GA,33.492068,-84.914300,census_place
+Wildwood,GA,34.966937,-85.421501,census_place
+Willacoochee,GA,31.335094,-83.044003,census_place
+Woodbine,GA,30.959855,-81.718098,census_place
+Wrens,GA,33.207434,-82.387583,census_place
+Wrightsville,GA,32.726812,-82.719072,census_place
+Zebulon,GA,33.090996,-84.339467,census_place
+Ainsworth,IA,41.290050,-91.554266,census_place
+Algona,IA,43.076307,-94.232063,census_place
+Altoona,IA,41.653452,-93.482793,census_place
+Ames,IA,42.025725,-93.622491,census_place
+Anamosa,IA,42.108825,-91.275205,census_place
+Ankeny,IA,41.733637,-93.599424,census_place
+Atalissa,IA,41.571687,-91.166454,census_place
+Audubon,IA,41.718019,-94.928372,census_place
+Avoca,IA,41.482864,-95.337256,census_place
+Batavia,IA,40.994954,-92.167346,census_place
+Bettendorf,IA,41.567047,-90.477035,census_place
+Bevington,IA,41.359955,-93.784187,census_place
+Bondurant,IA,41.699873,-93.447983,census_place
+Brooklyn,IA,41.731470,-92.444886,census_place
+Calmar,IA,43.181104,-91.867965,census_place
+Carroll,IA,42.070359,-94.864643,census_place
+Cedar Falls,IA,42.519070,-92.454009,census_place
+Cedar Rapids,IA,41.964226,-91.679164,census_place
+Center Point,IA,42.183811,-91.780478,census_place
+Centerville,IA,40.728381,-92.871391,census_place
+Chariton,IA,41.017447,-93.309629,census_place
+Charles City,IA,43.062245,-92.671492,census_place
+Clarence,IA,41.885751,-91.057925,census_place
+Clear Lake,IA,43.135090,-93.373651,census_place
+Clinton,IA,41.842365,-90.242816,census_place
+Clive,IA,41.612128,-93.800877,census_place
+Colfax,IA,41.679795,-93.236279,census_place
+Coralville,IA,41.698795,-91.596800,census_place
+Correctionville,IA,42.477592,-95.783158,census_place
+Council Bluffs,IA,41.236147,-95.853393,census_place
+Cresco,IA,43.371746,-92.116287,census_place
+Creston,IA,41.060314,-94.364727,census_place
+Davenport,IA,41.556820,-90.603948,census_place
+De Soto,IA,41.537777,-94.009953,census_place
+De Witt,IA,41.822712,-90.544087,census_place
+Decorah,IA,43.301618,-91.784750,census_place
+Delaware,IA,42.472111,-91.338259,census_place
+Denison,IA,42.015886,-95.352404,census_place
+Denver,IA,42.668220,-92.333942,census_place
+Des Moines,IA,41.572590,-93.610243,census_place
+Dows,IA,42.658364,-93.502041,census_place
+Dubuque,IA,42.498901,-90.707258,census_place
+Duncombe,IA,42.469788,-93.996792,census_place
+Early,IA,42.461098,-95.152411,census_place
+Eddyville,IA,41.159335,-92.630333,census_place
+Ellsworth,IA,42.310239,-93.581877,census_place
+Emmetsburg,IA,43.114798,-94.679579,census_place
+Estherville,IA,43.399735,-94.834216,census_place
+Evansdale,IA,42.465698,-92.269402,census_place
+Floyd,IA,43.128185,-92.739944,census_place
+Forest City,IA,43.257083,-93.636556,census_place
+Fort Dodge,IA,42.509863,-94.175675,census_place
+Fort Madison,IA,40.621463,-91.346257,census_place
+Garner,IA,43.099971,-93.603118,census_place
+Greene,IA,42.896506,-92.803538,census_place
+Grinnell,IA,41.735236,-92.724902,census_place
+Guttenberg,IA,42.788556,-91.108775,census_place
+Hampton,IA,42.741989,-93.204992,census_place
+Hinton,IA,42.622790,-96.298150,census_place
+Holland,IA,42.400127,-92.798835,census_place
+Holstein,IA,42.487149,-95.542877,census_place
+Huxley,IA,41.894376,-93.591306,census_place
+Independence,IA,42.462193,-91.903152,census_place
+Iowa City,IA,41.655654,-91.530863,census_place
+Iowa Falls,IA,42.519170,-93.267284,census_place
+Janesville,IA,42.645805,-92.462397,census_place
+Jefferson,IA,42.017743,-94.379422,census_place
+Latimer,IA,42.762921,-93.365518,census_place
+Le Mars,IA,42.781514,-96.173311,census_place
+Lime Springs,IA,43.449899,-92.284064,census_place
+Manchester,IA,42.485339,-91.456086,census_place
+Manning,IA,41.909630,-95.064442,census_place
+Manson,IA,42.528638,-94.540064,census_place
+Maquoketa,IA,42.060530,-90.663862,census_place
+Marcus,IA,42.822401,-95.806842,census_place
+Marion,IA,42.044596,-91.586160,census_place
+Marshalltown,IA,42.034300,-92.906266,census_place
+Mason City,IA,43.147762,-93.200403,census_place
+Mediapolis,IA,41.007901,-91.163705,census_place
+Milford,IA,43.340632,-95.146655,census_place
+Minden,IA,41.469409,-95.543198,census_place
+Missouri Valley,IA,41.559319,-95.902635,census_place
+Monona,IA,43.049843,-91.391056,census_place
+Monroe,IA,41.518945,-93.103739,census_place
+Monticello,IA,42.230425,-91.185925,census_place
+Mount Ayr,IA,40.714071,-94.237225,census_place
+Mount Pleasant,IA,40.962205,-91.547162,census_place
+Muscatine,IA,41.419361,-91.067286,census_place
+Neola,IA,41.451904,-95.618914,census_place
+Nevada,IA,42.018078,-93.469303,census_place
+New Hampton,IA,43.056219,-92.314725,census_place
+New Virginia,IA,41.181764,-93.731070,census_place
+Newton,IA,41.696337,-93.040512,census_place
+North Liberty,IA,41.743619,-91.611178,census_place
+Northwood,IA,43.444091,-93.215969,census_place
+Odebolt,IA,42.311842,-95.254378,census_place
+Oelwein,IA,42.671581,-91.912787,census_place
+Onawa,IA,42.026476,-96.090917,census_place
+Osceola,IA,41.034847,-93.786677,census_place
+Ottumwa,IA,41.022251,-92.423263,census_place
+Pacific Junction,IA,41.017975,-95.799453,census_place
+Parkersburg,IA,42.573851,-92.778450,census_place
+Pella,IA,41.404715,-92.917412,census_place
+Peosta,IA,42.447214,-90.841426,census_place
+Percival,IA,40.751269,-95.813266,census_place
+Perry,IA,41.837907,-94.093255,census_place
+Polk City,IA,41.781953,-93.722792,census_place
+Postville,IA,43.084381,-91.567791,census_place
+Red Oak,IA,41.014130,-95.224371,census_place
+Riverside,IA,41.483235,-91.572195,census_place
+Rock Rapids,IA,43.427899,-96.166347,census_place
+Rockwell City,IA,42.398125,-94.628870,census_place
+Sheffield,IA,42.888808,-93.210037,census_place
+Shelby,IA,41.505133,-95.449353,census_place
+Sheldon,IA,43.179596,-95.843346,census_place
+Sibley,IA,43.401476,-95.743031,census_place
+Sigourney,IA,41.333974,-92.204448,census_place
+Sioux Center,IA,43.076063,-96.171151,census_place
+Sioux City,IA,42.495380,-96.389495,census_place
+Sloan,IA,42.233062,-96.224830,census_place
+Spencer,IA,43.147025,-95.152691,census_place
+Spirit Lake,IA,43.419587,-95.109574,census_place
+Storm Lake,IA,42.642951,-95.196463,census_place
+Story City,IA,42.185743,-93.586885,census_place
+Stuart,IA,41.500574,-94.317534,census_place
+Tama,IA,41.965123,-92.573799,census_place
+Tiffin,IA,41.705675,-91.657708,census_place
+Tipton,IA,41.770121,-91.128281,census_place
+Toledo,IA,41.990174,-92.580342,census_place
+Underwood,IA,41.380169,-95.682518,census_place
+Urbana,IA,42.229835,-91.885511,census_place
+Urbandale,IA,41.636656,-93.779889,census_place
+Vinton,IA,42.163106,-92.026206,census_place
+Walcott,IA,41.587217,-90.780232,census_place
+Walnut,IA,41.489453,-95.219669,census_place
+Wapello,IA,41.177222,-91.188991,census_place
+Washington,IA,41.297913,-91.693671,census_place
+Waterloo,IA,42.492327,-92.351947,census_place
+Webster City,IA,42.462423,-93.818201,census_place
+Welton,IA,41.905503,-90.595614,census_place
+West Burlington,IA,40.821628,-91.175475,census_place
+West Liberty,IA,41.572995,-91.262639,census_place
+Wever,IA,40.705655,-91.228102,census_place
+Williams,IA,42.489193,-93.541245,census_place
+Williamsburg,IA,41.668884,-92.013249,census_place
+American Falls,ID,42.782846,-112.854211,census_place
+Blackfoot,ID,43.193425,-112.346518,census_place
+Bliss,ID,42.924284,-114.947516,census_place
+Boise,ID,43.613500,-116.203450,geonames
+Bonners Ferry,ID,48.693374,-116.318360,census_place
+Caldwell,ID,43.645468,-116.660654,census_place
+Council,ID,44.733195,-116.436837,census_place
+Downey,ID,42.428917,-112.123320,census_place
+Dubois,ID,44.171161,-112.228278,census_place
+Eden,ID,42.605309,-114.209087,census_place
+Fort Hall,ID,43.014547,-112.457870,census_place
+Franklin,ID,42.004635,-111.804656,census_place
+Fruitland,ID,44.016858,-116.920712,census_place
+Grangeville,ID,45.925826,-116.121916,census_place
+Heyburn,ID,42.559978,-113.761729,census_place
+Idaho Falls,ID,43.489616,-112.035340,census_place
+Jerome,ID,42.717854,-114.515790,census_place
+Lewiston,ID,46.393130,-116.993472,census_place
+Malad City,ID,42.189909,-112.249688,census_place
+Marsing,ID,43.546360,-116.810422,census_place
+Mccammon,ID,42.648236,-112.189394,census_place
+Montpelier,ID,42.325992,-111.298826,census_place
+Mountain Home,ID,43.131585,-115.697296,census_place
+Nampa,ID,43.584321,-116.563971,census_place
+Pocatello,ID,42.871210,-112.462027,census_place
+Post Falls,ID,47.725560,-116.944169,census_place
+Twin Falls,ID,42.564094,-114.460899,census_place
+Wilder,ID,43.677492,-116.907579,census_place
+Addison,IL,41.930782,-88.008987,census_place
+Alsip,IL,41.670270,-87.737085,census_place
+Altamont,IL,39.056115,-88.746922,census_place
+Annawan,IL,41.396318,-89.890670,census_place
+Atkinson,IL,41.413293,-90.005345,census_place
+Atlanta,IL,40.263574,-89.230845,census_place
+Barry,IL,39.698310,-91.039918,census_place
+Batavia,IL,41.847692,-88.311047,census_place
+Bedford Park,IL,41.767773,-87.772556,census_place
+Bellwood,IL,41.882901,-87.876170,census_place
+Belvidere,IL,42.265448,-88.887758,census_place
+Bensenville,IL,41.958011,-87.943825,census_place
+Benton,IL,38.013187,-88.917281,census_place
+Berwyn,IL,41.843333,-87.790926,census_place
+Bloomingdale,IL,41.951525,-88.089118,census_place
+Bloomington,IL,40.475777,-88.969912,census_place
+Bolingbrook,IL,41.686147,-88.107006,census_place
+Bourbonnais,IL,41.182491,-87.878677,census_place
+Bridgeview,IL,41.740280,-87.806682,census_place
+Brighton,IL,39.040863,-90.140041,census_place
+Burbank,IL,41.744410,-87.768568,census_place
+Carol Stream,IL,41.920346,-88.133223,census_place
+Carrollton,IL,39.294493,-90.406894,census_place
+Casey,IL,39.305417,-87.985309,census_place
+Champaign,IL,40.114099,-88.274619,census_place
+Channahon,IL,41.425266,-88.266579,census_place
+Cherry Valley,IL,42.235178,-88.975113,census_place
+Chicago,IL,41.837045,-87.684939,census_place
+Chicago Heights,IL,41.510684,-87.634069,census_place
+Cicero,IL,41.844537,-87.759290,census_place
+Crest Hill,IL,41.576107,-88.116351,census_place
+Crete,IL,41.439406,-87.623621,census_place
+Crystal Lake,IL,42.233209,-88.334360,census_place
+Decatur,IL,39.855983,-88.933746,census_place
+Dekalb,IL,41.928186,-88.747585,census_place
+Des Plaines,IL,42.034001,-87.901069,census_place
+Divernon,IL,39.570431,-89.653638,census_place
+Dixon,IL,41.843288,-89.477547,census_place
+Downs,IL,40.398775,-88.889199,census_place
+Dundee,IL,42.110435,-88.301351,census_cousub
+Dwight,IL,41.099977,-88.421963,census_place
+East Saint Louis,IL,38.616361,-90.130528,census_place
+Edwards,IL,40.745870,-89.744270,geonames
+Effingham,IL,39.120662,-88.550859,census_place
+El Paso,IL,40.740492,-89.018250,census_place
+Elgin,IL,42.038963,-88.325671,census_place
+Elk Grove Village,IL,42.005018,-87.992045,census_place
+Elwood,IL,41.418139,-88.117170,census_place
+Fairfield,IL,38.380632,-88.372524,census_place
+Farina,IL,38.828817,-88.781322,census_place
+Farmer City,IL,40.248464,-88.641655,census_place
+Farmersville,IL,39.440677,-89.652540,census_place
+Flora,IL,38.665617,-88.473844,census_place
+Frankfort,IL,41.509037,-87.870966,census_place
+Franklin Park,IL,41.935983,-87.879197,census_place
+Galatia,IL,37.841977,-88.616482,census_place
+Galesburg,IL,40.950217,-90.376564,census_place
+Geneseo,IL,41.451252,-90.154844,census_place
+Gilberts,IL,42.109981,-88.371882,census_place
+Gilman,IL,40.759416,-88.001035,census_place
+Goodfield,IL,40.630556,-89.258080,census_place
+Granite City,IL,38.729283,-90.125472,census_place
+Grant Park,IL,41.242747,-87.635847,census_place
+Grayville,IL,38.255135,-87.996927,census_place
+Greenup,IL,39.247946,-88.160025,census_place
+Greenville,IL,38.886574,-89.389492,census_place
+Gurnee,IL,42.369973,-87.936974,census_place
+HICKORY HILLS,IL,41.724778,-87.828005,census_place
+HOMER GLEN,IL,41.604341,-87.961572,census_place
+Hamel,IL,38.893620,-89.837669,census_place
+Hampshire,IL,42.116614,-88.505165,census_place
+Hanover Park,IL,41.982499,-88.142926,census_place
+Harrisburg,IL,37.737717,-88.545818,census_place
+Hartford,IL,38.813058,-90.092103,census_place
+Havana,IL,40.295109,-90.057810,census_place
+Henry,IL,41.117367,-89.357282,census_place
+Heyworth,IL,40.315933,-88.993257,census_place
+Hillsdale,IL,41.605723,-90.173282,census_place
+Hinsdale,IL,41.800683,-87.928172,census_place
+Homer Glen,IL,41.604341,-87.961572,census_place
+Hoopeston,IL,40.460824,-87.663572,census_place
+Ina,IL,38.149892,-88.904019,census_place
+Itasca,IL,41.976616,-88.018775,census_place
+Jacksonville,IL,39.729151,-90.232201,census_place
+Joliet,IL,41.516866,-88.147963,census_place
+Kankakee,IL,41.101654,-87.863690,census_place
+Knoxville,IL,40.906931,-90.285697,census_place
+La Grange,IL,41.807213,-87.874148,census_place
+La Salle,IL,41.335176,-89.097245,census_place
+Lake Zurich,IL,42.195280,-88.085191,census_place
+Lansing,IL,41.565004,-87.546004,census_place
+Le Roy,IL,40.339371,-88.761098,census_place
+Lemont,IL,41.667328,-87.984411,census_place
+Lexington,IL,40.646951,-88.784141,census_place
+Libertyville,IL,42.284667,-87.966503,census_place
+Lincoln,IL,40.150678,-89.370273,census_place
+Litchfield,IL,39.175963,-89.665482,census_place
+Lockport,IL,41.590785,-88.032468,census_place
+Lombard,IL,41.873844,-88.015491,census_place
+Loves Park,IL,42.337843,-88.998649,census_place
+Macomb,IL,40.470162,-90.683018,census_place
+Mahomet,IL,40.190133,-88.389515,census_place
+Manteno,IL,41.246107,-87.844932,census_place
+Marion,IL,37.734158,-88.944255,census_place
+Marshall,IL,39.399449,-87.691197,census_place
+Martinsville,IL,39.338421,-87.880862,census_place
+Mascoutah,IL,38.518115,-89.800041,census_place
+Mattoon,IL,39.477833,-88.362225,census_place
+Mc Lean,IL,40.313579,-89.168606,census_place
+Mchenry,IL,42.336278,-88.291519,census_place
+Melrose Park,IL,41.902995,-87.863644,census_place
+Mendota,IL,41.556655,-89.100507,census_place
+Metropolis,IL,37.149639,-88.687354,census_place
+Midlothian,IL,41.625428,-87.724233,census_place
+Minonk,IL,40.910368,-89.038153,census_place
+Minooka,IL,41.450333,-88.277824,census_place
+Mokena,IL,41.529863,-87.877710,census_place
+Monee,IL,41.418049,-87.750402,census_place
+Monmouth,IL,40.914233,-90.643075,census_place
+Monroe Center,IL,42.099934,-88.994399,census_place
+Montgomery,IL,41.720778,-88.361910,census_place
+Morris,IL,41.380217,-88.424320,census_place
+Morrisonville,IL,39.421668,-89.459007,census_place
+Morton,IL,40.613730,-89.466800,census_place
+Mount Vernon,IL,38.314205,-88.917470,census_place
+Mulberry Grove,IL,38.925269,-89.261955,census_place
+Naperville,IL,41.749173,-88.162019,census_place
+Nashville,IL,38.344542,-89.390983,census_place
+New Baden,IL,38.536786,-89.707263,census_place
+New Berlin,IL,39.726059,-89.914353,census_place
+New Lenox,IL,41.509570,-87.970555,census_place
+Normal,IL,40.520140,-88.992234,census_place
+North Chicago,IL,42.316696,-87.859201,census_place
+Oakwood,IL,40.110126,-87.776925,census_place
+Oglesby,IL,41.293210,-89.071036,census_place
+Okawville,IL,38.434417,-89.547978,census_place
+Olney,IL,38.728108,-88.084219,census_place
+Oswego,IL,41.684708,-88.336079,census_place
+Ottawa,IL,41.354046,-88.823408,census_place
+Palatine,IL,42.116467,-88.044361,census_place
+Pana,IL,39.394604,-89.090809,census_place
+Pekin,IL,40.568757,-89.625115,census_place
+Peoria,IL,40.751645,-89.617205,census_place
+Peotone,IL,41.330733,-87.796345,census_place
+Peru,IL,41.356905,-89.138896,census_place
+Plainfield,IL,41.629436,-88.245648,census_place
+Plano,IL,41.681533,-88.533084,census_place
+Poplar Grove,IL,42.349077,-88.841758,census_place
+Posen,IL,41.629067,-87.685842,census_place
+Princeton,IL,41.380507,-89.464129,census_place
+Rantoul,IL,40.302557,-88.154901,census_place
+Riverdale,IL,41.642624,-87.636046,census_place
+Riverton,IL,39.846145,-89.536367,census_place
+Rochelle,IL,41.919778,-89.062264,census_place
+Rockford,IL,42.259300,-89.063478,census_place
+Romeoville,IL,41.627783,-88.101237,census_place
+Roscoe,IL,42.425559,-89.009455,census_place
+Round Lake,IL,42.343181,-88.102099,census_place
+Salem,IL,38.627537,-88.959448,census_place
+Schiller Park,IL,41.958626,-87.869317,census_place
+Shannon,IL,42.152447,-89.740174,census_place
+South Beloit,IL,42.484842,-89.027433,census_place
+South Elgin,IL,41.990254,-88.314285,census_place
+South Holland,IL,41.598372,-87.602736,census_place
+South Pekin,IL,40.493402,-89.652529,census_place
+Springfield,IL,39.791063,-89.644572,census_place
+Stockton,IL,42.352509,-90.001933,census_place
+Sugar Grove,IL,41.777407,-88.446525,census_place
+Tilton,IL,40.094978,-87.642148,census_place
+Tinley Park,IL,41.566802,-87.802643,census_place
+Tonica,IL,41.215870,-89.069956,census_place
+Troy,IL,38.726219,-89.893470,census_place
+Tuscola,IL,39.795912,-88.275483,census_place
+University Park,IL,41.446894,-87.712969,census_place
+Utica,IL,41.340590,-89.010080,geonames
+Vandalia,IL,38.974564,-89.110695,census_place
+Villa Park,IL,41.885612,-87.978235,census_place
+Virginia,IL,39.952942,-90.210446,census_place
+Wadsworth,IL,42.450687,-87.925147,census_place
+Warrenville,IL,41.820973,-88.187474,census_place
+Waukegan,IL,42.369447,-87.870898,census_place
+Wenona,IL,41.048655,-89.052258,census_place
+West Chicago,IL,41.895343,-88.220469,census_place
+West Frankfort,IL,37.899495,-88.930814,census_place
+Williamsville,IL,39.957220,-89.543075,census_place
+Willow Springs,IL,41.734137,-87.884010,census_place
+Wilmington,IL,41.319251,-88.159960,census_place
+Winnebago,IL,42.267088,-89.233970,census_place
+Wood Dale,IL,41.966405,-87.980953,census_place
+Woodhull,IL,41.178433,-90.322179,census_place
+Yorkville,IL,41.661736,-88.428596,census_place
+Angola,IN,41.647269,-85.008236,census_place
+Ashley,IN,41.521464,-85.061427,census_place
+Austin,IN,38.740244,-85.810271,census_place
+Bloomfield,IN,39.026134,-86.937364,census_place
+Bloomington,IN,39.163700,-86.524264,census_place
+Bluffton,IN,40.743479,-85.172111,census_place
+Bourbon,IN,41.299394,-86.116852,census_place
+Brazil,IN,39.521975,-87.124361,census_place
+Bristol,IN,41.712215,-85.830898,census_place
+Butler,IN,41.427148,-84.872266,census_place
+Cambridge City,IN,39.812084,-85.170820,census_place
+Carlisle,IN,38.960778,-87.401424,census_place
+Chesterton,IN,41.599822,-87.054996,census_place
+Cicero,IN,40.119890,-86.028430,census_place
+Clayton,IN,39.688392,-86.521856,census_place
+Cloverdale,IN,39.521221,-86.798689,census_place
+Covington,IN,40.140588,-87.390990,census_place
+Crawfordsville,IN,40.040240,-86.897970,census_place
+Daleville,IN,40.118872,-85.556247,census_place
+Danville,IN,39.758812,-86.495282,census_place
+Decatur,IN,40.828854,-84.927813,census_place
+Demotte,IN,41.199271,-87.195453,census_place
+Dyer,IN,41.497804,-87.509012,census_place
+Edinburgh,IN,39.351870,-85.963755,census_place
+Elkhart,IN,41.695214,-85.955432,census_place
+Evansville,IN,37.987737,-87.534705,census_place
+Fort Wayne,IN,41.088193,-85.142791,census_place
+Fowler,IN,40.617228,-87.317929,census_place
+Frankfort,IN,40.279635,-86.537856,census_place
+Fremont,IN,41.727622,-84.938855,census_place
+Gary,IN,41.590740,-87.347113,census_place
+Gas City,IN,40.488650,-85.594335,census_place
+Gaston,IN,40.314005,-85.501005,census_place
+Geneva,IN,40.596721,-84.957252,census_place
+Georgetown,IN,38.298926,-85.963029,census_place
+Goshen,IN,41.573899,-85.830325,census_place
+Greenfield,IN,39.793283,-85.772548,census_place
+Greensburg,IN,39.351019,-85.501189,census_place
+Greenwood,IN,39.603372,-86.105227,census_place
+Grovertown,IN,41.375040,-86.504730,geonames
+Hammond,IN,41.619794,-87.494680,census_place
+Hanna,IN,41.412027,-86.779449,census_place
+Haubstadt,IN,38.203242,-87.574735,census_place
+Hebron,IN,41.324977,-87.202094,census_place
+Highland,IN,41.546622,-87.457616,census_place
+Hobart,IN,41.513530,-87.276399,census_place
+Howe,IN,41.722822,-85.425486,census_place
+Huntington,IN,40.880825,-85.505497,census_place
+Indianapolis,IN,39.776664,-86.145935,census_place
+Jasper,IN,38.395217,-86.940747,census_place
+Kendallville,IN,41.443361,-85.258154,census_place
+Knightstown,IN,39.795537,-85.530811,census_place
+Kokomo,IN,40.465267,-86.127348,census_place
+La Porte,IN,41.610876,-86.714837,census_place
+Lafayette,IN,40.399524,-86.862782,census_place
+Lake Station,IN,41.577009,-87.252081,census_place
+Lake Village,IN,41.130830,-87.439024,census_place
+Lawrenceburg,IN,39.107700,-84.875894,census_place
+Leavenworth,IN,38.200631,-86.350640,census_place
+Lebanon,IN,40.036378,-86.461070,census_place
+Logansport,IN,40.748067,-86.354722,census_place
+Madison,IN,38.758829,-85.397135,census_place
+Marion,IN,40.549986,-85.660420,census_place
+Martinsville,IN,39.414711,-86.431699,census_place
+Medaryville,IN,41.080356,-86.890549,census_place
+Memphis,IN,38.493934,-85.766973,census_place
+Merrillville,IN,41.472687,-87.318070,census_place
+Michigan City,IN,41.708776,-86.866875,census_place
+Middlebury,IN,41.670559,-85.708679,census_place
+Mitchell,IN,38.737092,-86.475220,census_place
+Monon,IN,40.864228,-86.878624,census_place
+Mooresville,IN,39.602494,-86.368715,census_place
+Muncie,IN,40.198826,-85.395059,census_place
+New Haven,IN,41.067905,-85.016282,census_place
+New Paris,IN,41.501906,-85.825507,census_place
+North Vernon,IN,39.014854,-85.630055,census_place
+Pendleton,IN,40.008509,-85.760809,census_place
+Peru,IN,40.758738,-86.069049,census_place
+Pierceton,IN,41.193879,-85.700552,census_place
+Pittsboro,IN,39.876390,-86.463727,census_place
+Plainfield,IN,39.693147,-86.372526,census_place
+Plymouth,IN,41.348770,-86.319336,census_place
+Portage,IN,41.588490,-87.179456,census_place
+Remington,IN,40.769405,-87.129724,census_place
+Rensselaer,IN,40.950515,-87.153295,census_place
+Richmond,IN,39.832086,-84.890917,census_place
+Rochester,IN,41.060392,-86.198313,census_place
+Rockport,IN,37.889214,-87.053362,census_place
+Rolling Prairie,IN,41.674467,-86.619898,census_place
+SOUTH BEND,IN,41.676643,-86.268809,census_place
+Saint Croix,IN,38.223950,-86.586370,geonames
+Saint Paul,IN,39.428152,-85.628713,census_place
+Seymour,IN,38.946256,-85.888492,census_place
+Shelbyville,IN,39.546597,-85.776841,census_place
+South Bend,IN,41.676643,-86.268809,census_place
+Spiceland,IN,39.843221,-85.426030,census_place
+Straughn,IN,39.808384,-85.290842,census_place
+Taylorsville,IN,39.296476,-85.950274,census_place
+Terre Haute,IN,39.464152,-87.376036,census_place
+Tipton,IN,40.282484,-86.043208,census_place
+Valparaiso,IN,41.479812,-87.052273,census_place
+Vincennes,IN,38.676621,-87.509956,census_place
+Wanatah,IN,41.430561,-86.892347,census_place
+Warren,IN,40.687688,-85.424650,census_place
+Washington,IN,38.658226,-87.160361,census_place
+Waterloo,IN,41.437398,-85.051661,census_place
+West Lafayette,IN,40.443707,-86.923616,census_place
+Westville,IN,41.537547,-86.904942,census_place
+Whiteland,IN,39.558083,-86.067144,census_place
+Whitestown,IN,39.971672,-86.371739,census_place
+Winamac,IN,41.053501,-86.603678,census_place
+Woodburn,IN,41.128114,-84.850513,census_place
+Yorktown,IN,40.181891,-85.508155,census_place
+Abilene,KS,38.924271,-97.228773,census_place
+Alma,KS,39.015681,-96.287096,census_place
+Atchison,KS,39.562552,-95.136611,census_place
+Belle Plaine,KS,37.393355,-97.279242,census_place
+Belleville,KS,39.824337,-97.633855,census_place
+Beloit,KS,39.464698,-98.108340,census_place
+Bunker Hill,KS,38.875298,-98.698938,census_place
+Chanute,KS,37.669661,-95.464162,census_place
+Cherryvale,KS,37.269148,-95.553354,census_place
+Clay Center,KS,39.381182,-97.127372,census_place
+Coffeyville,KS,37.032717,-95.651580,census_place
+Colby,KS,39.383325,-101.045959,census_place
+Concordia,KS,39.566870,-97.646785,census_place
+Cunningham,KS,37.644623,-98.431130,census_place
+Dodge City,KS,37.760677,-100.018438,census_place
+Douglass,KS,37.516954,-97.010399,census_place
+Edgerton,KS,38.769314,-94.965141,census_place
+El Dorado,KS,37.820429,-96.862979,census_place
+Ellis,KS,38.934654,-99.556791,census_place
+Ellsworth,KS,38.733875,-98.228017,census_place
+Emporia,KS,38.402352,-96.194581,census_place
+Fairview,KS,39.839579,-95.728101,census_place
+Florence,KS,38.243075,-96.929155,census_place
+Fort Scott,KS,37.828000,-94.704141,census_place
+Fredonia,KS,37.533095,-95.822348,census_place
+Garden City,KS,37.975876,-100.850884,census_place
+Gardner,KS,38.809322,-94.920513,census_place
+Garnett,KS,38.285873,-95.241231,census_place
+Goodland,KS,39.349341,-101.713817,census_place
+Hanover,KS,39.893170,-96.875067,census_place
+Hays,KS,38.882637,-99.322227,census_place
+Hesston,KS,38.140217,-97.426721,census_place
+Hiawatha,KS,39.851661,-95.537789,census_place
+Holcomb,KS,37.985983,-100.993619,census_place
+Hugoton,KS,37.174510,-101.344544,census_place
+Iola,KS,37.925873,-95.398539,census_place
+Johnson,KS,37.570570,-101.751000,geonames
+Junction City,KS,39.027220,-96.852271,census_place
+Kansas City,KS,39.122539,-94.741781,census_place
+Lakin,KS,37.940016,-101.258444,census_place
+Lawrence,KS,38.959551,-95.265468,census_place
+Lebo,KS,38.416179,-95.862482,census_place
+Lenexa,KS,38.965268,-94.803937,census_place
+Leon,KS,37.689517,-96.783833,census_place
+Liberal,KS,37.046108,-100.927706,census_place
+Maple Hill,KS,39.085423,-96.028015,census_place
+Marysville,KS,39.843690,-96.638878,census_place
+Matfield Green,KS,38.159651,-96.562014,census_place
+Mcpherson,KS,38.369881,-97.664518,census_place
+Meade,KS,37.283612,-100.343022,census_place
+Medicine Lodge,KS,37.285137,-98.581185,census_place
+Moran,KS,37.916542,-95.171429,census_place
+Mullinville,KS,37.588574,-99.475560,census_place
+Newton,KS,38.037683,-97.345018,census_place
+Norton,KS,39.836219,-99.891596,census_place
+Oakley,KS,39.123486,-100.845153,census_place
+Oberlin,KS,39.823608,-100.530782,census_place
+Olathe,KS,38.879830,-94.820044,census_place
+Ottawa,KS,38.598191,-95.262773,census_place
+Overbrook,KS,38.779367,-95.556967,census_place
+Parsons,KS,37.334013,-95.264998,census_place
+Phillipsburg,KS,39.751215,-99.320973,census_place
+Pleasanton,KS,38.177877,-94.705328,census_place
+Powhattan,KS,39.761734,-95.634011,census_place
+Pratt,KS,37.698576,-98.765936,census_place
+Prescott,KS,38.063122,-94.692512,census_place
+Russell,KS,38.887455,-98.851392,census_place
+Sabetha,KS,39.910228,-95.792832,census_place
+Saint Marys,KS,39.194178,-96.064198,census_place
+Salina,KS,38.810675,-97.614617,census_place
+Scott City,KS,38.478872,-100.903053,census_place
+Seneca,KS,39.837998,-96.069608,census_place
+Severy,KS,37.621955,-96.227525,census_place
+Smith Center,KS,39.773939,-98.783474,census_place
+South Haven,KS,37.049495,-97.401264,census_place
+South Hutchinson,KS,38.023124,-97.944967,census_place
+Spearville,KS,37.848067,-99.754714,census_place
+Strong City,KS,38.395431,-96.536666,census_place
+Sublette,KS,37.482179,-100.846563,census_place
+Tecumseh,KS,39.036209,-95.579538,census_place
+Tonganoxie,KS,39.104595,-95.078296,census_place
+Topeka,KS,39.034673,-95.696191,census_place
+Tribune,KS,38.472037,-101.754525,census_place
+Ulysses,KS,37.577342,-101.354864,census_place
+Wakeeney,KS,39.023449,-99.881455,census_place
+Washington,KS,39.815798,-97.048422,census_place
+Wathena,KS,39.761733,-94.926106,census_place
+Wellington,KS,37.278109,-97.406672,census_place
+Wellsville,KS,38.717662,-95.077862,census_place
+Wichita,KS,37.689344,-97.348353,census_place
+Albany,KY,36.690546,-85.135489,census_place
+Ashland,KY,38.459492,-82.645081,census_place
+Bardstown,KY,37.817665,-85.455345,census_place
+Beaver Dam,KY,37.403758,-86.873606,census_place
+Benton,KY,36.848000,-88.361649,census_place
+Berea,KY,37.589296,-84.294502,census_place
+Bowling Green,KY,36.976832,-86.433661,census_place
+Calvert City,KY,37.046422,-88.395537,census_place
+Campbellsville,KY,37.343920,-85.352238,census_place
+Caneyville,KY,37.422980,-86.499732,census_place
+Catlettsburg,KY,38.417041,-82.603017,census_place
+Columbia,KY,37.103437,-85.307537,census_place
+Corbin,KY,36.931584,-84.100790,census_place
+East Bernstadt,KY,37.192832,-84.130808,census_place
+Elizabethtown,KY,37.698686,-85.876689,census_place
+Florence,KY,38.993405,-84.648186,census_place
+Frankfort,KY,38.194966,-84.865877,census_place
+Franklin,KY,36.712847,-86.553630,census_place
+Georgetown,KY,38.259831,-84.535089,census_place
+Glencoe,KY,38.724990,-84.823276,census_place
+Glendale,KY,37.601730,-85.905520,geonames
+Grayson,KY,38.335777,-82.936013,census_place
+Greenup,KY,38.566245,-82.822945,census_place
+Hanson,KY,37.418006,-87.478957,census_place
+Henderson,KY,37.837649,-87.579666,census_place
+Hopkinsville,KY,36.839284,-87.473544,census_place
+Horse Cave,KY,37.169892,-85.917188,census_place
+Isom,KY,37.187880,-82.898770,geonames
+Kuttawa,KY,37.060467,-88.114389,census_place
+Lebanon Junction,KY,37.835239,-85.722355,census_place
+Lewisport,KY,37.930668,-86.902816,census_place
+Lexington,KY,38.040638,-84.458238,census_place
+London,KY,37.118437,-84.077948,census_place
+Louisville,KY,38.165376,-85.647377,census_place
+Madisonville,KY,37.339333,-87.503733,census_place
+Mayfield,KY,36.737459,-88.644491,census_place
+Maysville,KY,38.650015,-83.792961,census_place
+Middlesboro,KY,36.608420,-83.716580,geonames
+Morehead,KY,38.190071,-83.449134,census_place
+Morgantown,KY,37.217410,-86.700155,census_place
+Mortons Gap,KY,37.240706,-87.464606,census_place
+Mount Sterling,KY,38.065465,-83.948822,census_place
+Mount Vernon,KY,37.357071,-84.332869,census_place
+Murray,KY,36.614202,-88.322075,census_place
+Nicholasville,KY,37.892260,-84.565647,census_place
+Oak Grove,KY,36.673774,-87.422506,census_place
+Owensboro,KY,37.757172,-87.117398,census_place
+Paducah,KY,37.070892,-88.644477,census_place
+Pendleton,KY,38.462290,-85.303570,geonames
+Richmond,KY,37.729145,-84.299364,census_place
+Russell Springs,KY,37.050696,-85.080481,census_place
+Russellville,KY,36.839518,-86.895579,census_place
+Sadieville,KY,38.387958,-84.546656,census_place
+Scottsville,KY,36.749245,-86.207631,census_place
+Shepherdsville,KY,37.981425,-85.702007,census_place
+Simpsonville,KY,38.216376,-85.348781,census_place
+Smiths Grove,KY,37.050205,-86.208076,census_place
+Somerset,KY,37.086473,-84.605350,census_place
+Sonora,KY,37.525398,-85.898315,census_place
+Sparta,KY,38.695435,-84.906136,census_place
+Tollesboro,KY,38.559520,-83.576030,geonames
+Vanceburg,KY,38.594531,-83.323614,census_place
+Waddy,KY,38.137020,-85.074400,geonames
+Walton,KY,38.862427,-84.615043,census_place
+Williamsburg,KY,36.738714,-84.165651,census_place
+Willisburg,KY,37.811604,-85.119551,census_place
+Winchester,KY,38.002364,-84.190586,census_place
+Alexandria,LA,31.293449,-92.470189,census_place
+Amite,LA,30.726570,-90.508980,geonames
+Arcadia,LA,32.550848,-92.921373,census_place
+Baton Rouge,LA,30.440443,-91.133166,census_place
+Belle Chasse,LA,29.858668,-90.003268,census_place
+Belle Rose,LA,30.042205,-91.049721,census_place
+Berwick,LA,29.700548,-91.235184,census_place
+Bethany,LA,32.373210,-94.042690,geonames
+Bossier City,LA,32.523674,-93.655426,census_place
+Boyce,LA,31.389751,-92.670413,census_place
+Breaux Bridge,LA,30.280374,-91.903725,census_place
+Broussard,LA,30.137444,-91.955830,census_place
+Bunkie,LA,30.953661,-92.188111,census_place
+Calhoun,LA,32.515309,-92.353926,census_place
+Chalmette,LA,29.944015,-89.966005,census_place
+Convent,LA,30.011836,-90.820642,census_place
+Coushatta,LA,32.025834,-93.340597,census_place
+Crowley,LA,30.217897,-92.374840,census_place
+Cut Off,LA,29.516283,-90.329714,census_place
+Delcambre,LA,29.951114,-91.991710,census_place
+Delhi,LA,32.452843,-91.489976,census_place
+Delta,LA,32.321614,-90.955406,census_place
+Denham Springs,LA,30.474329,-90.959027,census_place
+Duson,LA,30.238403,-92.188896,census_place
+Egan,LA,30.249978,-92.508153,census_place
+Eunice,LA,30.490429,-92.419064,census_place
+Farmerville,LA,32.775105,-92.400519,census_place
+Franklin,LA,29.784946,-91.509567,census_place
+Frierson,LA,32.246949,-93.686859,census_place
+Galliano,LA,29.445868,-90.307654,census_place
+Garyville,LA,30.065647,-90.633793,census_place
+Gonzales,LA,30.212739,-90.922402,census_place
+Gramercy,LA,30.061951,-90.693938,census_place
+Grand Coteau,LA,30.420237,-92.043790,census_place
+Gray,LA,29.678003,-90.783138,census_place
+Greensburg,LA,30.829640,-90.669859,census_place
+Greenwood,LA,32.430949,-93.959909,census_place
+Grosse Tete,LA,30.415418,-91.439400,census_place
+Hammond,LA,30.506006,-90.454857,census_place
+Haughton,LA,32.527609,-93.504172,census_place
+Hosston,LA,32.886080,-93.882689,census_place
+Houma,LA,29.578637,-90.707901,census_place
+Ida,LA,32.998902,-93.896379,census_place
+Iowa,LA,30.241367,-93.013028,census_place
+Jennings,LA,30.223978,-92.658295,census_place
+Jonesville,LA,31.622318,-91.834430,census_place
+Kenner,LA,30.010227,-90.254820,census_place
+Kentwood,LA,30.933755,-90.515162,census_place
+La Place,LA,30.072157,-90.477008,census_place
+Lafayette,LA,30.206989,-92.028873,census_place
+Lake Charles,LA,30.199020,-93.210835,census_place
+Larose,LA,29.565196,-90.376167,census_place
+Leesville,LA,31.141120,-93.284230,census_place
+Livingston,LA,30.495289,-90.746698,census_place
+Mansfield,LA,32.035854,-93.699429,census_place
+Mansura,LA,31.067324,-92.052825,census_place
+Marrero,LA,29.885715,-90.113200,census_place
+Mathews,LA,29.682154,-90.555900,census_place
+Minden,LA,32.619146,-93.272754,census_place
+Monroe,LA,32.518986,-92.077180,census_place
+Morgan City,LA,29.710332,-91.191542,census_place
+Natchitoches,LA,31.734800,-93.100736,census_place
+New Iberia,LA,30.005493,-91.820307,census_place
+New Orleans,LA,30.052877,-89.934502,census_place
+Oakdale,LA,30.816418,-92.655855,census_place
+Opelousas,LA,30.524897,-92.081654,census_place
+Pearl River,LA,30.366312,-89.744876,census_place
+Plaquemine,LA,30.283156,-91.243812,census_place
+Port Allen,LA,30.443835,-91.207410,census_place
+Port Barre,LA,30.555523,-91.955962,census_place
+Raceland,LA,29.723511,-90.629673,census_place
+Rayne,LA,30.240513,-92.267335,census_place
+Rayville,LA,32.470982,-91.757449,census_place
+Reserve,LA,30.072962,-90.555022,census_place
+Roanoke,LA,30.235526,-92.748141,census_place
+Ruston,LA,32.533817,-92.635243,census_place
+Saint Francisville,LA,30.784234,-91.376417,census_place
+Saint Gabriel,LA,30.255202,-91.100363,census_place
+Saint James,LA,30.018643,-90.850881,census_place
+Saint Martinville,LA,30.127773,-91.830845,census_place
+Saint Rose,LA,29.963182,-90.307218,census_place
+Schriever,LA,29.728672,-90.835398,census_place
+Shreveport,LA,32.466879,-93.792193,census_place
+Slidell,LA,30.288913,-89.782926,census_place
+Sorrento,LA,30.183623,-90.866567,census_place
+Springhill,LA,33.001934,-93.461511,census_place
+Starks,LA,30.310462,-93.666698,census_place
+Sulphur,LA,30.229792,-93.356343,census_place
+Tallulah,LA,32.406696,-91.191700,census_place
+Thibodaux,LA,29.794874,-90.814578,census_place
+Vidalia,LA,31.566751,-91.440444,census_place
+Ville Platte,LA,30.689858,-92.274165,census_place
+Vinton,LA,30.195435,-93.582246,census_place
+Vivian,LA,32.871072,-93.986249,census_place
+West Monroe,LA,32.511528,-92.151411,census_place
+Westwego,LA,29.905363,-90.143545,census_place
+Winnfield,LA,31.923969,-92.642475,census_place
+Adams,MA,42.629085,-73.118747,census_place
+Ayer,MA,42.562221,-71.584844,census_place
+Berlin,MA,42.381200,-71.637010,geonames
+Blandford,MA,42.175006,-72.923862,census_place
+Boylston,MA,42.391760,-71.703680,geonames
+Bridgewater,MA,41.990380,-70.975040,geonames
+Charlton,MA,42.135650,-71.970070,geonames
+Chicopee,MA,42.175678,-72.571777,census_place
+Fall River,MA,41.718593,-71.092943,census_place
+Framingham,MA,42.307905,-71.436196,census_place
+Lancaster,MA,42.455650,-71.673120,geonames
+Lee,MA,42.306836,-73.250736,census_place
+Leominster,MA,42.520876,-71.770611,census_place
+Lexington,MA,42.445222,-71.230015,census_place
+Ludlow,MA,42.160090,-72.475920,geonames
+Methuen,MA,42.742648,-71.178643,census_place
+Millbury,MA,42.193980,-71.760070,geonames
+Natick,MA,42.283430,-71.349500,geonames
+Newton Lower Falls,MA,42.329260,-71.253670,geonames
+North Billerica,MA,42.583430,-71.284500,geonames
+North Oxford,MA,42.150090,-71.868410,geonames
+Norwood,MA,42.187364,-71.195971,census_place
+Orange,MA,42.605250,-72.292176,census_place
+Peabody,MA,42.534499,-70.968960,census_place
+Plymouth,MA,41.958343,-70.663800,census_place
+Salisbury,MA,42.831125,-70.847078,census_place
+Seekonk,MA,41.808430,-71.337000,geonames
+Shrewsbury,MA,42.295930,-71.712850,geonames
+Springfield,MA,42.115454,-72.539978,census_place
+Sturbridge,MA,42.097129,-72.054968,census_place
+Sutton,MA,42.150100,-71.762850,geonames
+Uxbridge,MA,42.077320,-71.629510,geonames
+Westborough,MA,42.267441,-71.617492,census_place
+Westminster,MA,42.545920,-71.910630,geonames
+Whately,MA,42.439810,-72.634810,geonames
+Wrentham,MA,42.066770,-71.328110,geonames
+Brandon,MB,49.846920,-99.953060,geonames
+Dugald,MB,49.886100,-96.838720,geonames
+Headingley,MB,49.875300,-97.408960,geonames
+Portage La Prairie,MB,49.972820,-98.292630,geonames
+Ste Agathe,MB,49.566090,-97.183950,geonames
+Winnipeg,MB,49.884400,-97.147040,geonames
+Aberdeen,MD,39.516403,-76.174518,census_place
+Accident,MD,39.625688,-79.319958,census_place
+Baltimore,MD,39.300061,-76.610518,census_place
+Beltsville,MD,39.039903,-76.920443,census_place
+Big Pool,MD,39.625094,-78.016168,census_place
+Bladensburg,MD,38.941622,-76.927838,census_place
+Brandywine,MD,38.682795,-76.884463,census_place
+Capitol Heights,MD,38.874920,-76.879575,census_place
+Centreville,MD,39.042265,-76.062538,census_place
+Clinton,MD,38.742826,-76.908675,census_place
+Cumberland,MD,39.651739,-78.757948,census_place
+Curtis Bay,MD,39.226770,-76.588020,geonames
+Denton,MD,38.879421,-75.824452,census_place
+Dundalk,MD,39.267267,-76.497601,census_place
+Edgewood,MD,39.420290,-76.296846,census_place
+Elkridge,MD,39.194624,-76.741569,census_place
+Elkton,MD,39.605776,-75.821686,census_place
+Emmitsburg,MD,39.705193,-77.321301,census_place
+Frederick,MD,39.438528,-77.411687,census_place
+Gaithersburg,MD,39.148601,-77.195131,census_place
+Glen Burnie,MD,39.156271,-76.606996,census_place
+Grantsville,MD,39.696916,-79.152849,census_place
+Hagerstown,MD,39.637986,-77.723252,census_place
+Hancock,MD,39.704574,-78.163265,census_place
+Hunt Valley,MD,39.499830,-76.641080,geonames
+Hurlock,MD,38.625739,-75.867517,census_place
+Hyattsville,MD,38.961205,-76.954935,census_place
+Jessup,MD,39.148320,-76.776904,census_place
+Mardela Springs,MD,38.457811,-75.755377,census_place
+Middle River,MD,39.339140,-76.428764,census_place
+Millersville,MD,39.059550,-76.648020,geonames
+Newburg,MD,38.377350,-76.953310,geonames
+North East,MD,39.607998,-75.941623,census_place
+Nottingham,MD,39.364000,-76.452180,override
+Perryville,MD,39.572995,-76.064780,census_place
+Rockville,MD,39.083666,-77.155585,census_place
+Salisbury,MD,38.375198,-75.586555,census_place
+Thurmont,MD,39.619976,-77.407695,census_place
+Upper Marlboro,MD,38.815721,-76.756752,census_place
+Waldorf,MD,38.617110,-76.908579,census_place
+Walkersville,MD,39.474226,-77.363002,census_place
+Westover,MD,38.124010,-75.706320,geonames
+White Marsh,MD,39.380642,-76.456681,census_place
+Williamsport,MD,39.597350,-77.817972,census_place
+Auburn,ME,44.084537,-70.249649,census_place
+Augusta,ME,44.334904,-69.734199,census_place
+Baileyville,ME,45.182324,-67.441679,census_cousub
+Bangor,ME,44.829625,-68.788767,census_place
+Biddeford,ME,43.438733,-70.392943,census_place
+Brownville,ME,45.307000,-69.033370,geonames
+Canaan,ME,44.761730,-69.561440,geonames
+Corinna,ME,44.922741,-69.265852,census_place
+Corinth,ME,44.980473,-69.010748,census_cousub
+Dover Foxcroft,ME,45.204630,-69.223534,census_place
+Fairfield,ME,44.590339,-69.605215,census_place
+Farmington,ME,44.668373,-70.144039,census_place
+Greenville,ME,45.466184,-69.578033,census_place
+Holden,ME,44.752850,-68.678920,geonames
+Houlton,ME,46.121447,-67.832210,census_place
+Kittery,ME,43.089985,-70.738321,census_place
+Liberty,ME,44.389240,-69.302820,geonames
+Lincoln,ME,45.359686,-68.502152,census_place
+Medway,ME,45.608940,-68.530860,geonames
+Newport,ME,44.836450,-69.254854,census_place
+Portland,ME,43.633157,-70.185305,census_place
+Princeton,ME,45.223410,-67.572220,geonames
+Richmond,ME,44.099038,-69.809567,census_place
+Scarborough,ME,43.578140,-70.321720,geonames
+Sherman,ME,45.871160,-68.417810,geonames
+Skowhegan,ME,44.778149,-69.712196,census_place
+Turner,ME,44.257811,-70.257865,census_place
+Warren,ME,44.120360,-69.240050,geonames
+West Paris,ME,44.324230,-70.573950,geonames
+Adrian,MI,41.898780,-84.044829,census_place
+Albion,MI,42.247855,-84.759191,census_place
+Alma,MI,43.383901,-84.651742,census_place
+Battle Creek,MI,42.299176,-85.229267,census_place
+Bay City,MI,43.590062,-83.888421,census_place
+Belleville,MI,42.198498,-83.479957,census_place
+Benton Harbor,MI,42.113495,-86.447250,census_place
+Bessemer,MI,46.477579,-90.049836,census_place
+Big Rapids,MI,43.699671,-85.481250,census_place
+Bridgeport,MI,43.370815,-83.881964,census_place
+Bridgman,MI,41.935169,-86.567110,census_place
+Burton,MI,43.000745,-83.618151,census_place
+Byron Center,MI,42.807830,-85.726663,census_place
+Cadillac,MI,44.246631,-85.432311,census_place
+Caledonia,MI,42.794743,-85.517100,census_place
+Canton,MI,42.308650,-83.482160,geonames
+Capac,MI,43.003889,-82.922280,census_place
+Caro,MI,43.489303,-83.401744,census_place
+Casco,MI,42.752530,-82.671580,geonames
+Cedar Springs,MI,43.220424,-85.554367,census_place
+Champion,MI,46.513820,-87.963470,geonames
+Clare,MI,43.826006,-84.761755,census_place
+Coopersville,MI,43.065467,-85.933752,census_place
+Dearborn,MI,42.313057,-83.211488,census_place
+Detroit,MI,42.383037,-83.102237,census_place
+Dewitt,MI,42.838828,-84.583837,census_place
+Dexter,MI,42.332256,-83.881027,census_place
+Dundee,MI,41.966555,-83.669468,census_place
+Eagle,MI,42.809794,-84.790890,census_place
+Escanaba,MI,45.746289,-87.083605,census_place
+Fenton,MI,42.800606,-83.717708,census_place
+Flint,MI,43.024420,-83.691971,census_place
+Fowlerville,MI,42.659380,-84.073743,census_place
+Gaylord,MI,45.021342,-84.681822,census_place
+Grand Blanc,MI,42.932537,-83.620491,census_place
+Grand Haven,MI,43.054969,-86.219349,census_place
+Grand Ledge,MI,42.752927,-84.744901,census_place
+Grand Rapids,MI,42.961156,-85.655570,census_place
+Grayling,MI,44.657960,-84.711067,census_place
+Gwinn,MI,46.285373,-87.441915,census_place
+Hart,MI,43.692043,-86.369453,census_place
+Holland,MI,42.767561,-86.098585,census_place
+Holly,MI,42.798799,-83.622967,census_place
+Houghton Lake,MI,44.301067,-84.749865,census_place
+Howard City,MI,43.393266,-85.466107,census_place
+Hudsonville,MI,42.861139,-85.867459,census_place
+Imlay City,MI,43.014977,-83.079153,census_place
+Ionia,MI,42.976821,-85.074633,census_place
+Iron Mountain,MI,45.826888,-88.059435,census_place
+Ironwood,MI,46.452209,-90.150432,census_place
+Ithaca,MI,43.291094,-84.595673,census_place
+Jackson,MI,42.243441,-84.404858,census_place
+Kalamazoo,MI,42.275163,-85.588501,census_place
+Lake Odessa,MI,42.782920,-85.137538,census_place
+Lansing,MI,42.714341,-84.560889,census_place
+Lapeer,MI,43.045232,-83.326441,census_place
+Lennon,MI,42.985440,-83.932530,census_place
+Lincoln Park,MI,42.243291,-83.181258,census_place
+Livonia,MI,42.397183,-83.372319,census_place
+Lowell,MI,42.936847,-85.347976,census_place
+Luna Pier,MI,41.804506,-83.443305,census_place
+Manistique,MI,45.959744,-86.250953,census_place
+Marlette,MI,43.326439,-83.080519,census_place
+Marquette,MI,46.550698,-87.395833,census_place
+Marshall,MI,42.265201,-84.974241,census_place
+Mattawan,MI,42.215641,-85.795772,census_place
+Memphis,MI,42.895234,-82.768258,census_place
+Middleton,MI,43.183370,-84.708890,geonames
+Milan,MI,42.081347,-83.684793,census_place
+Monroe,MI,41.916586,-83.384324,census_place
+Mount Morris,MI,43.117664,-83.698729,census_place
+Mount Pleasant,MI,43.596710,-84.775972,census_place
+Muskegon,MI,43.226540,-86.257247,census_place
+New Baltimore,MI,42.685306,-82.737649,census_place
+New Boston,MI,42.162540,-83.402990,geonames
+Newberry,MI,46.353821,-85.509804,census_place
+Newport,MI,42.002270,-83.308540,geonames
+Niles,MI,41.834539,-86.247851,census_place
+Ottawa Lake,MI,41.773620,-83.727320,geonames
+Parma,MI,42.265443,-84.548989,census_place
+Paw Paw,MI,42.214235,-85.892177,census_place
+Perry,MI,42.832030,-84.220112,census_place
+Pinconning,MI,43.857719,-83.964138,census_place
+Port Huron,MI,42.993766,-82.433743,census_place
+Portland,MI,42.869794,-84.898930,census_place
+Rapid River,MI,45.926394,-86.974284,census_place
+Redford,MI,42.383370,-83.296600,geonames
+Reed City,MI,43.872754,-85.507006,census_place
+Riverview,MI,42.173456,-83.198380,census_place
+Rockford,MI,43.136836,-85.554586,census_place
+Romulus,MI,42.221261,-83.367437,census_place
+Roseville,MI,42.507586,-82.936582,census_place
+Saginaw,MI,43.417678,-83.954716,census_place
+Saint Clair,MI,42.826530,-82.492433,census_place
+Saint Ignace,MI,45.887172,-84.731698,census_place
+Sault Sainte Marie,MI,46.476169,-84.370544,census_place
+Sawyer,MI,41.885320,-86.589470,geonames
+Scottville,MI,43.951101,-86.279816,census_place
+Smiths Creek,MI,42.913920,-82.603810,geonames
+Stephenson,MI,45.413734,-87.609107,census_place
+Taylor,MI,42.225283,-83.267691,census_place
+Tekonsha,MI,42.100754,-84.991554,census_place
+Three Rivers,MI,41.945386,-85.629548,census_place
+Traverse City,MI,44.754309,-85.603011,census_place
+Trenton,MI,42.140249,-83.192363,census_place
+Wakefield,MI,46.476904,-89.933430,census_place
+Warren,MI,42.492904,-83.025001,census_place
+Wayland,MI,42.673081,-85.641727,census_place
+Wellston,MI,44.222689,-85.968132,census_place
+West Branch,MI,44.273789,-84.236589,census_place
+White Pigeon,MI,41.795231,-85.650404,census_place
+Whitmore Lake,MI,42.420281,-83.752134,census_place
+Wixom,MI,42.522781,-83.530188,census_place
+Wyoming,MI,42.890317,-85.706733,census_place
+Adrian,MN,43.633560,-95.932804,census_place
+Albert Lea,MN,43.654293,-93.364148,census_place
+Alden,MN,43.667463,-93.569885,census_place
+Alexandria,MN,45.877178,-95.376965,census_place
+Andover,MN,45.252420,-93.337402,census_place
+Anoka,MN,45.214398,-93.391638,census_place
+Appleton,MN,45.199475,-96.022226,census_place
+Austin,MN,43.672098,-92.977863,census_place
+Belle Plaine,MN,44.619780,-93.764595,census_place
+Bemidji,MN,47.487034,-94.882690,census_place
+Blue Earth,MN,43.643087,-94.101830,census_place
+Brainerd,MN,46.355269,-94.198372,census_place
+Buffalo,MN,45.179510,-93.863995,census_place
+Byron,MN,44.038326,-92.640781,census_place
+Caledonia,MN,43.634127,-91.500399,census_place
+Cambridge,MN,45.560772,-93.227702,census_place
+Carlton,MN,46.655769,-92.430397,census_place
+Chatfield,MN,43.844464,-92.182851,census_place
+Chisago City,MN,45.371990,-92.914619,census_place
+Circle Pines,MN,45.143748,-93.147517,census_place
+Clara City,MN,44.957438,-95.367668,census_place
+Clearwater,MN,45.409879,-94.044560,census_place
+Cloquet,MN,46.725070,-92.501330,census_place
+Cohasset,MN,47.241387,-93.662895,census_place
+Cokato,MN,45.076721,-94.187548,census_place
+DUNDAS,MN,44.427698,-93.203788,census_place
+Dakota,MN,43.906505,-91.356310,census_place
+Delano,MN,45.038533,-93.793102,census_place
+Detroit Lakes,MN,46.807582,-95.846612,census_place
+Duluth,MN,46.774458,-92.134135,census_place
+Elk River,MN,45.332212,-93.566528,census_place
+Ellendale,MN,43.872721,-93.299331,census_place
+Erskine,MN,47.663163,-96.016683,census_place
+Eyota,MN,43.988310,-92.232124,census_place
+Fairmont,MN,43.644789,-94.464015,census_place
+Faribault,MN,44.301116,-93.276793,census_place
+Fergus Falls,MN,46.286114,-96.075796,census_place
+Forest Lake,MN,45.250820,-92.966907,census_place
+Gaylord,MN,44.555770,-94.213222,census_place
+Glencoe,MN,44.769566,-94.151027,census_place
+Glyndon,MN,46.870987,-96.578411,census_place
+Hastings,MN,44.731781,-92.853284,census_place
+Heron Lake,MN,43.798059,-95.319778,census_place
+Hinckley,MN,46.013033,-92.912722,census_place
+Hugo,MN,45.164225,-92.960105,census_place
+Hutchinson,MN,44.885358,-94.376876,census_place
+International Falls,MN,48.586353,-93.407743,census_place
+Inver Grove Heights,MN,44.829015,-93.060072,census_place
+Isanti,MN,45.491545,-93.242818,census_place
+Ivanhoe,MN,44.464282,-96.251729,census_place
+Jackson,MN,43.625680,-94.988585,census_place
+Janesville,MN,44.119846,-93.709698,census_place
+Kasson,MN,44.033174,-92.748578,census_place
+Kimball,MN,45.314330,-94.300807,census_place
+Lake City,MN,44.445705,-92.280925,census_place
+Lake Park,MN,46.883760,-96.097961,census_place
+Lakeville,MN,44.675795,-93.250906,census_place
+Little Falls,MN,45.987730,-94.354805,census_place
+Luverne,MN,43.653542,-96.214185,census_place
+Mankato,MN,44.171124,-93.975605,census_place
+Melrose,MN,45.677008,-94.814774,census_place
+Milaca,MN,45.758035,-93.651565,census_place
+Minneapolis,MN,44.963324,-93.268320,census_place
+Minnesota City,MN,44.092697,-91.749953,census_place
+Moose Lake,MN,46.450299,-92.760955,census_place
+Mora,MN,45.876981,-93.290284,census_place
+Motley,MN,46.334754,-94.642772,census_place
+Mountain Lake,MN,43.942382,-94.925361,census_place
+New Prague,MN,44.545738,-93.575585,census_place
+New Ulm,MN,44.312067,-94.468896,census_place
+New York Mills,MN,46.519630,-95.372780,census_place
+North Branch,MN,45.509885,-92.955655,census_place
+Northfield,MN,44.455645,-93.170311,census_place
+Norwood Young America,MN,44.772107,-93.917287,census_place
+Ogilvie,MN,45.829988,-93.423093,census_place
+Oronoco,MN,44.159437,-92.543060,census_place
+Ortonville,MN,45.302445,-96.442223,census_place
+Owatonna,MN,44.092422,-93.233615,census_place
+Park Rapids,MN,46.916394,-95.057932,census_place
+Paynesville,MN,45.378519,-94.721592,census_place
+Perham,MN,46.600057,-95.578078,census_place
+Pillager,MN,46.330576,-94.477417,census_place
+Pine City,MN,45.840980,-92.966492,census_place
+Pipestone,MN,43.995916,-96.311080,census_place
+Plainview,MN,44.164687,-92.169190,census_place
+Princeton,MN,45.568215,-93.590254,census_place
+Randall,MN,46.088667,-94.500718,census_place
+Red Wing,MN,44.581265,-92.605011,census_place
+Redwood Falls,MN,44.544335,-95.098341,census_place
+Rochester,MN,44.014299,-92.478592,census_place
+Rogers,MN,45.184537,-93.575528,census_place
+Roseau,MN,48.844462,-95.762434,census_place
+Rothsay,MN,46.473091,-96.284242,census_place
+Rush City,MN,45.687442,-92.965303,census_place
+Rushford,MN,43.813437,-91.753828,census_place
+Saint Charles,MN,43.968774,-92.059860,census_place
+Saint Cloud,MN,45.526690,-94.171008,census_place
+Saint James,MN,43.983240,-94.626062,census_place
+Saint Joseph,MN,45.565070,-94.302070,census_place
+Saint Michael,MN,45.199238,-93.689526,census_place
+Saint Paul,MN,44.948913,-93.104030,census_place
+Saint Peter,MN,44.329282,-93.967656,census_place
+Sauk Centre,MN,45.736472,-94.952729,census_place
+Sauk Rapids,MN,45.594724,-94.152747,census_place
+Savage,MN,44.759057,-93.364213,census_place
+Shakopee,MN,44.771906,-93.475699,census_place
+Sherburn,MN,43.654900,-94.727489,census_place
+Slayton,MN,43.990229,-95.758371,census_place
+Sleepy Eye,MN,44.298945,-94.723594,census_place
+South Saint Paul,MN,44.888027,-93.040497,census_place
+Stacy,MN,45.423044,-92.970320,census_place
+Stewart,MN,44.723772,-94.486595,census_place
+Stewartville,MN,43.861042,-92.490008,census_place
+Stillwater,MN,45.058590,-92.830436,census_place
+Thief River Falls,MN,48.111241,-96.177562,census_place
+Truman,MN,43.827872,-94.436569,census_place
+Two Harbors,MN,47.029954,-91.675744,census_place
+Waconia,MN,44.841154,-93.790349,census_place
+Waite Park,MN,45.520868,-94.242983,census_place
+Wanamingo,MN,44.302775,-92.787281,census_place
+Willmar,MN,45.121029,-95.058734,census_place
+Windom,MN,43.873552,-95.119136,census_place
+Worthington,MN,43.628733,-95.599702,census_place
+Zumbrota,MN,44.295165,-92.672870,census_place
+Alexandria,MO,40.359890,-91.459391,census_place
+Aurora,MO,36.967436,-93.718596,census_place
+Barnhart,MO,38.336604,-90.403095,census_place
+Bates City,MO,39.003936,-94.063391,census_place
+Bethany,MO,40.268164,-94.029822,census_place
+Bevier,MO,39.751449,-92.563896,census_place
+Bloomsdale,MO,38.014427,-90.220348,census_place
+Bois D Arc,MO,37.256440,-93.507700,geonames
+Bolivar,MO,37.603518,-93.416730,census_place
+Boonville,MO,38.961439,-92.746203,census_place
+Bowling Green,MO,39.344774,-91.202488,census_place
+Bridgeton,MO,38.773317,-90.416997,census_place
+Brookfield,MO,39.785329,-93.077967,census_place
+Cabool,MO,37.126012,-92.103986,census_place
+California,MO,38.630306,-92.567079,census_place
+Cameron,MO,39.743977,-94.232367,census_place
+Canton,MO,40.129921,-91.527015,census_place
+Cardwell,MO,36.047480,-90.290905,census_place
+Carthage,MO,37.147317,-94.323362,census_place
+Center,MO,39.509438,-91.529335,census_place
+Charleston,MO,36.916934,-89.333912,census_place
+Chillicothe,MO,39.794761,-93.547397,census_place
+Clinton,MO,38.371172,-93.768142,census_place
+Collins,MO,37.889607,-93.621824,census_place
+Columbia,MO,38.947290,-92.326387,census_place
+Concordia,MO,38.987513,-93.569227,census_place
+Cuba,MO,38.067095,-91.405733,census_place
+Dearborn,MO,39.525205,-94.772588,census_place
+Deerfield,MO,37.838652,-94.507702,census_place
+Dexter,MO,36.792821,-89.962969,census_place
+Eagleville,MO,40.468725,-93.985963,census_place
+Eldon,MO,38.351176,-92.576704,census_place
+Ellsinore,MO,36.932839,-90.747672,census_place
+Eolia,MO,39.237890,-91.013166,census_place
+Fair Grove,MO,37.383321,-93.152154,census_place
+Faucett,MO,39.600244,-94.797470,census_place
+Fenton,MO,38.528480,-90.450758,census_place
+Forest City,MO,39.982950,-95.188310,census_place
+Foristell,MO,38.814393,-90.958962,census_place
+Fredericktown,MO,37.562912,-90.303605,census_place
+Fulton,MO,38.855146,-91.950802,census_place
+Gallatin,MO,39.910352,-93.964011,census_place
+Glasgow,MO,39.228504,-92.837742,census_place
+Grain Valley,MO,39.015227,-94.213839,census_place
+Grandview,MO,38.881359,-94.522744,census_place
+Hamilton,MO,39.743535,-94.002400,census_place
+Hannibal,MO,39.708646,-91.399521,census_place
+Harrisonville,MO,38.650159,-94.350483,census_place
+Hayti,MO,36.232528,-89.747362,census_place
+Hazelwood,MO,38.794706,-90.396002,census_place
+Herculaneum,MO,38.257558,-90.393130,census_place
+Higginsville,MO,39.064863,-93.726835,census_place
+Holt,MO,39.454209,-94.338511,census_place
+Jackson,MO,37.379922,-89.654073,census_place
+Jamestown,MO,38.769237,-92.483904,census_place
+Jasper,MO,37.335665,-94.302795,census_place
+Jefferson City,MO,38.567461,-92.175254,census_place
+Jonesburg,MO,38.856376,-91.303157,census_place
+Joplin,MO,37.075218,-94.501259,census_place
+Kansas City,MO,39.125155,-94.550313,census_place
+Kearney,MO,39.355111,-94.358580,census_place
+King City,MO,40.050567,-94.525167,census_place
+Kingdom City,MO,38.947306,-91.935419,census_place
+Koshkonong,MO,36.597444,-91.645953,census_place
+La Plata,MO,40.023952,-92.490779,census_place
+Laddonia,MO,39.242798,-91.642566,census_place
+Lamar,MO,37.493918,-94.278428,census_place
+Lancaster,MO,40.526323,-92.531732,census_place
+Lathrop,MO,39.561848,-94.319853,census_place
+Lebanon,MO,37.672131,-92.659670,census_place
+Liberty,MO,39.241270,-94.419445,census_place
+Louisiana,MO,39.441456,-91.062033,census_place
+Lowry City,MO,38.140018,-93.726769,census_place
+Macon,MO,39.742230,-92.470551,census_place
+Malta Bend,MO,39.193986,-93.363500,census_place
+Mansfield,MO,37.109843,-92.580955,census_place
+Marston,MO,36.517177,-89.605831,census_place
+Maryville,MO,40.342515,-94.870048,census_place
+Matthews,MO,36.756800,-89.567477,census_place
+Mexico,MO,39.162169,-91.872770,census_place
+Milan,MO,40.203239,-93.124004,census_place
+Mineral Point,MO,37.945577,-90.724632,census_place
+Moberly,MO,39.418112,-92.436544,census_place
+Monett,MO,36.921470,-93.927108,census_place
+Mound City,MO,40.136503,-95.233739,census_place
+Mount Vernon,MO,37.104823,-93.818683,census_place
+Mountain View,MO,36.993719,-91.701863,census_place
+Neelyville,MO,36.556292,-90.513676,census_place
+Nelson,MO,38.994503,-93.030816,census_place
+Neosho,MO,36.845458,-94.376438,census_place
+Nevada,MO,37.844908,-94.350321,census_place
+New Florence,MO,38.908466,-91.454789,census_place
+New London,MO,39.584704,-91.398977,census_place
+New Madrid,MO,36.586507,-89.551201,census_place
+Newburg,MO,37.915584,-91.900374,census_place
+Norwood,MO,37.107192,-92.418931,census_place
+Oak Grove,MO,39.007033,-94.128441,census_place
+Owensville,MO,38.348438,-91.497361,census_place
+Ozark,MO,37.033600,-93.218044,census_place
+Pacific,MO,38.479724,-90.749453,census_place
+Palmyra,MO,39.797911,-91.526558,census_place
+Park Hills,MO,37.815647,-90.498344,census_place
+Peculiar,MO,38.733428,-94.470686,census_place
+Perryville,MO,37.726330,-89.876493,census_place
+Pevely,MO,38.288089,-90.400038,census_place
+Platte City,MO,39.359735,-94.756320,census_place
+Poplar Bluff,MO,36.763259,-90.413953,census_place
+Purdy,MO,36.818760,-93.920551,census_place
+Queen City,MO,40.411775,-92.566678,census_place
+Qulin,MO,36.595255,-90.246295,census_place
+Republic,MO,37.168552,-93.413059,census_place
+Rich Hill,MO,38.095871,-94.363462,census_place
+Richland,MO,37.861142,-92.399744,census_place
+Ridgedale,MO,36.503950,-93.223790,geonames
+Rock Port,MO,40.410911,-95.533087,census_place
+Rogersville,MO,37.114961,-93.075040,census_place
+Rolla,MO,37.946433,-91.761116,census_place
+Saint Charles,MO,38.795702,-90.515364,census_place
+Saint James,MO,38.002356,-91.613372,census_place
+Saint Joseph,MO,39.759460,-94.821143,census_place
+Saint Louis,MO,38.635699,-90.244582,census_place
+Saint Peters,MO,38.781323,-90.604970,census_place
+Saint Robert,MO,37.830607,-92.157005,census_place
+Sainte Genevieve,MO,37.973116,-90.052789,census_place
+Salem,MO,37.639568,-91.534860,census_place
+Sarcoxie,MO,37.068571,-94.126920,census_place
+Savannah,MO,39.938789,-94.828049,census_place
+Scott City,MO,37.224475,-89.537758,census_place
+Sedalia,MO,38.705239,-93.235819,census_place
+Seymour,MO,37.147424,-92.768837,census_place
+Shelbina,MO,39.693022,-92.039652,census_place
+Sikeston,MO,36.883729,-89.587199,census_place
+Slater,MO,39.223279,-93.065347,census_place
+Springfield,MO,37.195337,-93.292363,census_place
+Steele,MO,36.094790,-89.862102,census_place
+Strafford,MO,37.268711,-93.117963,census_place
+Sullivan,MO,38.212610,-91.163998,census_place
+Tarkio,MO,40.442988,-95.383516,census_place
+Taylor,MO,39.938100,-91.523770,geonames
+Trenton,MO,40.081255,-93.602387,census_place
+Unionville,MO,40.475708,-93.004416,census_place
+Villa Ridge,MO,38.465699,-90.882348,census_place
+Warrensburg,MO,38.761267,-93.717581,census_place
+Warrenton,MO,38.819056,-91.137933,census_place
+Wayland,MO,40.396301,-91.575443,census_place
+Waynesville,MO,37.819832,-92.221403,census_place
+West Plains,MO,36.737430,-91.867957,census_place
+Willow Springs,MO,36.986752,-91.961551,census_place
+Windsor,MO,38.532265,-93.522945,census_place
+Winston,MO,39.869730,-94.141598,census_place
+Batesville,MS,34.320982,-89.924878,census_place
+Beaumont,MS,31.167342,-88.928251,census_place
+Belden,MS,34.310380,-88.788390,geonames
+Biloxi,MS,30.426663,-88.935762,census_place
+Brookhaven,MS,31.580567,-90.443386,census_place
+Buckatunna,MS,31.553199,-88.534283,census_place
+Byhalia,MS,34.869188,-89.689993,census_place
+Byram,MS,32.192137,-90.286965,census_place
+Canton,MS,32.598419,-90.032191,census_place
+Carthage,MS,32.744227,-89.533452,census_place
+Cleveland,MS,33.744008,-90.728476,census_place
+Coldwater,MS,34.690376,-89.975517,census_place
+Collins,MS,31.648272,-89.567581,census_place
+Columbia,MS,31.258593,-89.818669,census_place
+Columbus,MS,33.508208,-88.407128,census_place
+Como,MS,34.513561,-89.939947,census_place
+Corinth,MS,34.948353,-88.513618,census_place
+Ecru,MS,34.347992,-89.025632,census_place
+Ellisville,MS,31.597277,-89.210269,census_place
+Florence,MS,32.155615,-90.122454,census_place
+Flowood,MS,32.336101,-90.072874,census_place
+Forest,MS,32.359838,-89.475908,census_place
+Greenville,MS,33.383290,-91.052088,census_place
+Greenwood,MS,33.512460,-90.198963,census_place
+Grenada,MS,33.781445,-89.811547,census_place
+Gulfport,MS,30.419487,-89.069022,census_place
+Guntown,MS,34.445294,-88.665958,census_place
+Hattiesburg,MS,31.307305,-89.317434,census_place
+Heidelberg,MS,31.890513,-88.990218,census_place
+Holly Springs,MS,34.778017,-89.445819,census_place
+Houston,MS,33.896180,-89.003679,census_place
+Indianola,MS,33.448896,-90.643752,census_place
+Jackson,MS,32.315834,-90.212850,census_place
+Kosciusko,MS,33.058169,-89.589364,census_place
+Lake,MS,32.329992,-89.314350,census_place
+Lauderdale,MS,32.510394,-88.526366,census_place
+Laurel,MS,31.689866,-89.148281,census_place
+Lawrence,MS,32.325140,-89.232840,geonames
+Leland,MS,33.404834,-90.890925,census_place
+Louisville,MS,33.122934,-89.054879,census_place
+Lucedale,MS,30.931213,-88.595896,census_place
+Lyon,MS,34.216925,-90.543195,census_place
+Madison,MS,32.473884,-90.130865,census_place
+Magee,MS,31.873006,-89.734001,census_place
+Mathiston,MS,33.538877,-89.125890,census_place
+McComb,MS,31.244474,-90.471593,census_place
+Mccomb,MS,31.244474,-90.471593,census_place
+Meridian,MS,32.384170,-88.689448,census_place
+Morton,MS,32.345528,-89.659145,census_place
+Moss Point,MS,30.425873,-88.532639,census_place
+Mount Pleasant,MS,34.953977,-89.525599,census_place
+Natchez,MS,31.542438,-91.385649,census_place
+New Albany,MS,34.492286,-89.021720,census_place
+New Augusta,MS,31.203377,-89.029338,census_place
+Newton,MS,32.330112,-89.147528,census_place
+Oakland,MS,34.057581,-89.913225,census_place
+Ocean Springs,MS,30.402704,-88.788647,census_place
+Okolona,MS,34.005061,-88.747692,census_place
+Olive Branch,MS,34.955780,-89.841185,census_place
+Oxford,MS,34.351262,-89.536981,census_place
+Pearl,MS,32.271347,-90.093698,census_place
+Pelahatchie,MS,32.320903,-89.807951,census_place
+Picayune,MS,30.530820,-89.670628,census_place
+Pickens,MS,32.891331,-89.968785,census_place
+Poplarville,MS,30.839936,-89.530420,census_place
+Purvis,MS,31.146366,-89.406281,census_place
+Red Banks,MS,34.834689,-89.563407,census_place
+Richland,MS,32.230413,-90.159622,census_place
+Saltillo,MS,34.380293,-88.696217,census_place
+Sandersville,MS,31.784016,-89.039758,census_place
+Scooba,MS,32.830179,-88.477118,census_place
+Senatobia,MS,34.608650,-89.980994,census_place
+Shannon,MS,34.114416,-88.693131,census_place
+Shelby,MS,33.950528,-90.765091,census_place
+Sherman,MS,34.361170,-88.838744,census_place
+Terry,MS,32.106057,-90.292595,census_place
+Tillatoba,MS,33.985086,-89.896060,census_place
+Tishomingo,MS,34.638284,-88.229144,census_place
+Toomsuba,MS,32.430282,-88.507088,census_place
+Tunica,MS,34.688137,-90.380937,census_place
+Tupelo,MS,34.270604,-88.732455,census_place
+Vicksburg,MS,32.322042,-90.881528,census_place
+Walnut,MS,34.949671,-88.924455,census_place
+Water Valley,MS,34.161990,-89.630120,census_place
+West Point,MS,33.606236,-88.657568,census_place
+Wiggins,MS,30.856048,-89.138981,census_place
+Winona,MS,33.490256,-89.729287,census_place
+Belgrade,MT,45.782706,-111.178256,census_place
+Big Timber,MT,45.834782,-109.948266,census_place
+Billings,MT,45.788538,-108.552475,census_place
+Boulder,MT,46.235840,-112.119749,census_place
+Butte,MT,45.896232,-112.660071,census_place
+Chinook,MT,48.590128,-109.231820,census_place
+Columbia Falls,MT,48.371476,-114.191834,census_place
+Columbus,MT,45.635966,-109.248784,census_place
+Conrad,MT,48.174083,-111.946593,census_place
+Deer Lodge,MT,46.398485,-112.732737,census_place
+Dillon,MT,45.218102,-112.634521,census_place
+Glendive,MT,47.106473,-104.710856,census_place
+Great Falls,MT,47.502518,-111.299970,census_place
+Hardin,MT,45.742268,-107.608272,census_place
+Helena,MT,46.595465,-112.018746,census_place
+Laurel,MT,45.674012,-108.778269,census_place
+Lewistown,MT,47.051379,-109.452385,census_place
+Livingston,MT,45.665629,-110.555706,census_place
+Lolo,MT,46.771800,-114.108356,census_place
+Miles City,MT,46.405823,-105.838944,census_place
+Milltown,MT,46.871310,-113.881770,geonames
+Missoula,MT,46.874359,-114.026136,census_place
+Moore,MT,46.974956,-109.695113,census_place
+Park City,MT,45.630946,-108.925311,census_place
+Plentywood,MT,48.776020,-104.557296,census_place
+Shelby,MT,48.502237,-111.862088,census_place
+Sidney,MT,47.715456,-104.167161,census_place
+Superior,MT,47.195120,-114.901363,census_place
+Three Forks,MT,45.889568,-111.552748,census_place
+Whitehall,MT,45.870987,-112.097584,census_place
+Moncton,NB,46.094540,-64.796500,geonames
+Ahoskie,NC,36.284134,-76.990110,census_place
+Apex,NC,35.725577,-78.879919,census_place
+Asheboro,NC,35.702596,-79.804120,census_place
+Belhaven,NC,35.542961,-76.623111,census_place
+Bethel,NC,35.807445,-77.375923,census_place
+Bladenboro,NC,34.540870,-78.794660,census_place
+Burgaw,NC,34.551466,-77.923012,census_place
+Candler,NC,35.536500,-82.692910,geonames
+Candor,NC,35.296389,-79.732521,census_place
+Charlotte,NC,35.209045,-80.830990,census_place
+Chocowinity,NC,35.513432,-77.097692,census_place
+Clinton,NC,35.001266,-78.331940,census_place
+Colfax,NC,36.112640,-80.014480,geonames
+Columbia,NC,35.923446,-76.240631,census_place
+Conover,NC,35.715035,-81.215337,census_place
+Creedmoor,NC,36.125019,-78.677988,census_place
+Delco,NC,34.318818,-78.226661,census_place
+Denver,NC,35.545552,-81.044706,census_place
+Dunn,NC,35.311635,-78.612962,census_place
+Durham,NC,35.977928,-78.898109,census_place
+Edenton,NC,36.058565,-76.598979,census_place
+Elizabeth City,NC,36.294203,-76.238144,census_place
+Elkin,NC,36.263365,-80.847106,census_place
+Evergreen,NC,34.414860,-78.911375,census_place
+Farmville,NC,35.595026,-77.590619,census_place
+Fayetteville,NC,35.081647,-78.973159,census_place
+Flat Rock,NC,35.267439,-82.451322,census_place
+Garner,NC,35.689477,-78.614599,census_place
+Gastonia,NC,35.250939,-81.184295,census_place
+Goldsboro,NC,35.378226,-77.971869,census_place
+Graham,NC,36.056356,-79.389436,census_place
+Grantsboro,NC,35.144868,-76.844682,census_place
+Greensboro,NC,36.094850,-79.823624,census_place
+Greenville,NC,35.592490,-77.372739,census_place
+Hamptonville,NC,36.098470,-80.760350,geonames
+Harrisburg,NC,35.307549,-80.645617,census_place
+Haw River,NC,36.091988,-79.358377,census_place
+Hendersonville,NC,35.324302,-82.456282,census_place
+Hertford,NC,36.176849,-76.466552,census_place
+Hickory,NC,35.738761,-81.319610,census_place
+High Point,NC,35.990803,-79.992713,census_place
+Hope Mills,NC,34.969195,-78.959887,census_place
+Jacksonville,NC,34.729759,-77.394000,census_place
+Jonesville,NC,36.235223,-80.833712,census_place
+Kannapolis,NC,35.479868,-80.647422,census_place
+Kenly,NC,35.600767,-78.127935,census_place
+Kernersville,NC,36.106171,-80.081895,census_place
+Kinston,NC,35.275099,-77.593368,census_place
+Leland,NC,34.214676,-78.043370,census_place
+Lewiston Woodville,NC,36.114886,-77.179554,census_place
+Lexington,NC,35.797221,-80.274241,census_place
+Lillington,NC,35.394608,-78.815743,census_place
+Linwood,NC,35.750690,-80.317830,geonames
+Lumberton,NC,34.630608,-79.018601,census_place
+Marion,NC,35.676222,-82.000810,census_place
+Maxton,NC,34.736500,-79.352731,census_place
+Mc Leansville,NC,36.104620,-79.656186,census_place
+Mebane,NC,36.081678,-79.276747,census_place
+Midland,NC,35.249167,-80.530075,census_place
+Mocksville,NC,35.902063,-80.564666,census_place
+Monroe,NC,35.003326,-80.558862,census_place
+Morehead City,NC,34.727941,-76.737002,census_place
+Mount Airy,NC,36.508487,-80.614538,census_place
+New Bern,NC,35.092713,-77.071774,census_place
+Newport,NC,34.770746,-76.879103,census_place
+Newton,NC,35.662162,-81.232269,census_place
+Oak City,NC,35.962519,-77.305093,census_place
+Pilot Mountain,NC,36.383939,-80.474220,census_place
+Pinetops,NC,35.791136,-77.637775,census_place
+Pleasant Hill,NC,36.254037,-80.894620,census_place
+Plymouth,NC,35.858599,-76.748148,census_place
+Princeton,NC,35.466360,-78.163242,census_place
+Raeford,NC,34.980420,-79.229541,census_place
+Raleigh,NC,35.831456,-78.639558,census_place
+Reidsville,NC,36.336885,-79.676964,census_place
+Rich Square,NC,36.273942,-77.283906,census_place
+Richlands,NC,34.897995,-77.541658,census_place
+Riegelwood,NC,34.340107,-78.220365,census_place
+Rocky Mount,NC,35.968514,-77.808294,census_place
+Rocky Point,NC,34.444048,-77.890907,census_place
+Rural Hall,NC,36.221000,-80.295776,census_place
+Saint Pauls,NC,34.812299,-78.981505,census_place
+Salisbury,NC,35.665136,-80.491886,census_place
+Saluda,NC,35.237568,-82.346784,census_place
+Sanford,NC,35.493776,-79.176464,census_place
+Seaboard,NC,36.490690,-77.441966,census_place
+Selma,NC,35.539726,-78.291735,census_place
+Shelby,NC,35.290405,-81.545645,census_place
+Siler City,NC,35.728071,-79.464287,census_place
+Spring Hope,NC,35.945135,-78.109064,census_place
+Spring Lake,NC,35.184548,-78.994693,census_place
+Statesville,NC,35.783369,-80.871654,census_place
+Stedman,NC,35.013483,-78.700126,census_place
+Stokesdale,NC,36.221459,-79.976983,census_place
+Supply,NC,34.017670,-78.267500,geonames
+Swansboro,NC,34.692383,-77.140812,census_place
+Tar Heel,NC,34.733896,-78.790896,census_place
+Troutman,NC,35.722147,-80.892965,census_place
+Union Grove,NC,36.024580,-80.866180,geonames
+Vanceboro,NC,35.303069,-77.156707,census_place
+Wade,NC,35.163714,-78.739724,census_place
+Wadesboro,NC,34.963829,-80.074694,census_place
+Wake Forest,NC,35.963685,-78.511740,census_place
+Warsaw,NC,34.999578,-78.092726,census_place
+Waynesville,NC,35.485708,-82.999103,census_place
+Whitakers,NC,36.105704,-77.712972,census_place
+Whiteville,NC,34.330457,-78.701436,census_place
+Whitsett,NC,36.082709,-79.569844,census_place
+Wilkesboro,NC,36.142444,-81.176974,census_place
+Williamston,NC,35.846539,-77.066078,census_place
+Wilmington,NC,34.209225,-77.885767,census_place
+Wilson,NC,35.731503,-77.930722,census_place
+Windsor,NC,35.993046,-76.939899,census_place
+Winnabow,NC,34.149340,-78.093600,geonames
+Winston Salem,NC,36.102863,-80.260829,census_place
+Winton,NC,36.389448,-76.934729,census_place
+Youngsville,NC,36.035068,-78.481650,census_place
+Alexander,ND,47.838058,-103.643203,census_place
+Beach,ND,46.918747,-104.005446,census_place
+Belfield,ND,46.886789,-103.195481,census_place
+Bismarck,ND,46.815857,-100.768569,census_place
+Bowman,ND,46.184324,-103.402946,census_place
+Carpio,ND,48.443445,-101.716317,census_place
+Carrington,ND,47.453046,-99.131166,census_place
+Casselton,ND,46.896365,-97.212604,census_place
+Devils Lake,ND,48.112578,-98.874762,census_place
+Dickinson,ND,46.892685,-102.797343,census_place
+Drayton,ND,48.562060,-97.179496,census_place
+Dunseith,ND,48.813033,-100.062233,census_place
+Fargo,ND,46.864690,-96.829073,census_place
+Fessenden,ND,47.649308,-99.627008,census_place
+Grand Forks,ND,47.919595,-97.087328,census_place
+Grassy Butte,ND,47.392510,-103.247970,geonames
+Hankinson,ND,46.074053,-96.891028,census_place
+Harwood,ND,46.966337,-96.877615,census_place
+Jamestown,ND,46.905851,-98.693579,census_place
+Kenmare,ND,48.672812,-102.072030,census_place
+Killdeer,ND,47.368761,-102.746214,census_place
+Leeds,ND,48.286803,-99.429551,census_place
+Mandan,ND,46.829484,-100.887060,census_place
+Minot,ND,48.236141,-101.277578,census_place
+New Salem,ND,46.843050,-101.417941,census_place
+New Town,ND,47.989075,-102.488305,census_place
+Oakes,ND,46.139704,-98.087123,census_place
+Pembina,ND,48.967087,-97.246861,census_place
+Richardton,ND,46.884816,-102.339088,census_place
+Rugby,ND,48.365422,-99.990223,census_place
+Stanley,ND,48.313526,-102.400796,census_place
+Steele,ND,46.856801,-99.918126,census_place
+Sterling,ND,46.813880,-100.291500,geonames
+Tioga,ND,48.394617,-102.943490,census_place
+Tower City,ND,46.926308,-97.676035,census_place
+Valley City,ND,46.920858,-98.005237,census_place
+Wahpeton,ND,46.272083,-96.612203,census_place
+Watford City,ND,47.802746,-103.264774,census_place
+West Fargo,ND,46.858932,-96.905563,census_place
+Williston,ND,48.189496,-103.649117,census_place
+Wilton,ND,47.158009,-100.783967,census_place
+Alda,NE,40.866567,-98.468050,census_place
+Alliance,NE,42.102553,-102.876885,census_place
+Alma,NE,40.103463,-99.365616,census_place
+Aurora,NE,40.863867,-98.006966,census_place
+Beatrice,NE,40.273281,-96.745954,census_place
+Bennet,NE,40.681727,-96.503932,census_place
+Big Springs,NE,41.060902,-102.074466,census_place
+Broken Bow,NE,41.405188,-99.640758,census_place
+Burwell,NE,41.780044,-99.134214,census_place
+Cairo,NE,41.004776,-98.600552,census_place
+Cambridge,NE,40.284302,-100.165800,census_place
+Central City,NE,41.113043,-98.000335,census_place
+Chadron,NE,42.825975,-103.002478,census_place
+Columbus,NE,41.437087,-97.358615,census_place
+Cozad,NE,40.861301,-99.986366,census_place
+Crete,NE,40.624769,-96.952498,census_place
+Doniphan,NE,40.774465,-98.371523,census_place
+Eagle,NE,40.815943,-96.432585,census_place
+Elgin,NE,41.983115,-98.082773,census_place
+Elm Creek,NE,40.720084,-99.375590,census_place
+Fairmont,NE,40.633554,-97.584954,census_place
+Falls City,NE,40.062208,-95.599013,census_place
+Fremont,NE,41.439842,-96.487000,census_place
+Geneva,NE,40.530692,-97.597135,census_place
+Genoa,NE,41.445874,-97.733273,census_place
+Gibbon,NE,40.745932,-98.845848,census_place
+Gordon,NE,42.806378,-102.204002,census_place
+Gothenburg,NE,40.924676,-100.153929,census_place
+Grand Island,NE,40.921352,-98.358559,census_place
+Greenwood,NE,40.961687,-96.443043,census_place
+Gretna,NE,41.127917,-96.196863,census_place
+Hastings,NE,40.596264,-98.390320,census_place
+Hebron,NE,40.168769,-97.585984,census_place
+Henderson,NE,40.780250,-97.812209,census_place
+Hershey,NE,41.160187,-100.998528,census_place
+Holdrege,NE,40.439441,-99.377037,census_place
+Jackson,NE,42.448167,-96.571302,census_place
+Laurel,NE,42.428614,-97.096363,census_place
+Lexington,NE,40.777453,-99.746755,census_place
+Lincoln,NE,40.810284,-96.674856,census_place
+Milford,NE,40.771944,-97.054298,census_place
+Norfolk,NE,42.028216,-97.427807,census_place
+North Platte,NE,41.125637,-100.749795,census_place
+Ogallala,NE,41.129595,-101.720677,census_place
+Omaha,NE,41.264013,-96.056496,census_place
+Oneill,NE,42.461533,-98.646955,census_place
+Ord,NE,41.602320,-98.918999,census_place
+Overton,NE,40.740570,-99.537410,census_place
+Palmyra,NE,40.705701,-96.392119,census_place
+Plainview,NE,42.353346,-97.787145,census_place
+Roca,NE,40.658469,-96.661397,census_place
+Saint Paul,NE,41.213669,-98.459446,census_place
+Schuyler,NE,41.450134,-97.061591,census_place
+Scottsbluff,NE,41.868095,-103.660696,census_place
+Seward,NE,40.909211,-97.096095,census_place
+Shelby,NE,41.194247,-97.426267,census_place
+Sidney,NE,41.133633,-102.969540,census_place
+South Sioux City,NE,42.462129,-96.413256,census_place
+Superior,NE,40.021709,-98.061860,census_place
+Syracuse,NE,40.663504,-96.182733,census_place
+Tecumseh,NE,40.371817,-96.188706,census_place
+Trenton,NE,40.174733,-101.013573,census_place
+Valentine,NE,42.873892,-100.547014,census_place
+Valley,NE,41.320546,-96.358619,census_place
+Waco,NE,40.897000,-97.461747,census_place
+Wahoo,NE,41.217120,-96.617844,census_place
+Wayne,NE,42.237218,-97.008701,census_place
+West Point,NE,41.837747,-96.706238,census_place
+Wisner,NE,41.989387,-96.914345,census_place
+Wood River,NE,40.819797,-98.604355,census_place
+York,NE,40.869389,-97.592739,census_place
+Auburn,NH,43.004530,-71.348400,geonames
+Barrington,NH,43.222860,-71.047010,geonames
+Bow,NH,43.132030,-71.549240,geonames
+Candia,NH,43.077860,-71.276730,geonames
+Concord,NH,43.232493,-71.561252,census_place
+Enfield,NH,43.643800,-72.146872,census_place
+Epping,NH,43.034896,-71.098414,census_place
+Gorham,NH,44.393312,-71.198176,census_place
+Greenland,NH,43.036200,-70.832830,geonames
+Hudson,NH,42.763811,-71.432010,census_place
+Lebanon,NH,43.635428,-72.253837,census_place
+Londonderry,NH,42.853398,-71.362425,census_place
+Merrimack,NH,42.865090,-71.493400,geonames
+New Hampton,NH,43.610629,-71.652754,census_place
+Northwood,NH,43.194250,-71.150900,geonames
+Portsmouth,NH,43.060594,-70.780349,census_place
+Raymond,NH,43.033728,-71.174579,census_place
+Walpole,NH,43.078344,-72.424804,census_place
+Warner,NH,43.284261,-71.824059,census_place
+West Chesterfield,NH,42.904250,-72.515640,geonames
+Avenel,NJ,40.584334,-74.271626,census_place
+Bloomsbury,NJ,40.657174,-75.075474,census_place
+Bordentown,NJ,40.149693,-74.707679,census_place
+Bound Brook,NJ,40.567749,-74.537250,census_place
+Budd Lake,NJ,40.873494,-74.736828,census_place
+Burlington,NJ,40.078824,-74.852483,census_place
+Carlstadt,NJ,40.827492,-74.061626,census_place
+Carteret,NJ,40.583790,-74.227457,census_place
+Cherry Hill,NJ,39.934840,-75.030730,geonames
+Clementon,NJ,39.800521,-74.978008,census_place
+Clinton,NJ,40.636794,-74.915205,census_place
+Columbia,NJ,40.925868,-75.094062,census_place
+Cranbury,NJ,40.313450,-74.520233,census_place
+Delaware,NJ,40.892819,-75.069436,census_place
+East Brunswick,NJ,40.427880,-74.415980,geonames
+East Rutherford,NJ,40.817097,-74.085024,census_place
+Edison,NJ,40.504470,-74.347040,geonames
+Elizabeth,NJ,40.666367,-74.193503,census_place
+Elizabethport,NJ,40.650100,-74.187090,geonames
+Fairfield,NJ,40.882550,-74.304020,geonames
+Flemington,NJ,40.508641,-74.859869,census_place
+Franklinville,NJ,39.618004,-75.072981,census_place
+Hampton,NJ,40.704570,-74.971525,census_place
+Hillsborough,NJ,40.508074,-74.652880,census_place
+Jersey City,NJ,40.711417,-74.064760,census_place
+Kearny,NJ,40.752332,-74.123093,census_place
+Ledgewood,NJ,40.883268,-74.668029,census_place
+Linden,NJ,40.627337,-74.236310,census_place
+Mahwah,NJ,41.088710,-74.143760,geonames
+Monmouth Junction,NJ,40.376068,-74.557923,census_place
+Monroe Township,NJ,40.317890,-74.411820,geonames
+Montague,NJ,41.303150,-74.793500,geonames
+Mount Holly,NJ,39.992890,-74.787660,geonames
+Mount Laurel,NJ,39.934000,-74.891000,geonames
+Newark,NJ,40.724220,-74.172574,census_place
+Newfield,NJ,39.551041,-75.010217,census_place
+North Bergen,NJ,40.804270,-74.012080,geonames
+North Brunswick,NJ,40.454000,-74.482000,geonames
+Palisades Park,NJ,40.847017,-73.997061,census_place
+Palmyra,NJ,40.003099,-75.035889,census_place
+Paulsboro,NJ,39.839975,-75.239960,census_place
+Penns Grove,NJ,39.727704,-75.469035,census_place
+Pennsauken,NJ,39.956220,-75.057950,geonames
+Perth Amboy,NJ,40.520160,-74.271331,census_place
+Phillipsburg,NJ,40.691974,-75.179006,census_place
+Richwood,NJ,39.716021,-75.172451,census_place
+Ridgefield,NJ,40.829055,-74.015478,census_place
+Ringoes,NJ,40.430883,-74.871795,census_place
+Riverton,NJ,40.011135,-75.014128,census_place
+Roebling,NJ,40.117217,-74.777844,census_place
+Rosenhayn,NJ,39.478674,-75.137962,census_place
+Secaucus,NJ,40.781779,-74.067189,census_place
+South Amboy,NJ,40.488533,-74.279133,census_place
+South Plainfield,NJ,40.574413,-74.414800,census_place
+Thorofare,NJ,39.854728,-75.198685,census_place
+Trenton,NJ,40.223841,-74.763624,census_place
+Vineland,NJ,39.465007,-74.997115,census_place
+Woodbridge,NJ,40.553141,-74.286969,census_place
+Alamogordo,NM,32.883619,-105.963607,census_place
+Albuquerque,NM,35.104780,-106.646809,census_place
+Algodones,NM,35.370711,-106.488644,census_place
+Artesia,NM,32.851662,-104.423703,census_place
+Aztec,NM,36.815993,-107.970266,census_place
+Belen,NM,34.766572,-106.808512,census_place
+Bernalillo,NM,35.312363,-106.554104,census_place
+Carlsbad,NM,32.400528,-104.238257,census_place
+Carrizozo,NM,33.643341,-105.841132,census_place
+Casa Blanca,NM,35.045600,-107.471440,geonames
+Clayton,NM,36.446037,-103.148873,census_place
+Clines Corners,NM,35.009500,-105.669180,geonames
+Clovis,NM,34.438569,-103.194194,census_place
+Deming,NM,32.263076,-107.752490,census_place
+Eunice,NM,32.436147,-103.149043,census_place
+Farmington,NM,36.753833,-108.180530,census_place
+Flora Vista,NM,36.803056,-108.090177,census_place
+Gallup,NM,35.513753,-108.743733,census_place
+Hatch,NM,32.673119,-107.161993,census_place
+Hobbs,NM,32.730479,-103.161383,census_place
+Jal,NM,32.114838,-103.189996,census_place
+Jamestown,NM,35.469295,-108.439555,census_place
+Las Cruces,NM,32.326444,-106.789695,census_place
+Las Vegas,NM,35.604858,-105.217023,census_place
+Lemitar,NM,34.155034,-106.912241,census_place
+Logan,NM,35.358364,-103.453371,census_place
+Lordsburg,NM,32.343777,-108.702120,census_place
+Los Lunas,NM,34.801319,-106.792494,census_place
+Loving,NM,32.286235,-104.097756,census_place
+Lovington,NM,32.944466,-103.349225,census_place
+Melrose,NM,34.429478,-103.629365,census_place
+Milan,NM,35.196782,-107.892371,census_place
+Moriarty,NM,35.003368,-106.044427,census_place
+Portales,NM,34.177289,-103.355084,census_place
+Pueblo Of Acoma,NM,35.033930,-107.473380,override
+Raton,NM,36.887780,-104.440378,census_place
+Roswell,NM,33.373442,-104.529393,census_place
+San Jon,NM,35.111299,-103.336299,census_place
+Santa Rosa,NM,34.936051,-104.675021,census_place
+Santa Teresa,NM,31.871360,-106.673424,census_place
+Springer,NM,36.365411,-104.600218,census_place
+Tatum,NM,33.255388,-103.310211,census_place
+Texico,NM,34.389212,-103.050682,census_place
+Tinnie,NM,33.370650,-105.226370,geonames
+Tucumcari,NM,35.170918,-103.705279,census_place
+Tularosa,NM,33.075001,-106.017299,census_place
+Vado,NM,32.127881,-106.657073,census_place
+Vaughn,NM,34.607206,-105.212594,census_place
+Dartmouth,NS,44.671340,-63.577190,geonames
+Battle Mountain,NV,40.628378,-116.948553,census_place
+Carlin,NV,40.719240,-116.108278,census_place
+Carson City,NV,39.163800,-119.767400,geonames
+Elko,NV,40.838111,-115.767809,census_place
+Ely,NV,39.264924,-114.870839,census_place
+Fallon,NV,39.473699,-118.777896,census_place
+Fernley,NV,39.564761,-119.189435,census_place
+Gardnerville,NV,38.939000,-119.736879,census_place
+Hawthorne,NV,38.525256,-118.626030,census_place
+Henderson,NV,36.005600,-115.022812,census_place
+Imlay,NV,40.658106,-118.144098,census_place
+Indian Springs,NV,36.571844,-115.720313,census_place
+Jackpot,NV,41.979455,-114.664598,census_place
+Jean,NV,35.778870,-115.323880,geonames
+Las Vegas,NV,36.233499,-115.264037,census_place
+Lovelock,NV,40.178738,-118.477442,census_place
+MC DERMITT,NV,41.990328,-117.720796,census_place
+Mesquite,NV,36.811120,-114.125652,census_place
+Minden,NV,38.964576,-119.766621,census_place
+Moapa,NV,36.675800,-114.620820,geonames
+North Las Vegas,NV,36.289865,-115.089181,census_place
+Reno,NV,39.549097,-119.849907,census_place
+Searchlight,NV,35.455431,-114.920426,census_place
+Sparks,NV,39.574341,-119.715154,census_place
+Tonopah,NV,38.082160,-117.224586,census_place
+Wells,NV,41.113155,-114.953537,census_place
+West Wendover,NV,40.740253,-114.078633,census_place
+Winnemucca,NV,40.964397,-117.724642,census_place
+Yerington,NV,38.955477,-119.110120,census_place
+Albany,NY,42.665745,-73.798353,census_place
+Apalachin,NY,42.063844,-76.156757,census_place
+Avon,NY,42.912842,-77.746490,census_place
+Bath,NY,42.336093,-77.316860,census_place
+Belmont,NY,42.219371,-78.030899,census_place
+Bergen,NY,43.082601,-77.942458,census_place
+Binghamton,NY,42.101331,-75.909369,census_place
+Brewerton,NY,43.232432,-76.144820,census_place
+Bronx,NY,40.848711,-73.852939,census_cousub
+Buffalo,NY,42.892492,-78.859686,census_place
+Campbell,NY,42.235043,-77.193694,census_place
+Canaan,NY,42.412030,-73.447060,geonames
+Canajoharie,NY,42.899080,-74.567869,census_place
+Canastota,NY,43.084149,-75.755495,census_place
+Castle Creek,NY,42.227580,-75.918250,geonames
+Castleton On Hudson,NY,42.536568,-73.747924,census_place
+Cayuta,NY,42.281740,-76.696890,geonames
+Central Square,NY,43.285986,-76.141879,census_place
+Champlain,NY,44.988261,-73.432406,census_place
+Clifton Park,NY,42.865630,-73.770950,geonames
+Copiague,NY,40.670358,-73.392761,census_place
+Corfu,NY,42.961163,-78.402610,census_place
+Dansville,NY,42.562482,-77.696927,census_place
+East Syracuse,NY,43.063823,-76.069789,census_place
+Elmira,NY,42.093388,-76.809610,census_place
+Fort Ann,NY,43.415731,-73.490513,census_place
+Fort Edward,NY,43.268618,-73.582617,census_place
+Fultonville,NY,42.946229,-74.369778,census_place
+Gansevoort,NY,43.196180,-73.651780,geonames
+Glenmont,NY,42.604800,-73.769570,geonames
+Harpursville,NY,42.178410,-75.624630,geonames
+Henrietta,NY,43.059230,-77.612220,geonames
+Hogansburg,NY,44.973940,-74.663240,geonames
+Horseheads,NY,42.168632,-76.829658,census_place
+Irving,NY,42.567560,-79.112820,geonames
+Islandia,NY,40.806862,-73.171084,census_place
+Jamestown,NY,42.097603,-79.236135,census_place
+Jordan,NY,43.067069,-76.472920,census_place
+La Fayette,NY,42.892290,-76.105200,geonames
+Lancaster,NY,42.900602,-78.668780,census_place
+Lewis,NY,44.275050,-73.565690,geonames
+Limestone,NY,42.017292,-78.631178,census_place
+Liverpool,NY,43.105566,-76.209664,census_place
+Livingston,NY,42.142030,-73.777910,geonames
+Mc Graw,NY,42.593765,-76.097502,census_place
+Medford,NY,40.821979,-72.985918,census_place
+Montezuma,NY,43.010060,-76.703280,geonames
+Montgomery,NY,41.521266,-74.238661,census_place
+New Hampton,NY,41.410930,-74.407100,geonames
+Newburgh,NY,41.503249,-74.019640,census_place
+Niagara Falls,NY,43.092841,-79.014743,census_place
+Nichols,NY,42.020017,-76.370402,census_place
+Oneonta,NY,42.454818,-75.066884,census_place
+Otego,NY,42.392799,-75.180071,census_place
+Painted Post,NY,42.163762,-77.092384,census_place
+Parish,NY,43.405802,-76.126370,census_place
+Peru,NY,44.579326,-73.533292,census_place
+Phelps,NY,42.958057,-77.062121,census_place
+Plattsburgh,NY,44.692025,-73.458276,census_place
+Pulaski,NY,43.565504,-76.126035,census_place
+Queensbury,NY,43.377290,-73.613170,geonames
+Randolph,NY,42.162290,-78.979690,census_place
+Red Creek,NY,43.247903,-76.722852,census_place
+Ripley,NY,42.265686,-79.712302,census_place
+Rochester,NY,43.169927,-77.616891,census_place
+Rome,NY,43.226002,-75.489523,census_place
+Salamanca,NY,42.163328,-78.725158,census_place
+Sanborn,NY,43.145054,-78.877748,census_place
+Sangerfield,NY,42.913960,-75.379060,geonames
+Schenectady,NY,42.802691,-73.926960,census_place
+Seneca Falls,NY,42.911607,-76.797058,census_place
+Syracuse,NY,43.041260,-76.143212,census_place
+Ticonderoga,NY,43.842344,-73.423035,census_place
+Tully,NY,42.798186,-76.110237,census_place
+Utica,NY,43.096382,-75.225983,census_place
+Waterloo,NY,42.904586,-76.859023,census_place
+Watertown,NY,43.973292,-75.910039,census_place
+Weedsport,NY,43.048124,-76.563607,census_place
+West Coxsackie,NY,42.360640,-73.816790,geonames
+Wolcott,NY,43.222785,-76.812133,census_place
+Yorkshire,NY,42.523364,-78.475525,census_place
+Akron,OH,41.080456,-81.521429,census_place
+Alvada,OH,41.050330,-83.401870,geonames
+Amherst,OH,41.405329,-82.231725,census_place
+Anna,OH,40.395364,-84.175659,census_place
+Ashland,OH,40.867194,-82.315332,census_place
+Ashville,OH,39.725092,-82.955291,census_place
+Austinburg,OH,41.769168,-80.855605,census_place
+Avon,OH,41.445100,-82.005109,census_place
+Barberton,OH,41.006903,-81.604390,census_place
+Beaverdam,OH,40.832487,-83.973383,census_place
+Bedford,OH,41.392123,-81.534680,census_place
+Bellefontaine,OH,40.362468,-83.762780,census_place
+Bellville,OH,40.617729,-82.513147,census_place
+Belmont,OH,40.027979,-81.040933,census_place
+Berea,OH,41.370548,-81.861757,census_place
+Bidwell,OH,38.920936,-82.285388,census_place
+Bradner,OH,41.323884,-83.436366,census_place
+Broadview Heights,OH,41.318156,-81.679262,census_place
+Brookpark,OH,41.404309,-81.820342,census_place
+Brookville,OH,39.839388,-84.416161,census_place
+Bucyrus,OH,40.805119,-82.971632,census_place
+Burbank,OH,40.986232,-81.994840,census_place
+Caldwell,OH,39.748897,-81.515560,census_place
+Cambridge,OH,40.021548,-81.586453,census_place
+Canton,OH,40.807650,-81.367228,census_place
+Carey,OH,40.944059,-83.389403,census_place
+Carroll,OH,39.802585,-82.706178,census_place
+Carrollton,OH,40.578747,-81.090820,census_place
+Chillicothe,OH,39.340502,-82.996102,census_place
+Cincinnati,OH,39.140183,-84.505829,census_place
+Circleville,OH,39.601152,-82.932515,census_place
+Cleveland,OH,41.478462,-81.679435,census_place
+Clyde,OH,41.303585,-82.979425,census_place
+Columbus,OH,39.987367,-82.985180,census_place
+Conneaut,OH,41.927299,-80.568382,census_place
+Coolville,OH,39.214190,-81.802513,census_place
+Coshocton,OH,40.261752,-81.847292,census_place
+Dalton,OH,40.799562,-81.703719,census_place
+Dayton,OH,39.784743,-84.199632,census_place
+Delaware,OH,40.286476,-83.074864,census_place
+Delphos,OH,40.846581,-84.336474,census_place
+Delta,OH,41.579479,-84.020811,census_place
+Diamond,OH,41.098950,-81.022870,geonames
+Dover,OH,40.530048,-81.481028,census_place
+Eaton,OH,39.750107,-84.634469,census_place
+Edon,OH,41.556168,-84.769373,census_place
+Elyria,OH,41.379243,-82.099620,census_place
+Etna,OH,39.952716,-82.690049,census_place
+Fairborn,OH,39.799578,-84.008482,census_place
+Findlay,OH,41.047364,-83.638093,census_place
+Franklin,OH,39.554951,-84.295728,census_place
+Fremont,OH,41.353501,-83.113356,census_place
+Galion,OH,40.738216,-82.781327,census_place
+Gallipolis,OH,38.820082,-82.190972,census_place
+Geneva,OH,41.800749,-80.946256,census_place
+Genoa,OH,41.518965,-83.363624,census_place
+Girard,OH,41.165648,-80.696089,census_place
+Grafton,OH,41.284140,-82.029968,census_place
+Greenville,OH,40.104149,-84.621322,census_place
+Groveport,OH,39.857321,-82.891526,census_place
+Hannibal,OH,39.671843,-80.871549,census_place
+Harrison,OH,39.256580,-84.786202,census_place
+Hebron,OH,39.965237,-82.486514,census_place
+Holland,OH,41.619253,-83.708216,census_place
+Hubbard,OH,41.158121,-80.564651,census_place
+Ironton,OH,38.532596,-82.678090,census_place
+Jackson,OH,39.044460,-82.644658,census_place
+Jeffersonville,OH,39.649596,-83.559277,census_place
+Kent,OH,41.145711,-81.364363,census_place
+Kingsville,OH,41.882032,-80.674965,census_place
+Lancaster,OH,39.725258,-82.606274,census_place
+Lebanon,OH,39.425551,-84.213189,census_place
+Lima,OH,40.740679,-84.112091,census_place
+Lockbourne,OH,39.808900,-82.987294,census_place
+London,OH,39.896056,-83.432525,census_place
+Lore City,OH,39.983203,-81.460077,census_place
+Lowellville,OH,41.039260,-80.554010,census_place
+Madison,OH,41.772258,-81.052983,census_place
+Malvern,OH,40.689494,-81.180409,census_place
+Mansfield,OH,40.766308,-82.531659,census_place
+Mantua,OH,41.281952,-81.222399,census_place
+Marengo,OH,40.400820,-82.810994,census_place
+Marietta,OH,39.423166,-81.446426,census_place
+Marion,OH,40.596746,-83.123185,census_place
+Mason,OH,39.360722,-84.295867,census_place
+Massillon,OH,40.784483,-81.525216,census_place
+Maumee,OH,41.575615,-83.669961,census_place
+Mendon,OH,40.672599,-84.517952,census_place
+Middletown,OH,39.502952,-84.364893,census_place
+Millbury,OH,41.564731,-83.425516,census_place
+Millersport,OH,39.903329,-82.546738,census_place
+Monroe,OH,39.451328,-84.359794,census_place
+Monroeville,OH,41.243843,-82.702575,census_place
+Montpelier,OH,41.584291,-84.591432,census_place
+Mount Eaton,OH,40.694805,-81.702164,census_place
+Mount Gilead,OH,40.554047,-82.827904,census_place
+Napoleon,OH,41.397969,-84.124984,census_place
+New Carlisle,OH,39.944443,-84.027667,census_place
+New Concord,OH,39.993658,-81.738064,census_place
+New Paris,OH,39.856678,-84.791916,census_place
+New Philadelphia,OH,40.486484,-81.440151,census_place
+New Springfield,OH,40.917919,-80.600673,census_place
+Newcomerstown,OH,40.275264,-81.596034,census_place
+Newton Falls,OH,41.192779,-80.967852,census_place
+North Baltimore,OH,41.180180,-83.671108,census_place
+North Canton,OH,40.874181,-81.397245,census_place
+North Jackson,OH,41.100060,-80.857310,geonames
+North Lima,OH,40.947372,-80.664007,census_place
+Norwalk,OH,41.244573,-82.608950,census_place
+Oregon,OH,41.655956,-83.438325,census_place
+Orrville,OH,40.848267,-81.776894,census_place
+Parkman,OH,41.372238,-81.054986,census_place
+Paulding,OH,41.142663,-84.582657,census_place
+Perrysburg,OH,41.539059,-83.644125,census_place
+Port Clinton,OH,41.509718,-82.938339,census_place
+Quaker City,OH,39.969656,-81.297357,census_place
+Ravenna,OH,41.161567,-81.242058,census_place
+Richfield,OH,41.233132,-81.643941,census_place
+Rittman,OH,40.973373,-81.784583,census_place
+Rockbridge,OH,39.586228,-82.526229,census_place
+Rossford,OH,41.577572,-83.572178,census_place
+Sandusky,OH,41.455885,-82.714436,census_place
+Sardinia,OH,39.007113,-83.802101,census_place
+Seville,OH,41.020726,-81.867136,census_place
+Shelby,OH,40.884763,-82.658168,census_place
+Sidney,OH,40.289116,-84.168209,census_place
+South Vienna,OH,39.929321,-83.613934,census_place
+Springfield,OH,39.928908,-83.794241,census_place
+Steubenville,OH,40.366242,-80.656883,census_place
+Strasburg,OH,40.600584,-81.529330,census_place
+Sunbury,OH,40.240639,-82.872048,census_place
+Tiffin,OH,41.116422,-83.179478,census_place
+Tipp City,OH,39.964474,-84.186380,census_place
+Toledo,OH,41.664071,-83.581861,census_place
+Troy,OH,40.044598,-84.224098,census_place
+Twinsburg,OH,41.322594,-81.443123,census_place
+Upper Sandusky,OH,40.830669,-83.270709,census_place
+Vandalia,OH,39.878977,-84.192224,census_place
+Wadsworth,OH,41.027436,-81.732205,census_place
+Wapakoneta,OH,40.565229,-84.190695,census_place
+Warren,OH,41.239564,-80.816015,census_place
+Waterville,OH,41.501971,-83.736852,census_place
+Wauseon,OH,41.553441,-84.140136,census_place
+Waverly,OH,39.125970,-82.983687,census_place
+West Unity,OH,41.588977,-84.430295,census_place
+Willard,OH,41.051947,-82.723888,census_place
+Willoughby,OH,41.645284,-81.414356,census_place
+Wilmington,OH,39.429366,-83.817683,census_place
+Wooster,OH,40.819060,-81.931557,census_place
+Youngstown,OH,41.099095,-80.645902,census_place
+Zanesville,OH,39.957027,-82.011954,census_place
+Ada,OK,34.767914,-96.669114,census_place
+Afton,OK,36.696535,-94.957463,census_place
+Allen,OK,34.877628,-96.412889,census_place
+Altus,OK,34.657061,-99.309046,census_place
+Alva,OK,36.789606,-98.664882,census_place
+Anadarko,OK,35.065296,-98.244469,census_place
+Ardmore,OK,34.196507,-97.131848,census_place
+Arnett,OK,36.134487,-99.772706,census_place
+Atoka,OK,34.386353,-96.131101,census_place
+Bartlesville,OK,36.737914,-95.948484,census_place
+Big Cabin,OK,36.537602,-95.229368,census_place
+Billings,OK,36.537595,-97.441749,census_place
+Blackwell,OK,36.801341,-97.300871,census_place
+Boise City,OK,36.731336,-102.509522,census_place
+Braman,OK,36.923644,-97.335815,census_place
+Broken Arrow,OK,36.039317,-95.785220,census_place
+Broken Bow,OK,34.028862,-94.741357,census_place
+CHANDLER,OK,35.712784,-96.836198,census_place
+Calera,OK,33.930829,-96.429060,census_place
+Calumet,OK,35.601385,-98.124786,census_place
+Checotah,OK,35.482436,-95.522818,census_place
+Cherokee,OK,36.750694,-98.357667,census_place
+Chickasha,OK,35.040543,-97.947173,census_place
+Choctaw,OK,35.484983,-97.269942,census_place
+Chouteau,OK,36.189507,-95.338902,census_place
+Clinton,OK,35.507101,-98.970503,census_place
+Copan,OK,36.900473,-95.925291,census_place
+Davis,OK,34.428920,-97.173869,census_place
+Dewey,OK,36.790402,-95.933712,census_place
+Drumright,OK,35.989923,-96.597424,census_place
+Duncan,OK,34.481607,-97.960557,census_place
+Durant,OK,33.995153,-96.392540,census_place
+Edmond,OK,35.673807,-97.413076,census_place
+El Reno,OK,35.535973,-97.945469,census_place
+Elk City,OK,35.389612,-99.428749,census_place
+Enid,OK,36.406702,-97.869861,census_place
+Erick,OK,35.215604,-99.868683,census_place
+Eufaula,OK,35.292114,-95.586425,census_place
+Geary,OK,35.637076,-98.316976,census_place
+Grant,OK,33.936486,-95.517868,census_place
+Guthrie,OK,35.876512,-97.408657,census_place
+Guymon,OK,36.690101,-101.477046,census_place
+Heavener,OK,34.891944,-94.607705,census_place
+Hennessey,OK,36.105811,-97.898615,census_place
+Henryetta,OK,35.441389,-95.986411,census_place
+Hinton,OK,35.505281,-98.355062,census_place
+Hooker,OK,36.861360,-101.216256,census_place
+Hugo,OK,34.011584,-95.512179,census_place
+Idabel,OK,33.907634,-94.822280,census_place
+Kingfisher,OK,35.844726,-97.939308,census_place
+Kiowa,OK,34.723294,-95.902895,census_place
+Lawton,OK,34.619218,-98.421106,census_place
+Lindsay,OK,34.840485,-97.609851,census_place
+Madill,OK,34.087080,-96.774665,census_place
+Marietta,OK,33.936172,-97.124716,census_place
+Marlow,OK,34.631168,-97.957162,census_place
+McAlester,OK,34.926128,-95.773619,census_place
+Muldrow,OK,35.403420,-94.597523,census_place
+Muskogee,OK,35.742643,-95.356864,census_place
+Newcastle,OK,35.242395,-97.595336,census_place
+Newkirk,OK,36.881797,-97.055292,census_place
+Ninnekah,OK,34.964012,-97.944707,census_place
+Norman,OK,35.240569,-97.345299,census_place
+Nowata,OK,36.699265,-95.637465,census_place
+Okemah,OK,35.429269,-96.300309,census_place
+Oklahoma City,OK,35.467079,-97.513657,census_place
+Okmulgee,OK,35.625162,-95.954032,census_place
+Oologah,OK,36.443778,-95.708911,census_place
+Pauls Valley,OK,34.710227,-97.224016,census_place
+Pawnee,OK,36.351776,-96.800818,census_place
+Perkins,OK,35.979763,-97.031290,census_place
+Perry,OK,36.280149,-97.308190,census_place
+Poteau,OK,35.066650,-94.610269,census_place
+Pryor,OK,36.308430,-95.316910,geonames
+Randlett,OK,34.177347,-98.463921,census_place
+Red Rock,OK,36.460071,-97.179608,census_place
+Roland,OK,35.413179,-94.508525,census_place
+S Coffeyville,OK,36.992089,-95.621838,census_place
+Sapulpa,OK,36.004206,-96.123275,census_place
+Sayre,OK,35.295653,-99.628239,census_place
+Seiling,OK,36.144651,-98.925437,census_place
+Seminole,OK,35.235009,-96.649468,census_place
+Shattuck,OK,36.268187,-99.877802,census_place
+Shawnee,OK,35.340637,-96.932012,census_place
+Springer,OK,34.295620,-97.117450,census_place
+Stillwater,OK,36.131496,-97.074464,census_place
+Stringtown,OK,34.469600,-96.055521,census_place
+Stroud,OK,35.768874,-96.650062,census_place
+Texhoma,OK,36.505405,-101.787387,census_place
+Thackerville,OK,33.787604,-97.139174,census_place
+Thomas,OK,35.744773,-98.739686,census_place
+Tonkawa,OK,36.670501,-97.315010,census_place
+Tulsa,OK,36.127949,-95.902316,census_place
+Tupelo,OK,34.602685,-96.420791,census_place
+Union City,OK,35.399523,-97.906705,census_place
+Valliant,OK,34.005793,-95.078580,census_place
+Vinita,OK,36.644152,-95.062183,census_place
+Walters,OK,34.358432,-98.356878,census_place
+Warner,OK,35.491693,-95.308945,census_place
+Watonga,OK,35.847503,-98.402734,census_place
+Watts,OK,36.106512,-94.573885,census_place
+Waurika,OK,34.183749,-98.026298,census_place
+Weatherford,OK,35.537395,-98.684345,census_place
+Webbers Falls,OK,35.517003,-95.164221,census_place
+Welch,OK,36.874409,-95.094401,census_place
+Woodward,OK,36.424832,-99.404726,census_place
+Wynnewood,OK,34.642789,-97.162467,census_place
+Yukon,OK,35.518409,-97.766172,census_place
+Ayr,ON,43.283400,-80.449680,geonames
+Belleville,ON,44.166820,-77.382770,geonames
+Brampton,ON,43.683410,-79.766330,geonames
+Brantford,ON,43.133400,-80.266360,geonames
+Burlington,ON,43.386210,-79.837130,geonames
+Cochrane,ON,49.066890,-81.033070,geonames
+Concord,ON,43.800110,-79.482910,geonames
+Cookstown,ON,44.183410,-79.699640,geonames
+Dryden,ON,49.775040,-92.833630,geonames
+Etobicoke,ON,43.644150,-79.569850,geonames
+Fort Erie,ON,42.900120,-78.932860,geonames
+Gloucester,ON,45.350000,-75.633330,geonames
+Hamilton,ON,43.250110,-79.849630,geonames
+Hornby,ON,43.566900,-79.843310,geonames
+Inglewood,ON,43.783410,-79.932950,geonames
+Kapuskasing,ON,49.416940,-82.433080,geonames
+Kingston,ON,44.229760,-76.480980,geonames
+Kitchener,ON,43.425370,-80.511200,geonames
+Lancaster,ON,45.141790,-74.503460,geonames
+London,ON,42.983390,-81.233040,geonames
+Milton,ON,43.516810,-79.882940,geonames
+Mississauga,ON,43.578900,-79.658300,geonames
+Napanee,ON,44.250120,-76.949440,geonames
+Oldcastle,ON,42.226670,-82.958330,geonames
+Orono,ON,43.975030,-78.612670,geonames
+Pass Lake,ON,48.564590,-88.728300,geonames
+Pickering,ON,43.900120,-79.132890,geonames
+Sarnia,ON,42.978660,-82.404070,geonames
+Sault Ste Marie,ON,46.516770,-84.333250,geonames
+Sudbury,ON,46.492720,-80.991211,override
+Tilbury,ON,42.266790,-82.433110,geonames
+Windsor,ON,42.300080,-83.016540,geonames
+Wyoming,ON,42.950080,-82.116510,geonames
+Albany,OR,44.626928,-123.096741,census_place
+Aurora,OR,45.228317,-122.757227,census_place
+Baker City,OR,44.774972,-117.831808,census_place
+Boardman,OR,45.836497,-119.692866,census_place
+Halsey,OR,44.382845,-123.109487,census_place
+Hermiston,OR,45.833058,-119.284689,census_place
+Huntington,OR,44.350086,-117.266763,census_place
+La Grande,OR,45.324004,-118.085518,census_place
+Madras,OR,44.663897,-121.160438,census_place
+Ontario,OR,44.025336,-116.977368,census_place
+Pendleton,OR,45.675609,-118.819548,census_place
+Portland,OR,45.536951,-122.649971,census_place
+Salem,OR,44.923900,-123.023007,census_place
+Stanfield,OR,45.782187,-119.216064,census_place
+Troutdale,OR,45.539220,-122.392673,census_place
+Umatilla,OR,45.917612,-119.331979,census_place
+Wasco,OR,45.591657,-120.697464,census_place
+Alexandria,PA,40.558438,-78.099883,census_place
+Allentown,PA,40.593648,-75.478393,census_place
+Altoona,PA,40.508052,-78.401114,census_place
+Annville,PA,40.332505,-76.507684,census_place
+Ashland,PA,40.781106,-76.345046,census_place
+Avis,PA,41.185691,-77.316486,census_place
+Baden,PA,40.639695,-80.222537,census_place
+Bedford,PA,40.015115,-78.503017,census_place
+Bellefonte,PA,40.914209,-77.768198,census_place
+Bensalem,PA,40.104550,-74.951280,geonames
+Bentleyville,PA,40.117846,-80.004420,census_place
+Bethel,PA,40.476466,-76.288025,census_place
+Blairsville,PA,40.432490,-79.259881,census_place
+Blakeslee,PA,41.092590,-75.592690,geonames
+Bloomsburg,PA,41.002717,-76.456580,census_place
+Blossburg,PA,41.679525,-77.068951,census_place
+Bowmansville,PA,40.201730,-76.021030,census_place
+Breezewood,PA,39.999250,-78.238620,geonames
+Brogue,PA,39.871770,-76.483020,geonames
+Brookville,PA,41.161676,-79.082652,census_place
+Carlisle,PA,40.199994,-77.204149,census_place
+Chambersburg,PA,39.931450,-77.655626,census_place
+Clairton,PA,40.296656,-79.889026,census_place
+Claysburg,PA,40.291448,-78.451419,census_place
+Clearfield,PA,41.021498,-78.439398,census_place
+Cochranton,PA,41.519097,-80.046991,census_place
+Coopersburg,PA,40.510368,-75.391920,census_place
+Coudersport,PA,41.775844,-78.016038,census_place
+Crescent,PA,40.555951,-80.227915,census_cousub
+Croydon,PA,40.090348,-74.896679,census_place
+Dalton,PA,41.538369,-75.738561,census_place
+Donegal,PA,40.112020,-79.380772,census_place
+Douglassville,PA,40.259899,-75.724228,census_place
+Drums,PA,41.018140,-75.994930,geonames
+Du Bois,PA,41.122194,-78.755056,census_place
+Duncannon,PA,40.395178,-77.027730,census_place
+Duncansville,PA,40.426307,-78.430260,census_place
+East Berlin,PA,39.936829,-76.979459,census_place
+East Earl,PA,40.110171,-76.025953,census_place
+East Freedom,PA,40.355235,-78.430471,census_place
+Ebensburg,PA,40.488120,-78.726541,census_place
+Eighty Four,PA,40.177698,-80.130298,census_place
+Elverson,PA,40.153719,-75.830826,census_place
+Emlenton,PA,41.180245,-79.708550,census_place
+Erie,PA,42.116594,-80.073503,census_place
+Etters,PA,40.152410,-76.818900,geonames
+Everett,PA,40.010850,-78.355339,census_place
+Fairless Hills,PA,40.177306,-74.851971,census_place
+Falls Creek,PA,41.141959,-78.806947,census_place
+Fayetteville,PA,39.911433,-77.565100,census_place
+Feasterville Trevose,PA,40.152420,-74.986550,geonames
+Fleetwood,PA,40.456484,-75.821595,census_place
+Gap,PA,39.989889,-76.021247,census_place
+Gettysburg,PA,39.830597,-77.234147,census_place
+Gouldsboro,PA,41.245668,-75.441703,census_place
+Greencastle,PA,39.790670,-77.726674,census_place
+Greentown,PA,41.321760,-75.305460,geonames
+Hamburg,PA,40.556225,-75.982357,census_place
+Harford,PA,41.781922,-75.707017,census_place
+Harrisburg,PA,40.275891,-76.885020,census_place
+Harrisville,PA,41.136407,-80.010746,census_place
+Hazleton,PA,40.950470,-75.972509,census_place
+Hermitage,PA,41.229752,-80.443048,census_place
+Hershey,PA,40.280010,-76.644328,census_place
+Jim Thorpe,PA,40.857215,-75.776338,census_place
+Jonestown,PA,40.412972,-76.480726,census_place
+Kane,PA,41.663008,-78.809016,census_place
+King Of Prussia,PA,40.096029,-75.379074,census_place
+Kutztown,PA,40.521313,-75.777288,census_place
+Lake Ariel,PA,41.453970,-75.382680,geonames
+Lamar,PA,41.010035,-77.523444,census_place
+Lancaster,PA,40.042061,-76.300990,census_place
+Lawrenceville,PA,41.996136,-77.130392,census_place
+Lebanon,PA,40.341193,-76.422735,census_place
+Leesport,PA,40.444433,-75.967191,census_place
+Leola,PA,40.092955,-76.188963,census_place
+Levittown,PA,40.152343,-74.852340,census_place
+Liberty,PA,41.558497,-77.105520,census_place
+Lock Haven,PA,41.137115,-77.453239,census_place
+Loganton,PA,41.033521,-77.298127,census_place
+Loretto,PA,40.508398,-78.635148,census_place
+Manheim,PA,40.163273,-76.395973,census_place
+Marietta,PA,40.057043,-76.551723,census_place
+Mc Kees Rocks,PA,40.469019,-80.063328,census_place
+Mechanicsburg,PA,40.211404,-77.005930,census_place
+Mercersburg,PA,39.831886,-77.902890,census_place
+Middlebury Center,PA,41.843680,-77.274420,geonames
+Middletown,PA,40.200888,-76.729183,census_place
+Mifflintown,PA,40.571174,-77.395140,census_place
+Mifflinville,PA,41.030711,-76.302779,census_place
+Milesburg,PA,40.942383,-77.791686,census_place
+Mill Hall,PA,41.105235,-77.488485,census_place
+Milroy,PA,40.719360,-77.589990,census_place
+Milton,PA,41.002297,-76.851007,census_place
+Monaca,PA,40.683423,-80.273427,census_place
+Monroeton,PA,41.712580,-76.474660,geonames
+Monroeville,PA,40.426324,-79.761379,census_place
+Morrisville,PA,40.207644,-74.780269,census_place
+Mount Morris,PA,39.733250,-80.081989,census_place
+Mountain Top,PA,41.135302,-75.904430,census_place
+Mountville,PA,40.042691,-76.429103,census_place
+Muncy,PA,41.202124,-76.785449,census_place
+Myerstown,PA,40.372139,-76.305579,census_place
+Nanty Glo,PA,40.470561,-78.834011,census_place
+Natrona Heights,PA,40.623705,-79.726152,census_place
+New Alexandria,PA,40.394456,-79.417524,census_place
+New Cumberland,PA,40.228765,-76.878291,census_place
+New Milford,PA,41.876143,-75.726561,census_place
+New Stanton,PA,40.222332,-79.608800,census_place
+Newburg,PA,40.136985,-77.554642,census_place
+North East,PA,42.213367,-79.833351,census_place
+Orwigsburg,PA,40.654167,-76.103989,census_place
+Perryopolis,PA,40.086831,-79.752596,census_place
+Philadelphia,PA,40.009297,-75.133271,census_place
+Pine Grove,PA,40.553414,-76.386016,census_place
+Pittsburgh,PA,40.439892,-79.975472,census_place
+Pittston,PA,41.327920,-75.785684,census_place
+Plainfield,PA,40.201172,-77.283279,census_place
+Portersville,PA,40.924332,-80.146883,census_place
+Reedsville,PA,40.664911,-77.593006,census_place
+Ronks,PA,40.028441,-76.176080,census_place
+Saint Thomas,PA,39.917590,-77.797770,geonames
+Sayre,PA,41.985722,-76.520848,census_place
+Sharon Hill,PA,39.907433,-75.267787,census_place
+Shippensburg,PA,40.048733,-77.523193,census_place
+Shippenville,PA,41.250993,-79.462626,census_place
+Shoemakersville,PA,40.499901,-75.969774,census_place
+Slippery Rock,PA,41.069487,-80.057929,census_place
+Smithton,PA,40.153808,-79.741667,census_place
+Snow Shoe,PA,41.027650,-77.949720,census_place
+Somerset,PA,40.005030,-79.077855,census_place
+Stockertown,PA,40.754917,-75.262935,census_place
+Strasburg,PA,39.984516,-76.186183,census_place
+Tafton,PA,41.404530,-75.182950,geonames
+Tamaqua,PA,40.803964,-75.926877,census_place
+Towanda,PA,41.770947,-76.445404,census_place
+Troy,PA,41.783315,-76.792222,census_place
+Tunkhannock,PA,41.541084,-75.949058,census_place
+Uniontown,PA,39.899302,-79.724529,census_place
+Verona,PA,40.505672,-79.841947,census_place
+Warren,PA,41.842916,-79.143865,census_place
+Waterfall,PA,40.127580,-78.062780,geonames
+Wayne,PA,40.039604,-75.392660,census_place
+Waynesburg,PA,39.898255,-80.185537,census_place
+White Haven,PA,41.059700,-75.786946,census_place
+Wrightsville,PA,40.023875,-76.531207,census_place
+Wysox,PA,41.774520,-76.399380,geonames
+York,PA,39.964798,-76.731840,census_place
+York Springs,PA,40.009301,-77.115883,census_place
+Saint-Liboire,QC,45.650680,-72.763480,geonames
+Johnston,RI,41.821860,-71.506750,geonames
+West Greenwich,RI,41.637000,-71.660040,geonames
+Abbeville,SC,34.178544,-82.377687,census_place
+Aiken,SC,33.531594,-81.725073,census_place
+Anderson,SC,34.521487,-82.643517,census_place
+Aynor,SC,34.000231,-79.207116,census_place
+Batesburg,SC,33.907920,-81.547330,geonames
+Beech Island,SC,33.428596,-81.890318,census_place
+Bennettsville,SC,34.628218,-79.685958,census_place
+Bishopville,SC,34.220070,-80.247370,census_place
+Blacksburg,SC,35.121711,-81.517816,census_place
+Blythewood,SC,34.209247,-80.995293,census_place
+Bowman,SC,33.348159,-80.684167,census_place
+Branchville,SC,33.251810,-80.816015,census_place
+Campobello,SC,35.125792,-82.149375,census_place
+Cayce,SC,33.950505,-81.039805,census_place
+Charleston,SC,32.828017,-79.972896,census_place
+Chesnee,SC,35.146508,-81.862858,census_place
+Clinton,SC,34.474051,-81.860588,census_place
+Columbia,SC,34.040326,-80.898071,census_place
+Conway,SC,33.834533,-79.049173,census_place
+Cowpens,SC,35.018601,-81.804158,census_place
+Darlington,SC,34.301231,-79.867194,census_place
+Dillon,SC,34.425179,-79.369294,census_place
+Duncan,SC,34.924196,-82.141758,census_place
+Elgin,SC,34.170241,-80.793003,census_place
+Enoree,SC,34.660170,-81.962437,census_place
+Fair Play,SC,34.508090,-82.986838,census_place
+Florence,SC,34.178923,-79.792217,census_place
+Fort Mill,SC,35.005997,-80.940000,census_place
+Fountain Inn,SC,34.696650,-82.202129,census_place
+Gaffney,SC,35.073582,-81.661490,census_place
+Gaston,SC,33.818388,-81.100440,census_place
+Georgetown,SC,33.372432,-79.280793,census_place
+Gilbert,SC,33.924111,-81.391042,census_place
+Graniteville,SC,33.564682,-81.809231,census_place
+Greenville,SC,34.836902,-82.362997,census_place
+Greenwood,SC,34.195397,-82.153665,census_place
+Greer,SC,34.931799,-82.229115,census_place
+Hardeeville,SC,32.282734,-81.040703,census_place
+Harleyville,SC,33.209517,-80.452707,census_place
+Hartsville,SC,34.366003,-80.083261,census_place
+Hemingway,SC,33.752983,-79.446192,census_place
+Honea Path,SC,34.447690,-82.394988,census_place
+Inman,SC,35.046134,-82.089808,census_place
+Jamestown,SC,33.285912,-79.694650,census_place
+Johns Island,SC,32.769000,-80.102000,geonames
+Ladson,SC,33.009485,-80.107997,census_place
+Lancaster,SC,34.724035,-80.779336,census_place
+Latta,SC,34.338893,-79.434020,census_place
+Laurens,SC,34.502733,-82.021438,census_place
+Leesville,SC,33.916530,-81.513440,geonames
+Lexington,SC,33.992877,-81.221797,census_place
+Longs,SC,33.938510,-78.733070,geonames
+Loris,SC,34.057476,-78.888420,census_place
+Lugoff,SC,34.210809,-80.707671,census_place
+Manning,SC,33.693831,-80.216473,census_place
+Marion,SC,34.178732,-79.395723,census_place
+Moncks Corner,SC,33.201160,-79.991538,census_place
+Newberry,SC,34.282254,-81.601461,census_place
+North Augusta,SC,33.523303,-81.956566,census_place
+North Charleston,SC,32.917188,-80.065424,census_place
+Orangeburg,SC,33.493596,-80.866880,census_place
+Pageland,SC,34.770117,-80.385705,census_place
+Pelzer,SC,34.643148,-82.460313,census_place
+Piedmont,SC,34.705617,-82.466746,census_place
+Prosperity,SC,34.213941,-81.528009,census_place
+Ravenel,SC,32.783370,-80.215432,census_place
+Richburg,SC,34.716263,-81.019804,census_place
+Rock Hill,SC,34.936693,-81.020248,census_place
+Roebuck,SC,34.878987,-81.964442,census_place
+Round O,SC,32.937120,-80.540940,geonames
+Saint George,SC,33.186064,-80.579628,census_place
+Saint Matthews,SC,33.663818,-80.777609,census_place
+Saint Stephen,SC,33.402642,-79.925234,census_place
+Simpsonville,SC,34.728538,-82.256377,census_place
+Society Hill,SC,34.509859,-79.853496,census_place
+Spartanburg,SC,34.945627,-81.925944,census_place
+Summerton,SC,33.602314,-80.352315,census_place
+Summerville,SC,33.005587,-80.177379,census_place
+Sumter,SC,33.940848,-80.395543,census_place
+Timmonsville,SC,34.132922,-79.940341,census_place
+Townville,SC,34.563710,-82.898480,geonames
+Travelers Rest,SC,34.960033,-82.445011,census_place
+Trenton,SC,33.741354,-81.839467,census_place
+Walterboro,SC,32.898291,-80.681355,census_place
+West Columbia,SC,33.989989,-81.099907,census_place
+Williston,SC,33.401663,-81.421899,census_place
+Winnsboro,SC,34.370731,-81.095671,census_place
+Yemassee,SC,32.664919,-80.843486,census_place
+Aberdeen,SD,45.465150,-98.469782,census_place
+Belle Fourche,SD,44.663798,-103.859143,census_place
+Beresford,SD,43.079646,-96.780224,census_place
+Blunt,SD,44.515940,-99.988556,census_place
+Box Elder,SD,44.111158,-103.081573,census_place
+Brandon,SD,43.592908,-96.583769,census_place
+Brookings,SD,44.302416,-96.785336,census_place
+Burbank,SD,42.746080,-96.832718,census_place
+Chamberlain,SD,43.798718,-99.329604,census_place
+Colman,SD,43.983473,-96.814745,census_place
+Elk Point,SD,42.681224,-96.680480,census_place
+Fort Pierre,SD,44.366596,-100.382329,census_place
+Freeman,SD,43.347525,-97.430791,census_place
+Harrisburg,SD,43.434258,-96.712429,census_place
+Hartford,SD,43.621459,-96.934870,census_place
+Hermosa,SD,43.841305,-103.189477,census_place
+Hot Springs,SD,43.419909,-103.468540,census_place
+Huron,SD,44.362341,-98.209571,census_place
+Kadoka,SD,43.828760,-101.501341,census_place
+Kimball,SD,43.746962,-98.956559,census_place
+Lennox,SD,43.349369,-96.894066,census_place
+Milbank,SD,45.219432,-96.633696,census_place
+Mitchell,SD,43.728131,-98.041365,census_place
+Murdo,SD,43.889361,-100.714156,census_place
+New Underwood,SD,44.099650,-102.838283,census_place
+North Sioux City,SD,42.535885,-96.494717,census_place
+Piedmont,SD,44.219913,-103.376821,census_place
+Pierre,SD,44.375163,-100.319996,census_place
+Plankinton,SD,43.715421,-98.483616,census_place
+Rapid City,SD,44.071071,-103.217924,census_place
+Selby,SD,45.505730,-100.032904,census_place
+Sioux Falls,SD,43.540696,-96.731962,census_place
+Spencer,SD,43.727466,-97.591110,census_place
+Summit,SD,45.305573,-97.039106,census_place
+Tea,SD,43.455646,-96.824025,census_place
+Vivian,SD,43.927267,-100.301123,census_place
+Volga,SD,44.321808,-96.922201,census_place
+Watertown,SD,44.909188,-97.155685,census_place
+Winfred,SD,43.998795,-97.361614,census_place
+Wolsey,SD,44.410607,-98.474254,census_place
+Yankton,SD,42.889751,-97.392687,census_place
+Balgonie,SK,50.483380,-104.267780,geonames
+Davidson,SK,51.266760,-105.984490,geonames
+Moose Jaw,SK,50.400050,-105.534450,geonames
+Regina,SK,50.450080,-104.617800,geonames
+Saskatoon,SK,52.132380,-106.668920,geonames
+Yorkton,SK,51.216700,-102.467660,geonames
+Antioch,TN,36.060060,-86.672220,geonames
+Ardmore,TN,35.006392,-86.854474,census_place
+Athens,TN,35.456827,-84.604613,census_place
+Baxter,TN,36.153419,-85.634970,census_place
+Bristol,TN,36.558549,-82.217001,census_place
+Bulls Gap,TN,36.261636,-83.078843,census_place
+Cedar Grove,TN,35.817010,-88.595610,geonames
+Charleston,TN,35.285693,-84.760797,census_place
+Chattanooga,TN,35.065958,-85.248386,census_place
+Christiana,TN,35.719271,-86.412919,census_place
+Clarksville,TN,36.566226,-87.345893,census_place
+Cleveland,TN,35.180044,-84.871288,census_place
+Clinton,TN,36.099501,-84.127857,census_place
+Columbia,TN,35.625616,-87.044232,census_place
+Cookeville,TN,36.146926,-85.512653,census_place
+Cornersville,TN,35.363681,-86.857855,census_place
+Cross Plains,TN,36.541247,-86.676636,census_place
+Crossville,TN,35.951539,-85.030587,census_place
+Crump,TN,35.224859,-88.330789,census_place
+Cumberland City,TN,36.379739,-87.639869,census_place
+Dandridge,TN,36.030124,-83.429831,census_place
+Dayton,TN,35.494965,-85.008643,census_place
+Denmark,TN,35.532850,-89.003950,geonames
+Dickson,TN,36.063324,-87.368854,census_place
+Dyersburg,TN,36.046823,-89.377970,census_place
+Fairview,TN,35.982389,-87.127020,census_place
+Fayetteville,TN,35.150178,-86.562292,census_place
+Franklin,TN,35.914025,-86.852161,census_place
+Goodlettsville,TN,36.332237,-86.703149,census_place
+Gordonsville,TN,36.184670,-85.932460,census_place
+Greeneville,TN,36.168016,-82.819669,census_place
+Hartford,TN,35.816760,-83.143210,geonames
+Heiskell,TN,36.081750,-84.053800,geonames
+Hillsboro,TN,35.404432,-85.954094,census_place
+Holladay,TN,35.871950,-88.144936,census_place
+Hurricane Mills,TN,35.971170,-87.781970,geonames
+Jackson,TN,35.658451,-88.837399,census_place
+Jasper,TN,35.063974,-85.625237,census_place
+Joelton,TN,36.313110,-86.865280,geonames
+Kingsport,TN,36.519370,-82.543393,census_place
+Kingston,TN,35.872666,-84.504490,census_place
+Kingston Springs,TN,36.081868,-87.108965,census_place
+Knoxville,TN,35.970680,-83.949270,census_place
+Kodak,TN,35.974530,-83.626840,geonames
+La Vergne,TN,36.022237,-86.559384,census_place
+Lawrenceburg,TN,35.250517,-87.331844,census_place
+Lebanon,TN,36.198303,-86.345523,census_place
+Lenoir City,TN,35.815836,-84.283015,census_place
+Loudon,TN,35.737244,-84.362102,census_place
+Manchester,TN,35.464125,-86.072895,census_place
+Maryville,TN,35.747810,-83.980234,census_place
+Mason,TN,35.412826,-89.541212,census_place
+Mc Donald,TN,35.108782,-84.985289,census_place
+Memphis,TN,35.109164,-89.968511,census_place
+Monteagle,TN,35.233916,-85.853301,census_place
+Morrison,TN,35.607118,-85.907448,census_place
+Morristown,TN,36.204351,-83.300032,census_place
+Mosheim,TN,36.195896,-82.966668,census_place
+Mount Juliet,TN,36.201848,-86.510506,census_place
+Murfreesboro,TN,35.853915,-86.421224,census_place
+Nashville,TN,36.172178,-86.784602,census_place
+Newport,TN,35.961640,-83.197695,census_place
+Niota,TN,35.517166,-84.549854,census_place
+Paris,TN,36.292739,-88.308062,census_place
+Pioneer,TN,36.417580,-84.314100,geonames
+Pleasant View,TN,36.389266,-87.045493,census_place
+Portland,TN,36.597486,-86.526621,census_place
+Pulaski,TN,35.193299,-87.033542,census_place
+Ramer,TN,35.071873,-88.614889,census_place
+Ripley,TN,35.744425,-89.533331,census_place
+Selmer,TN,35.170593,-88.595102,census_place
+Smyrna,TN,35.967533,-86.525348,census_place
+Stanton,TN,35.461332,-89.401373,census_place
+Sweetwater,TN,35.602623,-84.473378,census_place
+Tazewell,TN,36.462502,-83.567034,census_place
+Unicoi,TN,36.221771,-82.329224,census_place
+Union City,TN,36.427088,-89.047720,census_place
+White House,TN,36.464873,-86.668504,census_place
+White Pine,TN,36.101255,-83.285661,census_place
+Wildersville,TN,35.776654,-88.356143,census_place
+Abbott,TX,31.885139,-97.074106,census_place
+Abilene,TX,32.454514,-99.738147,census_place
+Aledo,TX,32.698282,-97.608341,census_place
+Alice,TX,27.755616,-98.065812,census_place
+Alvarado,TX,32.410345,-97.210767,census_place
+Alvord,TX,33.357052,-97.696224,census_place
+Amarillo,TX,35.199903,-101.830194,census_place
+Anahuac,TX,29.765163,-94.678502,census_place
+Andrews,TX,32.321336,-102.551846,census_place
+Anna,TX,33.348164,-96.553438,census_place
+Anthony,TX,31.986731,-106.598634,census_place
+Asherton,TX,28.446118,-99.760322,census_place
+Aspermont,TX,33.140921,-100.224867,census_place
+Aubrey,TX,33.308550,-96.979088,census_place
+Austin,TX,30.298622,-97.754134,census_place
+Azle,TX,32.895547,-97.539230,census_place
+Baird,TX,32.396067,-99.395993,census_place
+Ballinger,TX,31.739146,-99.955413,census_place
+Bangs,TX,31.716130,-99.130320,census_place
+Bastrop,TX,30.115184,-97.326562,census_place
+Beaumont,TX,30.084912,-94.145330,census_place
+Beeville,TX,28.405244,-97.748931,census_place
+Belton,TX,31.052345,-97.479542,census_place
+Benjamin,TX,33.583606,-99.792932,census_place
+Big Lake,TX,31.194112,-101.453406,census_place
+Big Spring,TX,32.238341,-101.485739,census_place
+Blanco,TX,30.098594,-98.417106,census_place
+Bogata,TX,33.469793,-95.213550,census_place
+Borger,TX,35.659435,-101.402360,census_place
+Bowie,TX,33.557007,-97.846164,census_place
+Brady,TX,31.115378,-99.345935,census_place
+Breckenridge,TX,32.756751,-98.912985,census_place
+Brenham,TX,30.158074,-96.395646,census_place
+Bridgeport,TX,33.213601,-97.775157,census_place
+Bronte,TX,31.886052,-100.295123,census_place
+Brownfield,TX,33.175514,-102.273429,census_place
+Brownsville,TX,25.989404,-97.480625,census_place
+Brownwood,TX,31.712856,-98.977053,census_place
+Bryan,TX,30.666016,-96.381049,census_place
+Buda,TX,30.074520,-97.851239,census_place
+Buffalo,TX,31.458905,-96.066163,census_place
+Buna,TX,30.442920,-93.960337,census_place
+Burnet,TX,30.750693,-98.238331,census_place
+Caddo Mills,TX,33.046886,-96.232169,census_place
+Caldwell,TX,30.529807,-96.699724,census_place
+Cameron,TX,30.860768,-96.976198,census_place
+Canadian,TX,35.909678,-100.383892,census_place
+Canton,TX,32.554245,-95.863534,census_place
+Canutillo,TX,31.918485,-106.601062,census_place
+Canyon,TX,34.990291,-101.918951,census_place
+Carrizo Springs,TX,28.525843,-99.859255,census_place
+Carrollton,TX,32.989071,-96.899694,census_place
+Carthage,TX,32.152046,-94.337111,census_place
+Castroville,TX,29.362271,-98.854753,census_place
+Catarina,TX,28.350178,-99.615258,census_place
+Cedar Creek,TX,30.082341,-97.511120,census_place
+Centerville,TX,31.258315,-95.979399,census_place
+Chappell Hill,TX,30.142720,-96.256910,geonames
+Childress,TX,34.435452,-100.282382,census_place
+Chillicothe,TX,34.255741,-99.514142,census_place
+Cisco,TX,32.387425,-98.981920,census_place
+Clarendon,TX,34.936913,-100.892111,census_place
+Claude,TX,35.107367,-101.362882,census_place
+Clifton,TX,31.782586,-97.584316,census_place
+Clint,TX,31.590195,-106.228679,census_place
+Clyde,TX,32.405586,-99.503918,census_place
+Coleman,TX,31.831378,-99.422201,census_place
+Colorado City,TX,32.399486,-100.858304,census_place
+Comanche,TX,31.900484,-98.604364,census_place
+Combes,TX,26.246514,-97.726766,census_place
+Comfort,TX,29.972311,-98.904698,census_place
+Converse,TX,29.512488,-98.304625,census_place
+Corpus Christi,TX,27.754252,-97.173385,census_place
+Corrigan,TX,30.998809,-94.827486,census_place
+Corsicana,TX,32.082404,-96.466700,census_place
+Cotulla,TX,28.436376,-99.236711,census_place
+Crane,TX,31.391782,-102.350269,census_place
+Cross Plains,TX,32.127068,-99.165775,census_place
+Crowell,TX,33.983561,-99.724374,census_place
+Cuero,TX,29.102741,-97.287081,census_place
+Daingerfield,TX,33.030488,-94.725880,census_place
+Dalhart,TX,36.057513,-102.512290,census_place
+Dallas,TX,32.793333,-96.766513,census_place
+De Leon,TX,32.111350,-98.535156,census_place
+Decatur,TX,33.226466,-97.587208,census_place
+Del Rio,TX,29.373045,-100.881851,census_place
+Denison,TX,33.766936,-96.580667,census_place
+Denton,TX,33.217449,-97.141346,census_place
+Denver City,TX,32.967871,-102.832225,census_place
+Devine,TX,29.145834,-98.904985,census_place
+Diboll,TX,31.188735,-94.780741,census_place
+Dilley,TX,28.667517,-99.176465,census_place
+Donna,TX,26.163068,-98.034138,census_place
+Dripping Springs,TX,30.195936,-98.093701,census_place
+Dublin,TX,32.087765,-98.338865,census_place
+Dumas,TX,35.862020,-101.964972,census_place
+Eagle Pass,TX,28.701071,-100.476229,census_place
+Early,TX,31.742153,-98.936602,census_place
+Eastland,TX,32.402156,-98.817671,census_place
+Eden,TX,31.216246,-99.843965,census_place
+Edinburg,TX,26.318374,-98.153480,census_place
+El Paso,TX,31.847780,-106.431106,census_place
+Electra,TX,34.032294,-98.920245,census_place
+Elgin,TX,30.354174,-97.392149,census_place
+Elmendorf,TX,29.252612,-98.313954,census_place
+Encinal,TX,28.040475,-99.354489,census_place
+Ennis,TX,32.325067,-96.633799,census_place
+Fabens,TX,31.517546,-106.135068,census_place
+Fairfield,TX,31.717440,-96.170483,census_place
+Falfurrias,TX,27.224410,-98.145191,census_place
+Flatonia,TX,29.689710,-97.105205,census_place
+Floresville,TX,29.146743,-98.165173,census_place
+Fort Stockton,TX,30.892574,-102.884210,census_place
+Fort Worth,TX,32.781954,-97.348573,census_place
+Franklin,TX,31.025014,-96.487494,census_place
+Freer,TX,27.882178,-98.617385,census_place
+Friona,TX,34.639435,-102.723119,census_place
+Fritch,TX,35.643066,-101.596432,census_place
+Gainesville,TX,33.638647,-97.148413,census_place
+Garland,TX,32.909826,-96.630334,census_place
+Gatesville,TX,31.438667,-97.746027,census_place
+George West,TX,28.330000,-98.118304,census_place
+Georgetown,TX,30.668155,-97.698775,census_place
+Giddings,TX,30.183667,-96.928029,census_place
+Glen Rose,TX,32.246824,-97.748052,census_place
+Godley,TX,32.462178,-97.533084,census_place
+Goldthwaite,TX,31.450806,-98.573520,census_place
+Gonzales,TX,29.512549,-97.447205,census_place
+Gordon,TX,32.545546,-98.367183,census_place
+Granbury,TX,32.448383,-97.770090,census_place
+Grand Prairie,TX,32.672226,-97.027343,census_place
+Haltom City,TX,32.817698,-97.271152,census_place
+Hamilton,TX,31.700387,-98.119669,census_place
+Hamshire,TX,29.855512,-94.319525,census_place
+Hankamer,TX,29.858280,-94.626860,geonames
+Harlingen,TX,26.192237,-97.696157,census_place
+Harrold,TX,34.067570,-99.033091,census_place
+Haskell,TX,33.159775,-99.732032,census_place
+Haslet,TX,32.965915,-97.340181,census_place
+Hawley,TX,32.606696,-99.810163,census_place
+Hearne,TX,30.877062,-96.595217,census_place
+Hebbronville,TX,27.324984,-98.685665,census_place
+Henrietta,TX,33.814307,-98.192773,census_place
+Hereford,TX,34.822603,-102.400163,census_place
+Hermleigh,TX,32.640775,-100.750485,census_place
+Hewitt,TX,31.451248,-97.193315,census_place
+Hidalgo,TX,26.108943,-98.246160,census_place
+Hillsboro,TX,32.007831,-97.115652,census_place
+Hondo,TX,29.354242,-99.161846,census_place
+Hooks,TX,33.470695,-94.286542,census_place
+Horseshoe Bay,TX,30.540750,-98.380615,census_place
+Huntsville,TX,30.700223,-95.554711,census_place
+Hutchins,TX,32.643392,-96.709833,census_place
+Hutto,TX,30.541624,-97.544249,census_place
+Idalou,TX,33.662399,-101.683697,census_place
+Ingleside,TX,27.870608,-97.207906,census_place
+Iowa Park,TX,33.962773,-98.680872,census_place
+Irving,TX,32.857673,-96.969481,census_place
+Italy,TX,32.186464,-96.885789,census_place
+Jacksboro,TX,33.229153,-98.160792,census_place
+Jacksonville,TX,31.959514,-95.265705,census_place
+Jarrell,TX,30.810264,-97.615122,census_place
+Jasper,TX,30.922681,-93.993251,census_place
+Jefferson,TX,32.763494,-94.350835,census_place
+Joaquin,TX,31.965579,-94.048368,census_place
+Jourdanton,TX,28.914045,-98.540806,census_place
+Junction,TX,30.490759,-99.773222,census_place
+Karnes City,TX,28.885410,-97.900505,census_place
+Kemp,TX,32.438286,-96.225646,census_place
+Kermit,TX,31.853913,-103.092387,census_place
+Killeen,TX,31.075273,-97.731617,census_place
+Kingsville,TX,27.509201,-97.861028,census_place
+Kosse,TX,31.307383,-96.629361,census_place
+Kyle,TX,29.994118,-97.883322,census_place
+La Feria,TX,26.155307,-97.825027,census_place
+La Vernia,TX,29.353246,-98.126163,census_place
+La Villa,TX,26.296308,-97.926912,census_place
+Lamesa,TX,32.733338,-101.953773,census_place
+Lampasas,TX,31.064037,-98.182783,census_place
+Laredo,TX,27.560379,-99.489181,census_place
+Leakey,TX,29.725365,-99.763068,census_place
+Lenorah,TX,32.304560,-101.876250,geonames
+Liberty,TX,30.038834,-94.788803,census_place
+Liberty Hill,TX,30.663377,-97.905506,census_place
+Lindale,TX,32.494132,-95.407344,census_place
+Littlefield,TX,33.919183,-102.334804,census_place
+Livingston,TX,30.710043,-94.937930,census_place
+Llano,TX,30.751007,-98.676524,census_place
+Longview,TX,32.520234,-94.761114,census_place
+Lorena,TX,31.383111,-97.210204,census_place
+Lott,TX,31.206257,-97.033576,census_place
+Lubbock,TX,33.561901,-101.888883,census_place
+Lufkin,TX,31.322904,-94.729026,census_place
+Luling,TX,29.681747,-97.646696,census_place
+Lumberton,TX,30.255733,-94.207864,census_place
+Lytle,TX,29.233189,-98.794650,census_place
+Madisonville,TX,30.954018,-95.909285,census_place
+Marble Falls,TX,30.560168,-98.277286,census_place
+Marion,TX,29.572320,-98.142419,census_place
+Marlin,TX,31.308039,-96.893180,census_place
+Marshall,TX,32.539159,-94.353173,census_place
+Mason,TX,30.747713,-99.228603,census_place
+Mathis,TX,28.090919,-97.817047,census_place
+Maxwell,TX,29.881050,-97.793340,geonames
+Mcallen,TX,26.224966,-98.246083,census_place
+Memphis,TX,34.726733,-100.541655,census_place
+Mentone,TX,31.707438,-103.598875,census_place
+Mercedes,TX,26.153818,-97.912907,census_place
+Meridian,TX,31.926600,-97.649091,census_place
+Merkel,TX,32.469731,-100.011096,census_place
+Mesquite,TX,32.759550,-96.584164,census_place
+Mexia,TX,31.680693,-96.483203,census_place
+Midland,TX,32.024174,-102.113307,census_place
+Midlothian,TX,32.468198,-96.990724,census_place
+Milford,TX,32.121506,-96.950010,census_place
+Millsap,TX,32.749910,-98.011469,census_place
+Mineral Wells,TX,32.820740,-98.077212,census_place
+Mission,TX,26.204060,-98.325221,census_place
+Monahans,TX,31.672557,-103.083824,census_place
+Moore,TX,29.057906,-99.005800,census_place
+Morton,TX,33.724820,-102.759210,census_place
+Mount Enterprise,TX,31.911639,-94.682767,census_place
+Mount Pleasant,TX,33.158236,-94.974468,census_place
+Mount Vernon,TX,33.177431,-95.224447,census_place
+Muleshoe,TX,34.229225,-102.728330,census_place
+Nacogdoches,TX,31.612364,-94.652046,census_place
+Natalia,TX,29.185438,-98.852198,census_place
+Navasota,TX,30.386923,-96.089807,census_place
+Nederland,TX,29.969288,-94.001714,census_place
+New Boston,TX,33.461110,-94.419096,census_place
+New Braunfels,TX,29.699306,-98.115127,census_place
+New Deal,TX,33.730898,-101.843846,census_place
+Nixon,TX,29.269670,-97.765876,census_place
+Odem,TX,27.946241,-97.587518,census_place
+Odessa,TX,31.880461,-102.345314,census_place
+Odonnell,TX,32.965202,-101.830842,census_place
+Olmito,TX,26.027634,-97.539986,census_place
+Orange,TX,30.123528,-93.754548,census_place
+Orange Grove,TX,27.956203,-97.938553,census_place
+Orla,TX,31.825130,-103.908810,geonames
+Ozona,TX,30.707399,-101.206059,census_place
+Paige,TX,30.213041,-97.125801,census_place
+Palmer,TX,32.426731,-96.673833,census_place
+Pampa,TX,35.547853,-100.965030,census_place
+Panhandle,TX,35.346300,-101.380508,census_place
+Paris,TX,33.668929,-95.546616,census_place
+Pearsall,TX,28.892921,-99.097169,census_place
+Pecos,TX,31.422910,-103.493230,geonames
+Perryton,TX,36.392868,-100.797656,census_place
+Pflugerville,TX,30.446596,-97.601326,census_place
+Pharr,TX,26.163436,-98.193890,census_place
+Plains,TX,33.188332,-102.821480,census_place
+Plainview,TX,34.191118,-101.723500,census_place
+Pleasanton,TX,28.964036,-98.495963,census_place
+Post,TX,33.190910,-101.381519,census_place
+Prairie Hill,TX,31.655170,-96.788880,geonames
+Premont,TX,27.358516,-98.124430,census_place
+Pyote,TX,31.538066,-103.122483,census_place
+Quanah,TX,34.295366,-99.742889,census_place
+Queen City,TX,33.150196,-94.153230,census_place
+Ranger,TX,32.469491,-98.675740,census_place
+Rankin,TX,31.225360,-101.939438,census_place
+Red Oak,TX,32.509650,-96.783477,census_place
+Refugio,TX,28.307445,-97.274981,census_place
+Rhome,TX,33.078895,-97.493199,census_place
+Rice,TX,32.237511,-96.495612,census_place
+Rio Grande City,TX,26.381001,-98.821481,census_place
+Riviera,TX,27.299534,-97.798090,census_place
+Roanoke,TX,33.014743,-97.229034,census_place
+Roans Prairie,TX,30.584370,-95.943840,geonames
+Robert Lee,TX,31.895705,-100.485006,census_place
+Robstown,TX,27.793972,-97.669162,census_place
+Rockport,TX,28.047778,-97.049877,census_place
+Rockwall,TX,32.918056,-96.438050,census_place
+Ropesville,TX,33.413334,-102.155102,census_place
+Roscoe,TX,32.441934,-100.532231,census_place
+Round Mountain,TX,30.394346,-98.361174,census_place
+Royse City,TX,32.972680,-96.318340,census_place
+Salado,TX,30.948383,-97.528499,census_place
+San Angelo,TX,31.441078,-100.450499,census_place
+San Antonio,TX,29.459775,-98.524263,census_place
+San Augustine,TX,31.529899,-94.110894,census_place
+San Marcos,TX,29.873334,-97.935737,census_place
+Sanger,TX,33.379576,-97.163775,census_place
+Santa Anna,TX,31.736914,-99.325425,census_place
+Santo,TX,32.605585,-98.213845,census_place
+Schertz,TX,29.563372,-98.250848,census_place
+Seagoville,TX,32.653383,-96.545058,census_place
+Seguin,TX,29.590227,-97.968607,census_place
+Seminole,TX,32.722194,-102.649813,census_place
+Seymour,TX,33.595464,-99.258111,census_place
+Shamrock,TX,35.215398,-100.246086,census_place
+Sierra Blanca,TX,31.183426,-105.339540,census_place
+Silverton,TX,34.471372,-101.304049,census_place
+Sinton,TX,28.037188,-97.501457,census_place
+Slaton,TX,33.445472,-101.650919,census_place
+Smyer,TX,33.587382,-102.163501,census_place
+Snyder,TX,32.713561,-100.911902,census_place
+Sonora,TX,30.570654,-100.641767,census_place
+Sour Lake,TX,30.137746,-94.404277,census_place
+Springtown,TX,32.969300,-97.680424,census_place
+Spur,TX,33.476582,-100.850215,census_place
+Stamford,TX,33.046193,-99.597021,census_place
+Stanton,TX,32.131695,-101.792457,census_place
+Stephenville,TX,32.214544,-98.219885,census_place
+Sterling City,TX,31.839175,-100.985878,census_place
+Stockdale,TX,29.235974,-97.963888,census_place
+Stratford,TX,36.337568,-102.076030,census_place
+Sudan,TX,34.066414,-102.524194,census_place
+Sulphur Springs,TX,33.131347,-95.594921,census_place
+Sweetwater,TX,32.469389,-100.408651,census_place
+Teague,TX,31.629487,-96.280818,census_place
+Temple,TX,31.104936,-97.388512,census_place
+Tenaha,TX,31.943709,-94.245706,census_place
+Terrell,TX,32.735680,-96.282490,census_place
+Texarkana,TX,33.449204,-94.085008,census_place
+Texline,TX,36.376494,-103.018876,census_place
+Three Rivers,TX,28.466853,-98.177947,census_place
+Tilden,TX,28.459855,-98.548677,census_place
+Timpson,TX,31.906912,-94.397056,census_place
+Trenton,TX,33.426257,-96.344594,census_place
+Trinity,TX,30.944452,-95.373563,census_place
+Troy,TX,31.193975,-97.300295,census_place
+Tulia,TX,34.537864,-101.774434,census_place
+Tuscola,TX,32.211560,-99.798256,census_place
+Tye,TX,32.452233,-99.866585,census_place
+Uvalde,TX,29.215184,-99.777215,census_place
+Van Horn,TX,31.040670,-104.834156,census_place
+Vega,TX,35.245302,-102.429247,census_place
+Vernon,TX,34.147664,-99.300427,census_place
+Vidor,TX,30.128139,-93.991733,census_place
+Von Ormy,TX,29.277391,-98.657373,census_place
+Waco,TX,31.557886,-97.190841,census_place
+Wall,TX,31.374050,-100.307590,geonames
+Waxahachie,TX,32.402480,-96.844493,census_place
+Weatherford,TX,32.755397,-97.765731,census_place
+Weslaco,TX,26.160549,-97.987654,census_place
+White Deer,TX,35.433397,-101.175846,census_place
+Whitesboro,TX,33.659580,-96.903694,census_place
+Whitney,TX,31.952447,-97.319770,census_place
+Wichita Falls,TX,33.906654,-98.525848,census_place
+Wickett,TX,31.567325,-103.005948,census_place
+Wilmer,TX,32.597428,-96.680905,census_place
+Winfield,TX,33.165434,-95.111225,census_place
+Wink,TX,31.754497,-103.154117,census_place
+Winnie,TX,29.816716,-94.380673,census_place
+Winters,TX,31.949127,-99.959308,census_place
+Wolfforth,TX,33.508770,-102.005554,census_place
+Woodville,TX,30.774433,-94.422454,census_place
+Woodway,TX,31.498334,-97.230789,census_place
+Wylie,TX,33.029273,-96.527140,census_place
+American Fork,UT,40.377877,-111.795074,census_place
+Beaver,UT,38.275872,-112.638098,census_place
+Brigham City,UT,41.505904,-112.051418,census_place
+Castle Dale,UT,39.221661,-111.022676,census_place
+Cedar City,UT,37.683877,-113.095790,census_place
+Clearfield,UT,41.097012,-112.017920,census_place
+Corinne,UT,41.551464,-112.125015,census_place
+Draper,UT,40.497150,-111.864636,census_place
+Fillmore,UT,38.964501,-112.338349,census_place
+Green River,UT,38.993453,-110.169496,census_place
+Gunnison,UT,39.156930,-111.813516,census_place
+Helper,UT,39.689628,-110.859599,census_place
+Logan,UT,41.740138,-111.843754,census_place
+Magna,UT,40.750819,-112.191221,census_place
+Moab,UT,38.570074,-109.547801,census_place
+Mona,UT,39.812063,-111.841492,census_place
+Monticello,UT,37.868534,-109.336200,census_place
+Myton,UT,40.193265,-110.062512,census_place
+Nephi,UT,39.704452,-111.833542,census_place
+North Salt Lake,UT,40.847116,-111.918780,census_place
+Ogden,UT,41.228391,-111.968147,census_place
+Orem,UT,40.298067,-111.699463,census_place
+Park City,UT,40.657230,-111.493701,census_place
+Parowan,UT,37.833351,-112.829827,census_place
+Plymouth,UT,41.873587,-112.146778,census_place
+Richfield,UT,38.761241,-112.092906,census_place
+Riverton,UT,40.517634,-111.963515,census_place
+Roosevelt,UT,40.287727,-109.987983,census_place
+SALINA,UT,38.938839,-111.865209,census_place
+Saint George,UT,37.077006,-113.576534,census_place
+Salina,UT,38.938839,-111.865209,census_place
+Salt Lake City,UT,40.775366,-111.927266,census_place
+Santaquin,UT,39.969893,-111.794431,census_place
+Scipio,UT,39.249080,-112.104411,census_place
+Snowville,UT,41.972822,-112.716407,census_place
+Springville,UT,40.164273,-111.619525,census_place
+Tooele,UT,40.539396,-112.307843,census_place
+Tremonton,UT,41.717022,-112.187348,census_place
+Vernal,UT,40.451670,-109.538086,census_place
+Washington,UT,37.126675,-113.487760,census_place
+Wellington,UT,39.535860,-110.734374,census_place
+Wellsville,UT,41.623416,-111.942094,census_place
+Wendover,UT,40.724025,-114.025097,census_place
+West Jordan,UT,40.602862,-112.001544,census_place
+Willard,UT,41.404333,-112.042742,census_place
+Woods Cross,UT,40.872911,-111.917482,census_place
+Amelia Court House,VA,37.335858,-77.986639,census_place
+Ashland,VA,37.760417,-77.472414,census_place
+Atkins,VA,36.866981,-81.398573,census_place
+Austinville,VA,36.851018,-80.914507,census_place
+Bassett,VA,36.761517,-79.986551,census_place
+Bastian,VA,37.153528,-81.152495,census_place
+Bealeton,VA,38.583015,-77.778763,census_place
+Blairs,VA,36.700267,-79.378992,census_place
+Bland,VA,37.099492,-81.115765,census_place
+Bracey,VA,36.576820,-78.106931,census_place
+Bristol,VA,36.617213,-82.157548,census_place
+Broadway,VA,38.608485,-78.801366,census_place
+Cape Charles,VA,37.250842,-76.009662,census_place
+Chantilly,VA,38.889180,-77.442088,census_place
+Charlottesville,VA,38.037658,-78.485381,census_place
+Chesapeake,VA,36.679376,-76.301788,census_place
+Chester,VA,37.352045,-77.433695,census_place
+Chesterfield,VA,37.377090,-77.505820,geonames
+Christiansburg,VA,37.140663,-80.404512,census_place
+Clear Brook,VA,39.256490,-78.096110,geonames
+Colonial Heights,VA,37.261685,-77.396804,census_place
+Covington,VA,37.781060,-79.985434,census_place
+Cross Junction,VA,39.320380,-78.293340,geonames
+Culpeper,VA,38.470292,-77.999764,census_place
+Danville,VA,36.581754,-79.408258,census_place
+Disputanta,VA,37.123551,-77.224856,census_place
+Doswell,VA,37.860140,-77.464150,geonames
+Drewryville,VA,36.715710,-77.306360,geonames
+Dublin,VA,37.105503,-80.689700,census_place
+Duffield,VA,36.719629,-82.795967,census_place
+Elliston,VA,37.223236,-80.215439,census_place
+Emporia,VA,36.696182,-77.535975,census_place
+Fairfax,VA,38.853183,-77.299025,census_place
+Fancy Gap,VA,36.671266,-80.700997,census_place
+Franklin,VA,36.684014,-76.941396,census_place
+Fredericksburg,VA,38.299272,-77.486658,census_place
+Front Royal,VA,38.924952,-78.183426,census_place
+Glade Spring,VA,36.789944,-81.772253,census_place
+Gladstone,VA,37.546810,-78.849460,geonames
+Gordonsville,VA,38.135552,-78.187406,census_place
+Gum Spring,VA,37.775700,-77.896660,geonames
+Hampton,VA,37.047961,-76.297293,census_place
+Harrisonburg,VA,38.436255,-78.873303,census_place
+Henrico,VA,36.592640,-78.616110,geonames
+Hillsville,VA,36.761613,-80.736703,census_place
+Hopewell,VA,37.291010,-77.298944,census_place
+Keysville,VA,37.038989,-78.480437,census_place
+King George,VA,38.279436,-77.184308,census_place
+Lambsburg,VA,36.585410,-80.761180,geonames
+Lanexa,VA,37.423760,-76.901080,geonames
+Leesburg,VA,39.102847,-77.554525,census_place
+Lexington,VA,37.782332,-79.444320,census_place
+Lorton,VA,38.698722,-77.216649,census_place
+Lynchburg,VA,37.399069,-79.195294,census_place
+Madison Heights,VA,37.450301,-79.108210,census_place
+Manassas,VA,38.746808,-77.482633,census_place
+Martinsville,VA,36.683527,-79.863647,census_place
+Max Meadows,VA,36.979770,-80.961821,census_place
+Meadowview,VA,36.763709,-81.883535,census_place
+Midlothian,VA,37.484385,-77.649575,census_place
+Montvale,VA,37.385171,-79.725502,census_place
+Mount Crawford,VA,38.362372,-78.941645,census_place
+Mount Jackson,VA,38.738878,-78.650918,census_place
+New Church,VA,37.983247,-75.529065,census_place
+Newport News,VA,37.076456,-76.520641,census_place
+Norfolk,VA,36.923015,-76.244641,census_place
+Orange,VA,38.247845,-78.113187,census_place
+Petersburg,VA,37.204730,-77.392368,census_place
+Portsmouth,VA,36.863852,-76.362368,census_place
+Pound,VA,37.126087,-82.607374,census_place
+Powhatan,VA,37.542121,-77.927083,census_place
+Providence Forge,VA,37.441810,-77.043580,geonames
+Quinton,VA,37.533760,-77.121080,geonames
+Raphine,VA,37.937350,-79.232810,geonames
+Richmond,VA,37.531399,-77.476009,census_place
+Ridgeway,VA,36.578174,-79.858290,census_place
+Roanoke,VA,37.278458,-79.958174,census_place
+Rockville,VA,37.725980,-77.678320,geonames
+Rocky Mount,VA,37.004398,-79.884762,census_place
+Rosedale,VA,36.959280,-81.931240,geonames
+Ruckersville,VA,38.228074,-78.377405,census_place
+Rural Retreat,VA,36.905132,-81.277250,census_place
+Rustburg,VA,37.272266,-79.100276,census_place
+Ruther Glen,VA,37.928750,-77.455820,geonames
+Salem,VA,37.285333,-80.055241,census_place
+Sandston,VA,37.513062,-77.313008,census_place
+Skippers,VA,36.611820,-77.546650,geonames
+South Boston,VA,36.711825,-78.913354,census_place
+South Hill,VA,36.725662,-78.128886,census_place
+Springfield,VA,38.781571,-77.183921,census_place
+Staunton,VA,38.157978,-79.061876,census_place
+Sterling,VA,39.004733,-77.405368,census_place
+Stony Creek,VA,36.948010,-77.400067,census_place
+Suffolk,VA,36.697157,-76.634781,census_place
+Toms Brook,VA,38.946542,-78.440046,census_place
+Townsend,VA,37.184590,-75.958260,geonames
+Troutville,VA,37.416654,-79.878096,census_place
+Troy,VA,37.950970,-78.246390,geonames
+Virginia Beach,VA,36.779113,-76.028450,census_place
+Warfield,VA,36.895984,-77.818997,census_place
+Warrenton,VA,38.715376,-77.797563,census_place
+Warsaw,VA,37.960312,-76.761188,census_place
+Waynesboro,VA,38.067157,-78.901420,census_place
+Winchester,VA,39.173869,-78.176356,census_place
+Woodford,VA,38.113190,-77.408870,geonames
+Wytheville,VA,36.953385,-81.088438,census_place
+Alburgh,VT,44.977315,-73.305912,census_place
+Bellows Falls,VT,43.134772,-72.458913,census_place
+Brattleboro,VT,42.861515,-72.559571,census_place
+Derby,VT,44.951714,-72.136110,census_cousub
+Fair Haven,VT,43.594175,-73.280372,census_place
+Ferrisburgh,VT,44.205610,-73.246230,geonames
+Montpelier,VT,44.266448,-72.571524,census_place
+Rutland,VT,43.609670,-72.977788,census_place
+Saint Albans,VT,44.811538,-73.084462,census_place
+Saint Johnsbury,VT,44.430445,-72.008582,census_place
+Springfield,VT,43.296641,-72.481870,census_place
+Swanton,VT,44.924538,-73.119353,census_place
+Wells River,VT,44.156476,-72.067979,census_place
+Arlington,WA,48.170372,-122.144553,census_place
+Bellingham,WA,48.753442,-122.470179,census_place
+Blaine,WA,48.987190,-122.748770,census_place
+Castle Rock,WA,46.271918,-122.903718,census_place
+Chehalis,WA,46.664176,-122.965425,census_place
+Ellensburg,WA,47.000124,-120.549540,census_place
+Federal Way,WA,47.311596,-122.337757,census_place
+Ferndale,WA,48.853366,-122.590232,census_place
+George,WA,47.083149,-119.861683,census_place
+Granger,WA,46.345295,-120.192673,census_place
+Kalama,WA,46.017142,-122.841937,census_place
+Kent,WA,47.390008,-122.213528,census_place
+Longview,WA,46.145707,-122.964299,census_place
+Marysville,WA,48.080214,-122.154312,census_place
+Moses Lake,WA,47.127850,-119.276384,census_place
+North Bend,WA,47.487967,-121.768786,census_place
+Olympia,WA,47.040604,-122.895000,census_place
+Omak,WA,48.422350,-119.530661,census_place
+Pasco,WA,46.266113,-119.121426,census_place
+Prosser,WA,46.209022,-119.767753,census_place
+Ritzville,WA,47.123041,-118.375332,census_place
+Rock Island,WA,47.373167,-120.142076,census_place
+Seattle,WA,47.619335,-122.351538,census_place
+Spokane,WA,47.666935,-117.433322,census_place
+Sprague,WA,47.304889,-117.971290,census_place
+Sumner,WA,47.232355,-122.237776,census_place
+Sunnyside,WA,46.315655,-120.005628,census_place
+Tacoma,WA,47.252199,-122.459832,census_place
+Thorp,WA,47.065483,-120.670837,census_place
+Toledo,WA,46.444721,-122.852230,census_place
+Toppenish,WA,46.380242,-120.312583,census_place
+Tumwater,WA,46.989463,-122.917277,census_place
+Wapato,WA,46.443632,-120.421507,census_place
+Wenatchee,WA,47.435985,-120.329266,census_place
+Yakima,WA,46.590938,-120.549400,census_place
+Abbotsford,WI,44.943486,-90.317339,census_place
+Adams,WI,43.955240,-89.816548,census_place
+Altoona,WI,44.799965,-91.440111,census_place
+Amery,WI,45.304590,-92.363356,census_place
+Antigo,WI,45.141269,-89.155225,census_place
+Appleton,WI,44.279795,-88.388303,census_place
+Arcadia,WI,44.248574,-91.491554,census_place
+Ashland,WI,46.581760,-90.871898,census_place
+Baldwin,WI,44.954096,-92.371826,census_place
+Baraboo,WI,43.468072,-89.738387,census_place
+Barneveld,WI,43.012213,-89.898168,census_place
+Barron,WI,45.402192,-91.844350,census_place
+Bear Creek,WI,44.531318,-88.727536,census_place
+Beaver Dam,WI,43.475368,-88.827871,census_place
+Belgium,WI,43.501807,-87.847551,census_place
+Belleville,WI,42.862334,-89.537640,census_place
+Belmont,WI,42.737670,-90.334319,census_place
+Beloit,WI,42.523506,-89.017660,census_place
+Berlin,WI,43.969729,-88.950033,census_place
+Big Bend,WI,42.883908,-88.203564,census_place
+Black Earth,WI,43.134619,-89.747354,census_place
+Black River Falls,WI,44.300256,-90.836888,census_place
+Blair,WI,44.327131,-91.299402,census_place
+Bloomer,WI,45.102828,-91.491540,census_place
+Bonduel,WI,44.737994,-88.451350,census_place
+Boscobel,WI,43.147139,-90.704895,census_place
+Brillion,WI,44.173510,-88.067823,census_place
+Bristol,WI,42.532323,-88.009098,census_place
+Brodhead,WI,42.616836,-89.375604,census_place
+Brownsville,WI,43.614608,-88.495215,census_place
+Burlington,WI,42.674374,-88.271287,census_place
+Butler,WI,43.108448,-88.072232,census_place
+Cadott,WI,44.949802,-91.153760,census_place
+Cameron,WI,45.403592,-91.739750,census_place
+Camp Douglas,WI,43.919733,-90.269741,census_place
+Cedar Grove,WI,43.568247,-87.822969,census_place
+Chilton,WI,44.030188,-88.161667,census_place
+Chippewa Falls,WI,44.934653,-91.389165,census_place
+Clintonville,WI,44.622120,-88.751714,census_place
+Colgate,WI,43.193060,-88.206760,geonames
+Coloma,WI,44.038651,-89.531148,census_place
+Columbus,WI,43.336805,-89.029988,census_place
+Combined Locks,WI,44.261909,-88.305102,census_place
+Cottage Grove,WI,43.092381,-89.205191,census_place
+Crivitz,WI,45.233350,-88.006947,census_place
+Cumberland,WI,45.537981,-92.031977,census_place
+Curtiss,WI,44.952767,-90.439585,census_place
+Darien,WI,42.599001,-88.714273,census_place
+Darlington,WI,42.675803,-90.120814,census_place
+De Forest,WI,43.229777,-89.345486,census_place
+De Pere,WI,44.429327,-88.080370,census_place
+Denmark,WI,44.349336,-87.831198,census_place
+Dodgeville,WI,42.965986,-90.129723,census_place
+Durand,WI,44.628500,-91.955793,census_place
+East Troy,WI,42.785184,-88.395573,census_place
+Eau Claire,WI,44.818343,-91.494769,census_place
+Edgar,WI,44.922851,-89.962611,census_place
+Edgerton,WI,42.838947,-89.069571,census_place
+Elkhorn,WI,42.671601,-88.536256,census_place
+Endeavor,WI,43.714386,-89.469166,census_place
+Fennimore,WI,42.985668,-90.653242,census_place
+Fond Du Lac,WI,43.772182,-88.440264,census_place
+Fort Atkinson,WI,42.913981,-88.855090,census_place
+Fox Lake,WI,43.561568,-88.914752,census_place
+Francis Creek,WI,44.200532,-87.720911,census_place
+Franksville,WI,42.760020,-87.913410,geonames
+Fremont,WI,44.260335,-88.874436,census_place
+Friendship,WI,43.971746,-89.820016,census_place
+Green Bay,WI,44.521542,-87.986568,census_place
+Hartford,WI,43.322467,-88.377737,census_place
+Hartland,WI,43.102352,-88.335595,census_place
+Hayward,WI,46.006588,-91.489684,census_place
+Hixton,WI,44.383081,-91.014800,census_place
+Holmen,WI,43.971196,-91.266515,census_place
+Horicon,WI,43.445001,-88.640328,census_place
+Hortonville,WI,44.335766,-88.636599,census_place
+Hudson,WI,44.963882,-92.730253,census_place
+Janesville,WI,42.684698,-89.013170,census_place
+Jefferson,WI,43.003955,-88.808473,census_place
+Johnson Creek,WI,43.079053,-88.771069,census_place
+Kaukauna,WI,44.276791,-88.263857,census_place
+Kenosha,WI,42.587526,-87.879996,census_place
+Kewaskum,WI,43.519295,-88.231403,census_place
+Kieler,WI,42.582306,-90.605183,census_place
+La Crosse,WI,43.825075,-91.224570,census_place
+Ladysmith,WI,45.460974,-91.097573,census_place
+Lake Mills,WI,43.077639,-88.906411,census_place
+Larsen,WI,44.191650,-88.624000,geonames
+Lena,WI,44.953037,-88.047325,census_place
+Little Chute,WI,44.291128,-88.320399,census_place
+Lomira,WI,43.594110,-88.442393,census_place
+Luxemburg,WI,44.544225,-87.706741,census_place
+Lyndon Station,WI,43.708788,-89.893654,census_place
+Madison,WI,43.087815,-89.429856,census_place
+Manitowoc,WI,44.097981,-87.678945,census_place
+Maribel,WI,44.278597,-87.802126,census_place
+Marinette,WI,45.086794,-87.632443,census_place
+Marshall,WI,43.170486,-89.062647,census_place
+Marshfield,WI,44.663291,-90.171736,census_place
+Mauston,WI,43.799976,-90.079554,census_place
+Medford,WI,45.135634,-90.342467,census_place
+Menasha,WI,44.212338,-88.427357,census_place
+Menomonie,WI,44.889187,-91.909810,census_place
+Merrill,WI,45.180635,-89.700339,census_place
+Middleton,WI,43.106959,-89.506340,census_place
+Milton,WI,42.774675,-88.939991,census_place
+Milwaukee,WI,43.063348,-87.966695,census_place
+Mondovi,WI,44.570255,-91.666851,census_place
+Monroe,WI,42.603432,-89.636505,census_place
+Mount Horeb,WI,43.005939,-89.731704,census_place
+Mukwonago,WI,42.852988,-88.320626,census_place
+Necedah,WI,44.022091,-90.075051,census_place
+Neenah,WI,44.164575,-88.480038,census_place
+Neillsville,WI,44.560267,-90.591593,census_place
+New Berlin,WI,42.972000,-88.129168,census_place
+New Holstein,WI,43.949222,-88.094881,census_place
+New Lisbon,WI,43.875292,-90.162379,census_place
+New London,WI,44.395910,-88.738610,census_place
+New Richmond,WI,45.125235,-92.548100,census_place
+Oak Creek,WI,42.878693,-87.898676,census_place
+Oakdale,WI,43.962167,-90.379118,census_place
+Omro,WI,44.038973,-88.736994,census_place
+Onalaska,WI,43.890002,-91.204190,census_place
+Oostburg,WI,43.624134,-87.788108,census_place
+Osceola,WI,45.319253,-92.695792,census_place
+Oshkosh,WI,44.023168,-88.562260,census_place
+Osseo,WI,44.579831,-91.213829,census_place
+Park Falls,WI,45.936358,-90.443969,census_place
+Peshtigo,WI,45.059392,-87.749483,census_place
+Pewaukee,WI,43.066141,-88.244465,census_place
+Phillips,WI,45.693888,-90.405493,census_place
+Plainfield,WI,44.217499,-89.496926,census_place
+Platteville,WI,42.727923,-90.468103,census_place
+Plover,WI,44.462020,-89.537971,census_place
+Plymouth,WI,43.743303,-87.965664,census_place
+Portage,WI,43.548951,-89.465866,census_place
+Poynette,WI,43.393060,-89.405384,census_place
+Prairie Du Chien,WI,43.041618,-91.135408,census_place
+Prairie Du Sac,WI,43.293928,-89.735231,census_place
+Prentice,WI,45.541591,-90.295072,census_place
+Pulaski,WI,44.668206,-88.234279,census_place
+Redgranite,WI,44.053606,-89.115252,census_place
+Reedsburg,WI,43.535051,-89.995509,census_place
+Rhinelander,WI,45.634166,-89.428775,census_place
+Rice Lake,WI,45.485560,-91.743701,census_place
+Richfield,WI,43.243140,-88.234518,census_place
+Richland Center,WI,43.339577,-90.383430,census_place
+Ripon,WI,43.843560,-88.837936,census_place
+River Falls,WI,44.860850,-92.625708,census_place
+Roberts,WI,44.973292,-92.550082,census_place
+Saint Croix Falls,WI,45.411367,-92.624466,census_place
+Saukville,WI,43.388946,-87.943896,census_place
+Schofield,WI,44.913348,-89.621478,census_place
+Seymour,WI,44.514416,-88.327340,census_place
+Sheboygan,WI,43.738713,-87.731531,census_place
+Sheboygan Falls,WI,43.729250,-87.825012,census_place
+Shullsburg,WI,42.573280,-90.234740,census_place
+Somerset,WI,45.125706,-92.672961,census_place
+Sparta,WI,43.938249,-90.812705,census_place
+Spencer,WI,44.753615,-90.298465,census_place
+Spooner,WI,45.825917,-91.886125,census_place
+Stanley,WI,44.959474,-90.947958,census_place
+Stevens Point,WI,44.525300,-89.550377,census_place
+Sturgeon Bay,WI,44.822676,-87.369806,census_place
+Sturtevant,WI,42.698900,-87.901553,census_place
+Suamico,WI,44.626729,-88.033045,census_place
+Superior,WI,46.693164,-92.081086,census_place
+Sussex,WI,43.134854,-88.226041,census_place
+Thorp,WI,44.957957,-90.802185,census_place
+Tomah,WI,43.987927,-90.501437,census_place
+Trego,WI,45.905054,-91.833088,census_place
+Turtle Lake,WI,45.390622,-92.149832,census_place
+Two Rivers,WI,44.156137,-87.577352,census_place
+Verona,WI,42.991265,-89.539247,census_place
+Viroqua,WI,43.560622,-90.886155,census_place
+Watertown,WI,43.189405,-88.728910,census_place
+Waukesha,WI,43.009084,-88.245062,census_place
+Waupaca,WI,44.350048,-89.070003,census_place
+Waupun,WI,43.631547,-88.737534,census_place
+Wausau,WI,44.961766,-89.646538,census_place
+West Bend,WI,43.417492,-88.181685,census_place
+West Salem,WI,43.898534,-91.087453,census_place
+Whitewater,WI,42.837439,-88.734282,census_place
+Wilson,WI,44.958609,-92.170496,census_place
+Windsor,WI,43.245704,-89.281518,census_place
+Winneconne,WI,44.114402,-88.717052,census_place
+Wisconsin Dells,WI,43.638367,-89.775759,census_place
+Wisconsin Rapids,WI,44.392923,-89.826749,census_place
+Wittenberg,WI,44.826881,-89.166583,census_place
+Wonewoc,WI,43.653477,-90.224242,census_place
+Woodruff,WI,45.894436,-89.691154,census_place
+Beckley,WV,37.773222,-81.161545,census_place
+Bruceton Mills,WV,39.659396,-79.640606,census_place
+Buckhannon,WV,38.992734,-80.228243,census_place
+Charleston,WV,38.348692,-81.632324,census_place
+Chester,WV,40.612924,-80.562730,census_place
+Elkins,WV,38.924057,-79.854272,census_place
+Ellenboro,WV,39.270009,-81.055655,census_place
+Fairmont,WV,39.476877,-80.149089,census_place
+Falling Waters,WV,39.563771,-77.887544,census_place
+Gassaway,WV,38.666723,-80.770361,census_place
+Huntington,WV,38.409340,-82.433516,census_place
+Hurricane,WV,38.432265,-82.016672,census_place
+Inwood,WV,39.353822,-78.055191,census_place
+Ivydale,WV,38.535650,-81.034830,geonames
+Jane Lew,WV,39.110783,-80.408009,census_place
+Kearneysville,WV,39.388160,-77.885550,geonames
+Martinsburg,WV,39.457769,-77.978212,census_place
+Mineral Wells,WV,39.181193,-81.514176,census_place
+Moorefield,WV,39.066961,-78.962483,census_place
+Morgantown,WV,39.637487,-79.946854,census_place
+Mount Nebo,WV,38.200110,-80.851210,geonames
+New Martinsville,WV,39.645553,-80.862670,census_place
+Nitro,WV,38.411614,-81.807811,census_place
+Parkersburg,WV,39.261319,-81.543360,census_place
+Richwood,WV,38.222444,-80.537959,census_place
+Ripley,WV,38.821616,-81.709312,census_place
+Sutton,WV,38.667772,-80.713461,census_place
+Teays,WV,38.441760,-81.952910,geonames
+Valley Grove,WV,40.086261,-80.577049,census_place
+West Union,WV,39.296792,-80.778158,census_place
+Alpine,WY,43.172857,-111.020875,census_place
+Buffalo,WY,44.338545,-106.715344,census_place
+Burns,WY,41.190871,-104.359035,census_place
+Casper,WY,42.842120,-106.321282,census_place
+Cheyenne,WY,41.128275,-104.799155,census_place
+Cokeville,WY,42.079237,-110.951898,census_place
+Douglas,WY,42.754773,-105.397802,census_place
+Evanston,WY,41.259365,-110.964288,census_place
+Evansville,WY,42.877834,-106.261204,census_place
+Fort Bridger,WY,41.318335,-110.389387,census_place
+Gillette,WY,44.272580,-105.498936,census_place
+Green River,WY,41.513010,-109.470645,census_place
+Laramie,WY,41.311810,-105.606472,census_place
+Little America,WY,41.549363,-109.884876,census_place
+Lovell,WY,44.835801,-108.391889,census_place
+Lusk,WY,42.761259,-104.458403,census_place
+Lyman,WY,41.327540,-110.297449,census_place
+Midwest,WY,43.411464,-106.276803,census_place
+Mills,WY,42.849882,-106.390830,census_place
+Moorcroft,WY,44.264483,-104.947564,census_place
+Newcastle,WY,43.850271,-104.196487,census_place
+Pine Bluffs,WY,41.180212,-104.074782,census_place
+Rawlins,WY,41.785130,-107.224653,census_place
+Riverton,WY,43.026256,-108.381303,census_place
+Rock Springs,WY,41.594705,-109.220921,census_place
+Sheridan,WY,44.796219,-106.964166,census_place
+Sinclair,WY,41.776084,-107.119940,census_place
+Thayne,WY,42.919886,-110.995255,census_place
+Thermopolis,WY,43.647883,-108.214526,census_place
+Torrington,WY,42.063075,-104.172984,census_place
+Wamsutter,WY,41.667977,-107.979142,census_place
+Wheatland,WY,42.051706,-104.959472,census_place
+Worland,WY,44.020402,-107.961653,census_place
+Wright,WY,43.749153,-105.494834,census_place
+Watson Lake,YT,60.063490,-128.708930,geonames
+Whitehorse,YT,60.716110,-135.053750,geonames
