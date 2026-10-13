@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+
+# Downloaded geodata sources (rebuilt by `manage.py build_geodata`)
+data/raw/
+
+# Local environment
+.env
+.DS_Store
+.idea/
+.vscode/
