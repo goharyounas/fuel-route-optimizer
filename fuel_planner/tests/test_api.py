@@ -115,7 +115,7 @@ def test_assumption_text_follows_the_plan():
 
 def test_no_drivable_route(client, osrm):
     osrm.result = RouteNotFoundError("No drivable route connects these locations.")
-    response = client.get(URL, {"start": "Honolulu, HI", "finish": "Dallas, TX"})
+    response = client.get(URL, {"start": "21.3069,-157.8583", "finish": "Dallas, TX"})  # Honolulu
     assert (response.status_code, response.json()["error"]["code"]) == (422, "route_not_found")
 
 

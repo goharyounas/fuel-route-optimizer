@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 
 import pytest
+import requests
 from django.core.cache import cache
 from django.core.management import call_command
 
@@ -30,6 +31,18 @@ def isolated_state(settings):
     cache.clear()
     get_planner.cache_clear()
     reset_station_index()
+
+
+@pytest.fixture(autouse=True)
+def no_network(request, monkeypatch):
+    """Fail loudly on any real HTTP call; only tests marked ``live`` may reach OSRM / Nominatim."""
+    if request.node.get_closest_marker("live"):
+        return
+
+    def refuse(self, prepared, **kwargs):
+        raise RuntimeError(f"Unmocked HTTP request in a test: {prepared.method} {prepared.url}")
+
+    monkeypatch.setattr(requests.Session, "send", refuse)
 
 
 def recorded_route(name: str = "osrm_chicago_dallas.json") -> RouteData:

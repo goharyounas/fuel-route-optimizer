@@ -19,3 +19,7 @@ data/raw/
 .DS_Store
 .idea/
 .vscode/
+
+# Local dev scratch (exploration scripts, fuzz harness, screenshots)
+.scratch/
+.omc/
