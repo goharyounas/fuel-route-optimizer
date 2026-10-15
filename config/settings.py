@@ -33,6 +33,9 @@ DEBUG = env_bool("DJANGO_DEBUG", False)
 # Fall back to a random per-process key rather than a well-known one.
 SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY") or get_random_secret_key()
 ALLOWED_HOSTS = env_list("DJANGO_ALLOWED_HOSTS", "localhost,127.0.0.1,0.0.0.0,[::1]")
+# Send our origin (not the full URL) to other sites. OpenStreetMap's tile servers reject
+# map tile requests that carry no Referer, which Django's default "same-origin" withholds.
+SECURE_REFERRER_POLICY = "strict-origin-when-cross-origin"
 
 INSTALLED_APPS = [
     "django.contrib.admin",

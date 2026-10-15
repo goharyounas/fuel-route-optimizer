@@ -221,4 +221,4 @@ postman/                 Postman collection with tests and a map visualizer
 - **[Natural Earth](https://www.naturalearthdata.com):** 1:10m country outline (public domain).
 - **Routing:** [OSRM](https://project-osrm.org).
 - **Free-text geocoding:** [Nominatim](https://nominatim.org).
-- **Map tiles:** © OpenStreetMap contributors.
+- **Map tiles:** © OpenStreetMap contributors (map page); Esri World Street Map (Postman visualizer).

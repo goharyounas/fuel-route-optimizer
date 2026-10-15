@@ -143,8 +143,10 @@
         const accent = css.getPropertyValue("--accent").trim();
 
         const map = L.map("map", { preferCanvas: true });
+        // OpenStreetMap's tile servers block requests without a Referer, so send our origin.
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
           maxZoom: 18,
+          referrerPolicy: "strict-origin-when-cross-origin",
           attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
         }).addTo(map);
 
